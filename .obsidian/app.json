@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "Sessions/",
+    "DM Resources/",
+    "Images/",
+    "Templates/"
+  ]
+}

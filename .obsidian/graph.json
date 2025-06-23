@@ -1,0 +1,100 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"NPC's/Baddies\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Gods  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Player Characters\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1845911
+      }
+    },
+    {
+      "query": "path:World  ",
+      "color": {
+        "a": 1,
+        "rgb": 3111215
+      }
+    },
+    {
+      "query": "path:\"NPC's/Allies\" ",
+      "color": {
+        "a": 1,
+        "rgb": 9246339
+      }
+    },
+    {
+      "query": "path:History  ",
+      "color": {
+        "a": 1,
+        "rgb": 6965520
+      }
+    },
+    {
+      "query": "path:Organizations  ",
+      "color": {
+        "a": 1,
+        "rgb": 2901848
+      }
+    },
+    {
+      "query": "  path:NPC's/Neutral  ",
+      "color": {
+        "a": 1,
+        "rgb": 9246339
+      }
+    },
+    {
+      "query": "path:\"NPC's/Inactive or Perished\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2962238
+      }
+    },
+    {
+      "query": "path:\"Things and Objects\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6122031
+      }
+    },
+    {
+      "query": "path:NPC's/Crewmates  ",
+      "color": {
+        "a": 1,
+        "rgb": 5287353
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.5592414090663214,
+  "close": true
+}

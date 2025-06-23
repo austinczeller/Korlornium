@@ -1,0 +1,336 @@
+{
+  "main": {
+    "id": "a114e7700f2213af",
+    "type": "split",
+    "children": [
+      {
+        "id": "a341feaf5811c5ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f03d22054f252533",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 10- Ambush.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 10- Ambush"
+            }
+          },
+          {
+            "id": "4e00ccea81ed8742",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC's/Crewmates/Wokie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wokie"
+            }
+          },
+          {
+            "id": "f33e640c1e59d882",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC's/Crewmates/Timmy Horton.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Timmy Horton"
+            }
+          },
+          {
+            "id": "03f684951b3f1dd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Things and Objects/Books/Water Vessels for Fools.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Water Vessels for Fools"
+            }
+          },
+          {
+            "id": "7af1409f2c9700b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player Characters/Faefi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Faefi"
+            }
+          },
+          {
+            "id": "ba30b7994fc77f50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Assests/Enemies/Bone Naga.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bone Naga"
+            }
+          },
+          {
+            "id": "ac60c837a08514bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC's/Baddies/High Priest Igor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "High Priest Igor"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d21a4ed9907f94a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "db34d70a7810bb5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a5bd990c234c22f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6044daa8144d7813",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7d3775f8fca9be42",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7dd0d5abf5dcc402",
+    "type": "split",
+    "children": [
+      {
+        "id": "b45bf2b820a539a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d48bfdfeb47b0b5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Events/The Red Storm.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Red Storm"
+            }
+          },
+          {
+            "id": "4d8f113e40ba59ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DM Resources/Korlornium Player Lore Handout.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Korlornium Player Lore Handout"
+            }
+          },
+          {
+            "id": "1f9781b3397e7824",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "823fb44eb6f08b05",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sessions/Session 7- Wok-wok to Duskwind.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Session 7- Wok-wok to Duskwind"
+            }
+          },
+          {
+            "id": "804dc0a28b72e8e4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "240cb33426c5ce11",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {},
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 364.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "publish:Publish changes...": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "templater-obsidian:Templater": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "f03d22054f252533",
+  "lastOpenFiles": [
+    "Korlornium_Obsidian",
+    "Sessions/Session 10- Ambush.md",
+    "z_assets",
+    "NPC's/Crewmates/Felix Kled.md",
+    "NPC's/Crewmates/Morris Greentusk.md",
+    "Gods/Minor Powers/Cthulhu.md",
+    "Organizations/The Erodian Atlasing Society.md",
+    "NPC's/Baddies/Defeated/Calvin.md",
+    "World (Erodas)/Korlornium/Caldirth/Dithoria City/The Council of Dithoria.md",
+    "z_Assests/DM Resources/Plot Ideas.md",
+    "Gods/Minor Powers/The Queen of Ravens.md",
+    "Gods/Major Powers/Ulthagos.md",
+    "Gods/Major Powers/Tidemother.md",
+    "Gods/Major Powers/Sora.md",
+    "Gods/Major Powers/Solwyn.md",
+    "Gods/Major Powers/Sibuna.md",
+    "Gods/Major Powers/Forgas.md",
+    "Gods/Major Powers/Parsus.md",
+    "Gods/Major Powers/Elaris.md",
+    "Gods/Major Powers/Dithoria (God).md",
+    "Gods/Major Powers/Alune.md",
+    "History/The Ethereal Chain.md",
+    "NPC's/Crewmates/Tokie.md",
+    "NPC's/Crewmates/Wokie.md",
+    "NPC's/Baddies/Zora Meadowlark.md",
+    "Things and Objects/Ulthite.md",
+    "Gods/Champions/Antiochus.md",
+    "z_Assests/Images/Character portaits/Timmy_Horton.png",
+    "NPC's/Crewmates",
+    "z_Assests/DM Resources/Session Canvas.canvas",
+    "z_Assests/DM Resources/Unearthed Arcana- Of Ships and the Sea.pdf",
+    "z_Assests/Stat Blocks/Sailing_Ship.png",
+    "z_Assests/DM Resources/Limithron's Guide to Naval Combat - Free.pdf",
+    "NPC's/Neutral/0_Auxillary/Duskwind Landing Locals",
+    "NPC's/Baddies/Defeated",
+    "NPC's/Neutral/0_Auxillary",
+    "z_Assests/Images/Korlornium 1.png",
+    "z_Assests/Images/Korlornium.png",
+    "z_Assests/Korlornium_Map_Drawing.svg",
+    "z_Assests/Images/Character portaits/Elandra_Daenbright.png",
+    "z_Assests/DM Resources/Monster Manual.pdf",
+    "z_Assests/Images/Planar Diagram.jpeg",
+    "z_Assests",
+    "z_Assests/Images/332326_spectatorinroom_lilyabdullina.jpg",
+    "z_Assests/Images/Korlornium_map.html.txt",
+    "Images/Korlornium 1.png",
+    "DM Resources/Korlornium_interactive.svg",
+    "Resources/Untitled.canvas"
+  ]
+}

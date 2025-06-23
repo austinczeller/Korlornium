@@ -1,0 +1,2 @@
+- similar to Juvia in Fairy Tail/ someone who loves something so hard they hurt it.
+- 

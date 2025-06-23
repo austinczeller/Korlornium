@@ -1,0 +1,110 @@
+{
+  "mapMarkers": [
+    {
+      "id": "Korlornium_World_Map",
+      "lastAccessed": 1746641904164,
+      "markers": [
+        {
+          "id": "ID_789b197839b8",
+          "type": "default",
+          "loc": [
+            1299.5925349378924,
+            1554.2473025860447
+          ],
+          "link": "Dithoria City",
+          "layer": "%5B%5BKorlornium.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5542964702517991,
+            -0.6497962674689463
+          ],
+          "description": null,
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5ae8ba783a49",
+          "type": "default",
+          "loc": [
+            859.3863311418506,
+            1252.047369861602
+          ],
+          "link": "Duskwind Landing",
+          "layer": "%5B%5BKorlornium.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.44652188654122754,
+            -0.4296931655709253
+          ],
+          "description": null,
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b96af8fb1808",
+          "type": "default",
+          "loc": [
+            730.7895918109848,
+            807.9459386532975
+          ],
+          "link": "Heaven's Hole",
+          "layer": "%5B%5BKorlornium.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2881404916737866,
+            -0.3653947959054924
+          ],
+          "description": null,
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Things and Objects/Books/General Histories of Korlornium.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "metric",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}
