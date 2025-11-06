@@ -91,8 +91,65 @@
               "icon": "lucide-file",
               "title": "Plot Ideas"
             }
+          },
+          {
+            "id": "afe94fb5e7475d43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World (Erodas)/Korlornium/Caldirth/Agite Mountains.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Agite Mountains"
+            }
+          },
+          {
+            "id": "cf9556f8acd6316c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "0c7f207ece42b0be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World (Erodas)/Korlornium/Scalecrest Bluffs.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scalecrest Bluffs"
+            }
+          },
+          {
+            "id": "78be82df9d18cc15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World (Erodas)/Korlornium/Caldirth/Saugeo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Saugeo"
+            }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -271,11 +328,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "88b9090048cfd0eb",
+  "active": "8a5bd990c234c22f",
   "lastOpenFiles": [
+    "Homepage.md",
+    "World (Erodas)/Korlornium/Caldirth/Saugeo.md",
+    "World (Erodas)/Korlornium/Scalecrest Bluffs.md",
+    "Sessions/Session 12- Veil-master madness.md",
+    "World (Erodas)/Korlornium/Caldirth/Agite Mountains.md",
+    "World (Erodas)/Korlornium/Caldirth/Frostcrag Glade.md",
+    "Organizations/The Silvertree Conservatory.md",
     "z_Assests/DM Resources/Plot Ideas.md",
     "New Text Document.txt",
-    "Homepage.md",
     "z_Assests/Bases/Locations.base",
     "z_Assests/Bases/Groups.base",
     "z_Assests/Templates/Group Template.md",
@@ -283,10 +346,8 @@
     "z_Assests/Templates/Location Template.md",
     "z_Assests/Templates/Monster Template.md",
     "z_Assests/Templates/NPC Template.md",
-    "The Silvertree Conservatory.md",
     "NPC's/Baddies/Elandra Daenbright.md",
     "Sessions/Untitled.md",
-    "World (Erodas)/Korlornium/Scalecrest Bluffs.md",
     "z_Assests/Templates/Session Template.md",
     "NPC's/Stinkyguy.md",
     "Sessions/Session 16- Dragonfly to Dragon.md",
@@ -298,11 +359,7 @@
     "Player Characters/Ira.md",
     "Player Characters/Kel.md",
     "Player Characters/Faefi.md",
-    "World (Erodas)/Untitled.md",
-    "Things and Objects/Books/Water Vessels for Fools.md",
     "z_Assests/Bases/Characters.base",
-    "NPC's/Neutral/Stormveil Locals/Terrance Highbrow.md",
-    "Planes/Feywild.md",
     "z_Assests/Bases/Property Bros.base",
     "z_Assests/Bases/Session.base",
     "z_Assests/Bases/Untitled.base",

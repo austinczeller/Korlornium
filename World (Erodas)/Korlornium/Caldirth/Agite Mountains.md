@@ -16,5 +16,5 @@ There are several towns and settlements within the [[Agite Mountains]], although
 
 ### Towns and Settlements
 - [[Frostcrag Glade]]
-- [[Cosar Village]]
+- [[Steldeen Village]]
 - [[Deadchill]]
