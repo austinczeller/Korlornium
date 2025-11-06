@@ -1,0 +1,100 @@
+filters:
+  and:
+    - Type == "Location"
+views:
+  - type: table
+    name: All
+    order:
+      - file.name
+      - Location
+      - Scale
+      - Place_Category
+      - Place_Description
+    sort:
+      - property: Scale
+        direction: DESC
+      - property: Location
+        direction: DESC
+    columnSize:
+      note.Location: 205
+      note.Scale: 83
+      note.Place_Category: 123
+  - type: table
+    name: Stormveil
+    filters:
+      or:
+        - Location.contains(link("Stormveil"))
+        - file.name == "Stormveil"
+    order:
+      - file.name
+      - Scale
+      - Place_Category
+      - Place_Description
+    sort:
+      - property: Scale
+        direction: DESC
+      - property: Location
+        direction: DESC
+    columnSize:
+      note.Location: 165
+      note.Scale: 83
+      note.Place_Category: 111
+  - type: table
+    name: Heaven's Hole
+    filters:
+      or:
+        - file.name == "Heaven's Hole"
+        - Location.contains(link("Heaven's Hole"))
+    order:
+      - file.name
+      - Scale
+      - Place_Category
+      - Place_Description
+    sort:
+      - property: Scale
+        direction: ASC
+      - property: file.name
+        direction: ASC
+      - property: Location
+        direction: DESC
+    columnSize:
+      note.Scale: 83
+      note.Place_Category: 124
+  - type: table
+    name: Duskwind Landing
+    filters:
+      or:
+        - file.name == "Duskwind Landing"
+        - Location.contains(link("Duskwind Landing"))
+    order:
+      - file.name
+      - Scale
+      - Place_Category
+      - Place_Description
+    sort:
+      - property: Scale
+        direction: DESC
+      - property: Location
+        direction: DESC
+    columnSize:
+      note.Place_Category: 111
+      note.Scale: 83
+  - type: table
+    name: Dithoria City
+    filters:
+      or:
+        - file.name == "Dithoria City"
+        - Location.contains(link("Dithoria City"))
+    order:
+      - file.name
+      - Scale
+      - Place_Category
+      - Place_Description
+    sort:
+      - property: Scale
+        direction: DESC
+      - property: Location
+        direction: DESC
+    columnSize:
+      note.Place_Category: 111
+      note.Scale: 83

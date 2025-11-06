@@ -1,5 +1,10 @@
 ---
 dg-publish: true
+Type: God
+Location:
+  - "[[Erodas]]"
+  - "[[Korlornium]]"
+  - "[[Yygarissil]]"
 ---
 # Ulthagos
 > "As the earth quakes so does [[Ulthagos]]" 

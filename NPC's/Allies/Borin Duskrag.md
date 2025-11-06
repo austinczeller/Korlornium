@@ -1,9 +1,12 @@
 ---
-tags: []
+dg-publish:
 Alive: true
-Antagonisic: 
-dg-publish: 
 Type: NPC
+Location:
+  - "[[Duskwind Landing]]"
+  - "[[Rusty Hook]]"
+Species: "[[Dwarf]]"
+Antagonisic: false
 ---
 # Borin Duskrag
 ![[Borin_Duskrag.png]]

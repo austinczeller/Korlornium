@@ -1,5 +1,14 @@
 ---
 dg-publish:
+Alive: false
+Species:
+  - "[[Bone Naga]]"
+Location:
+  - "[[Korlornium]]"
+  - "[[Dithoria City]]"
+  - "[[The Scar]]"
+Type: NPC
+Antagonisic: true
 ---
 # Nashirra
 

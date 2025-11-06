@@ -1,7 +1,11 @@
 ---
 dg-publish: true
-Population: Small
-Landmark Type: Settlement
+Type: Location
+Location:
+  - "[[Pugent Delta]]"
+Scale: Place
+Place_Category: Town
+Place_Description: Small farming town
 ---
 # Aelford
 

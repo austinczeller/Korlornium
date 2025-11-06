@@ -1,8 +1,12 @@
 ---
 Alive: true
 Antagonisic: true
-dg-publish: 
+dg-publish:
 Type: NPC
+Species:
+  - "[[Elf]]"
+Location:
+  - "[[Frostcrag Glade]]"
 ---
 # Viros
 ## Description

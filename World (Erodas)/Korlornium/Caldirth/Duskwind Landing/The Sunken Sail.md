@@ -1,5 +1,11 @@
 ---
 dg-publish:
+Type: Location
+Scale: Place
+Location:
+  - "[[Duskwind Landing]]"
+Place_Category: Tavern
+Place_Description: Tavern made out of ship's hull
 ---
 # The Sunken Sail
 A tavern owned and operated by [[Horace Greentusk]]. The only tourist friendly bar in town. The bar itself is a old ship which wrecked, and the bar is in the hull of the ship. 

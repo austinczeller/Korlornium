@@ -1,5 +1,14 @@
 ---
 dg-publish:
+Species:
+  - "[[Tiefling]]"
+Alive: true
+Location:
+  - "[[Duskwind Landing]]"
+  - "[[Agite Mountains]]"
+Type: NPC
+Organizations: "[[Clasphand's Hammers]]"
+Antagonisic: false
 ---
 
 # Regi Clasphand

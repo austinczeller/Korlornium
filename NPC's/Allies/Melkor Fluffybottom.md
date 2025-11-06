@@ -1,5 +1,13 @@
 ---
 dg-publish:
+Alive: true
+Species: "[[Gnome]]"
+Location:
+  - "[[Duskwind Landing]]"
+  - "[[Driftwood Forest]]"
+  - "[[Mount Redshield]]"
+Type: NPC
+Antagonisic: false
 ---
 
 Melkor is a funny sassy [[Gnome|gnome]] who has a wife and a young son. 

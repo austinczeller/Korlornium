@@ -1,8 +1,11 @@
 ---
 Alive: true
-Antagonisic: 
-dg-publish: 
+dg-publish:
 Type: NPC
+Species: "[[Orc]]"
+Location:
+  - "[[Duskwind Landing]]"
+Antagonisic: false
 ---
 # Horace Greentusk
 ![[Horace_Greentusk.png]]

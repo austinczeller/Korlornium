@@ -1,8 +1,14 @@
 ---
-Alive: true
-Antagonisic: true
-dg-publish: 
+dg-publish: false
 Type: NPC
+Alive: true
+Location:
+  - "[[The Scar]]"
+  - "[[The Salty Bitch]]"
+  - "[[Dithoria City]]"
+Species:
+  - "[[Human]]"
+Antagonisic: false
 ---
 # High Priest Igor
 ## Description
@@ -13,9 +19,8 @@ Very authoritative.
 
 He will be involved with [[Zora Meadowlark]]'s plot to resurrect the champion of [[Dithoria (God)]]
 ## Relationship to party
-- He had set [[Faefi]] out on a mission to recruit talented paladins and knights to the church.
+
 ## Notable Relationships
-- Elder to [[Faefi]]
 - 
 ## Location
 - [[Dithoria City]]

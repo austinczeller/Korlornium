@@ -1,6 +1,7 @@
 ---
-dg-publish: 
+dg-publish:
 Type: Session
+Date:
 ---
 ## Recap
 > Last Episode the party was reunited with [[Kel]] and [[Picasso]]. They talked with [[Clasphand's Hammers]] at the fish market who were a traveling band of mercenaries willing to do anything for coin. They told the crew about an opossum problem at the ice cream shop. The crew also met Felix the woodcarver. Who sold [[Kel]] some [[Stormwood]], high quality wood. On the was to interrogate Father Elias at the Rusty Hook, the party bumped into an opossum holding an ice cream cone in his hand. Thorne tried to track it down but it seemed to be heading far into the Fish Market. Once arrived into the Rusty Hook the crew was met with an empty bar with what seemed to be a riddle of some sorts. Picasso worked with Kel worked together read the book which Kel had received from the library under Old Duskwind and to solve the riddle. They ended up learning a bit about the gods as they were the key to opening the door to the real Rusty Hook. Upon arrival they met the barkeep who told them Borin will be here soon and Elias was downstairs. She agreed to let the party talk to him and the party learned information that made him seem innocent. After spying on him talking to Borin and Shandra the crew decided to leave Duskwind and search for Zora. Velkorr also chatted with Elandra Daenbright who was on the hunt for a former comrade of the group, Ira. She gave him a sending stone with leaves on it to give her a call if he found any more info about her whereabouts. She said she wanted to reunite her with her brother.

@@ -1,5 +1,19 @@
 ---
 dg-publish:
+Type: PC
+Player: Ben
+Class:
+  - Rouge
+Species:
+  - "[[Drow]]"
+Organizations:
+  - "[[The Red Talons]]"
+  - "[[The Salty Bitches]]"
+Location:
+  - "[[Frostcrag Glade]]"
+  - "[[The Salty Bitch]]"
+Crew_Position: Captain
+Alive: true
 ---
 # Vel'Korr
 **Player**: Ben

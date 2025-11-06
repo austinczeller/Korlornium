@@ -1,9 +1,11 @@
 ---
-Population: Small-Medium
-Region: Pugent Delta
 dg-publish: true
-Continent: Korlornium
-Landmark Type: Settlement
+Type: Location
+Scale: Settlement
+Location:
+  - "[[Pugent Delta]]"
+Place_Category: Town
+Place_Description: Small fishing and shipping port town
 ---
 # Duskwind Landing
 ## Description
@@ -43,3 +45,8 @@ The vibe is a rainy port town, fairly industrial, has a shady side.
 - [[Horace Greentusk]] is the barkeep at [[The Sunken Sail]]
 - [[Shandra Loomens]] is the leader of the druid clan
 
+```dataview
+TABLE Location, Species, Organizations
+WHERE Type=NPC
+WHERE Location = this.file.link OR Location = this.file.name
+```

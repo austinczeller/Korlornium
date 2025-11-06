@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+Type: Species
 ---
 # Gnome
 Gnomes are highly secretive, small, and intelligent creatures native to [[Korlornium]]. They dwell in hidden enclaves deep within the forests, their homes concealed by both natural camouflage and powerful illusion magic. To outsiders—especially those they call Big Folk"—gnomes often appear standoffish or reclusive, fiercely protective of their way of life.

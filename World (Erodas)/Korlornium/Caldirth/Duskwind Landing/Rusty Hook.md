@@ -1,5 +1,11 @@
 ---
 dg-publish:
+Type: Location
+Scale: Place
+Location:
+  - "[[Duskwind Landing]]"
+Place_Category: Tavern
+Place_Description: Crime syndicate headquarters and tavern
 ---
 # Rusty Hook
 When you first enter the [[Rusty Hook]] you enter what appears to be a small bar dimly lit with nobody in it. Dust covers the counter tops and there is very generic posters of buccaneers and beer on the wall. 

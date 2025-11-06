@@ -1,5 +1,10 @@
 ---
 dg-publish: true
+Type: God
+Location:
+  - "[[Erodas]]"
+  - "[[Korlornium]]"
+  - "[[Yygarissil]]"
 ---
 # Alune
 [[Alune]] is the goddess of the night, a young and mischievous deity whose domain extends over shadows, illusions, and secrets. She is the younger sister of [[Sibuna]], the goddess of death, and [[Solwyn]], the goddess of life and the sun. Unlike her sisters, who govern the natural cycles of existence, [[Alune]] thrives in the spaces between—where the veil of night blurs truth and deception.

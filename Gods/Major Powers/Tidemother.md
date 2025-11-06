@@ -1,5 +1,11 @@
 ---
 dg-publish: true
+Type: God
+Location:
+  - "[[The Scar]]"
+  - "[[Korlornium]]"
+  - "[[Erodas]]"
+  - "[[Yygarissil]]"
 ---
 # Tidemother
 [[Tidemother]], goddess of tides and waves, holds dominion over the shifting seas and the ever-changing currents. Many sailors pray to her for safe passage, offering trinkets, songs, and whispered oaths before setting sail. She is one of the most widely worshiped deities in [[Korlornium]], especially among seafarers who must navigate the treacherous waters of [[The Scar]], where unpredictable tides and unseen dangers lurk beneath the waves.

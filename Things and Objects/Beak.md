@@ -1,5 +1,15 @@
 ---
 dg-publish:
+Type: NPC
+Alive: true
+Species:
+  - Magic- Raven
+Organizations:
+  - "[[The Red Talons]]"
+  - "[[The Salty Bitches]]"
+Location:
+  - "[[The Salty Bitch]]"
+  - "[[Vel'Korr]]"
 ---
 # Beak
 > “Take [[Beak]]... Let her guide you." — [[Varnak]]

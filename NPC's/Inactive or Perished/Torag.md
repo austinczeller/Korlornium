@@ -1,8 +1,14 @@
 ---
 Alive: false
-Antagonistic: false
 dg-publish: false
 Type: NPC
+Species:
+  - "[[Human]]"
+Location:
+  - "[[Frostcrag Glade]]"
+  - "[[The Scar]]"
+Organizations: "[[The Red Talons]]"
+Antagonisic: false
 ---
 # Torag
 ## Description

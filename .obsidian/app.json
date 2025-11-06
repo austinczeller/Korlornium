@@ -1,9 +1,8 @@
 {
   "alwaysUpdateLinks": true,
   "userIgnoreFilters": [
-    "Sessions/",
-    "DM Resources/",
-    "Images/",
-    "Templates/"
-  ]
+    "z_Assests/"
+  ],
+  "propertiesInDocument": "visible",
+  "defaultViewMode": "preview"
 }

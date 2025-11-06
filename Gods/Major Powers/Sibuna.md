@@ -1,5 +1,10 @@
 ---
 dg-publish: true
+Type: God
+Location:
+  - "[[Erodas]]"
+  - "[[Korlornium]]"
+  - "[[Yygarissil]]"
 ---
 # Sibuna
 > "In the end we cannot out run the hunter"

@@ -1,5 +1,8 @@
 ---
 dg-publish:
+Type: Group
+Location:
+  - "[[Dithoria City]]"
 ---
 # The Council of Dithoria
 

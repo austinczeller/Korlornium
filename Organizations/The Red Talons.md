@@ -1,5 +1,6 @@
 ---
 dg-publish:
+Type: Group
 ---
 
 # The Red Talons

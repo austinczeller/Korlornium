@@ -1,5 +1,19 @@
 ---
 dg-publish:
+Type: PC
+Species:
+  - "[[Elf]]"
+Player: Alisha
+Class:
+  - Druid
+Organizations:
+  - "[[The Salty Bitches]]"
+Location:
+  - "[[Duskwind Landing]]"
+  - "[[Driftwood Forest]]"
+  - "[[The Salty Bitch]]"
+Crew_Position: Quartermaster
+Alive: true
 ---
 # Soffalie
 **Player**: Alisha
@@ -18,4 +32,3 @@ dg-publish:
 
 **Personal Quest**
 - Seek revenge for what happened to the [[Driftwood Forest]]
-- 

@@ -1,5 +1,12 @@
 ---
 dg-publish:
+Type: Location
+Scale: Place
+Location:
+  - "[[Duskwind Landing]]"
+  - "[[The Scar]]"
+Place_Category: Nature
+Place_Description: Beach with views of The Scar and Widow's Rook
 ---
 # Sapphire Beach
 Sapphire Beach is a nice tourist beach in [[Duskwind Landing]]. It has a great view of [[Widow's Rook]] and is a popular spot for romantics to have a picnic.

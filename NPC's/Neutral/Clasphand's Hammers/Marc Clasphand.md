@@ -1,8 +1,14 @@
 ---
 Alive: true
-Antagonisic: 
-dg-publish: 
+dg-publish:
 Type: NPC
+Species:
+  - "[[Goblin]]"
+Location:
+  - "[[Agite Mountains]]"
+  - "[[Duskwind Landing]]"
+Organizations: "[[Clasphand's Hammers]]"
+Antagonisic: false
 ---
 # Marc Clasphand
 ![[Marc_Clasphand.png]]

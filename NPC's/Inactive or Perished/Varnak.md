@@ -1,8 +1,14 @@
 ---
 Alive: false
-Antagonisic: 
-dg-publish: 
+dg-publish:
 Type: NPC
+Species:
+  - "[[Tiefling]]"
+Location:
+  - "[[The Scar]]"
+  - "[[Frostcrag Glade]]"
+Organizations: "[[The Red Talons]]"
+Antagonisic: false
 ---
 # Varnak
 A red [[Tiefling]], leader of [[The Red Talons]] piracy gang, father figure to [[Vel'Korr]] and previous owner of [[Beak]].

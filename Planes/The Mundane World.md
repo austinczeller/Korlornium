@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+Type: Plane
 ---
 # The Mundane World
 ![[Planar Diagram.jpeg]]

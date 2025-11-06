@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"bd0e73d3dcac0644","type":"file","file":"NPC's/Allies/Shandra Loomens.md","x":-420,"y":-520,"width":400,"height":160},
-		{"id":"6c0ee69bb4d439aa","type":"file","file":"NPC's/Neutral/Father Elias Vance.md","x":-420,"y":-300,"width":400,"height":200},
+		{"id":"6c0ee69bb4d439aa","type":"file","file":"NPC's/Neutral/Duskwind Landing Locals/Father Elias Vance.md","x":-420,"y":-300,"width":400,"height":200},
 		{"id":"4e9eb3641b300f23","type":"file","file":"NPC's/Allies/Borin Duskrag.md","x":-420,"y":-40,"width":400,"height":193},
 		{"id":"f0ae607a3f479b9f","x":20,"y":-520,"width":400,"height":400,"type":"file","file":"World (Erodas)/Korlornium/Caldirth/Duskwind Landing/Duskwind Landing.md"},
 		{"id":"5b466be86ad8a792","type":"file","file":"Sessions/Session 4- Duskwind Trials.md","x":-1000,"y":-543,"width":520,"height":600}

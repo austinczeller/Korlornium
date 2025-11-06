@@ -1,5 +1,15 @@
 ---
 dg-publish:
+Alive: true
+Type: NPC
+Species:
+  - "[[wok-wok]]"
+Location:
+  - "[[Saltmire Cay]]"
+  - "[[The Salty Bitch]]"
+Organizations: "[[The Salty Bitches]]"
+Antagonisic: false
+Crew_Position: Powder Monkey
 ---
 # Wokie
 

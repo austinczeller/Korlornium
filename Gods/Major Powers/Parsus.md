@@ -1,5 +1,11 @@
 ---
 dg-publish: true
+Type: God
+Location:
+  - "[[Korlornium]]"
+  - "[[Erodas]]"
+  - "[[Siroth]]"
+  - "[[Yygarissil]]"
 ---
 # Parsus
 [[Parsus]], god of rain and snow, is revered as the bringer of life and renewal. Farmers across [[Korlornium]], especially those within the [[Pugent Delta]], offer prayers and sacrifices to Parsus, seeking his favor for abundant harvests and fertile lands.

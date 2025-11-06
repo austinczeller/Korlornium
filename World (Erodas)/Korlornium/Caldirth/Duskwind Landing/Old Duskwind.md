@@ -1,5 +1,12 @@
 ---
 dg-publish:
+Type: Location
+Scale: Place
+Location:
+  - "[[Duskwind Landing]]"
+  - "[[Driftwood Forest]]"
+Place_Category: Ruins
+Place_Description: Ruins on the outskirts of Duskwind Landing
 ---
 # Old Duskwind
 Old Duskwind the name given to the ruins on the outskirts of [[Duskwind Landing]].

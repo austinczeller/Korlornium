@@ -1,8 +1,12 @@
 ---
 Alive: false
-Antagonisic: true
-dg-publish: 
+dg-publish: false
 Type: NPC
+Species: "[[Orc]]"
+Location:
+  - "[[The Scar]]"
+  - "[[The Salty Bitch]]"
+Antagonisic: true
 ---
 # Betula
 ![[Betula.png]]

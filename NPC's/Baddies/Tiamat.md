@@ -1,5 +1,12 @@
 ---
 dg-publish:
+Type: NPC
+Alive: true
+Species:
+  - "[[Dragon]]"
+Location:
+  - "[[The Ethereal Chain]]"
+Antagonisic: true
 ---
 # Tiamat
 Tiamat is the working name of an ancient [[Dragon]] mother who was active in the [[Erodas]].

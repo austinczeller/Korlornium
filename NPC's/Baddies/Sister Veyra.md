@@ -1,3 +1,14 @@
+---
+Alive: false
+Species:
+  - "[[Aasimar]]"
+Location:
+  - "[[The Scar]]"
+  - "[[Dithoria City]]"
+Type: NPC
+Antagonisic: true
+---
+
 # Sister Veyra
 A pale skinned rosy cheeked [[Aasimar]] woman with short red hair. She wears flowing gold and white robes with bandages wrapped around her ankles and fists. She is a traveling bodyguard along with [[Brother Kalun]] for the [[High Priest Igor]]. She serves the god [[Dithoria (God)]].
 

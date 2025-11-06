@@ -1,3 +1,13 @@
+---
+Alive: true
+Location:
+  - "[[The Scar]]"
+  - "[[The Salty Bitch]]"
+Species: "[[Dragonborn]]"
+Type: NPC
+Antagonisic: true
+---
+
 # Brother Kalun
 
 A red [[Dragonborn]] monk who follows the god [[Dithoria (God)]]. He was a former pit fighter but found salvation in [[Dithoria City]] when he met [[High Priest Igor]].

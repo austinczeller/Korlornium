@@ -1,8 +1,15 @@
 ---
 Alive: true
-Antagonisic: 
-dg-publish: 
+dg-publish:
 Type: NPC
+Species:
+  - "[[Human]]"
+Location:
+  - "[[Duskwind Landing]]"
+  - "[[Frostcrag Glade]]"
+  - "[[Agite Mountains]]"
+Organizations: "[[Clasphand's Hammers]]"
+Antagonisic: false
 ---
 # Alain Clasphand
 ![[Alain_Clasphand.png]]

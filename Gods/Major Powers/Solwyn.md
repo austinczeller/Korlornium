@@ -1,5 +1,10 @@
 ---
 dg-publish: true
+Type: God
+Location:
+  - "[[Erodas]]"
+  - "[[Korlornium]]"
+  - "[[Yygarissil]]"
 ---
 # Solwyn
 > "Praise Sister Sol, she breathes life."

@@ -1,5 +1,9 @@
 ---
 dg-publish:
+Type: Event
+Location:
+  - "[[Korlornium]]"
+  - "[[The Scar]]"
 ---
 
 # The Ethereal Chain

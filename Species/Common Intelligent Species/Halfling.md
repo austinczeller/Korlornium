@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+Type: Species
 ---
 # Halfing
 Halflings are small, stout, and intelligent folk who value simplicity, community, and harmony with the land. They are known for their self-sufficient lifestyle, often practicing subsistence farming, foraging, and traditional crafts to sustain their secluded villages. Halflings rarely seek wealth or power, instead prioritizing family bonds, storytelling, and the comforts of home.

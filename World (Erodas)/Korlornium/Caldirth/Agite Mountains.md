@@ -1,5 +1,11 @@
 ---
 dg-publish: true
+Type: Location
+Scale: Region
+Location:
+  - "[[Caldrith]]"
+Place_Category: Nature
+Place_Description: Large mountain range with mining
 ---
 # Agite Mountains
 A vast mountain range in Western [[Caldrith]] on the continent of [[Korlornium]].

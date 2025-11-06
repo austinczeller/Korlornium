@@ -1,6 +1,10 @@
 ---
 dg-publish: true
 dg-home:
+Type: Event
+Location:
+  - "[[Korlornium]]"
+  - "[[The Scar]]"
 ---
 # The Great Wave
 The Great Wave is the cataclysmic event that gave birth to [[The Scar]], reshaping the central lowlands of [[Korlornium]] and altering the course of history. A series of violent tectonic shifts beneath the continent triggered a devastating tsunami, swallowing entire cities and drowning vast stretches of fertile land beneath a relentless surge of water.

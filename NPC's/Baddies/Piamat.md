@@ -1,5 +1,12 @@
 ---
 dg-publish:
+Species:
+  - "[[Faun]]"
+Location:
+  - "[[Feywild]]"
+Alive: true
+Type: NPC
+Antagonisic: false
 ---
 
 # Piamat

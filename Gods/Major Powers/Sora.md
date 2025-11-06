@@ -1,5 +1,10 @@
 ---
 dg-publish: true
+Location:
+  - "[[Erodas]]"
+  - "[[Korlornium]]"
+  - "[[Yygarissil]]"
+Type: God
 ---
 # Sora
 [[Sora]] reigns as the celestial goddess of the vast sky, her domain stretching from the heights of the heavens to the gentle breezes that caress the earth below. In [[Korlornium]], [[Sora]] is more than just the sky; she is the breath of the wind, the expanse of the clouds, and the light that touches the land in every sunrise and sunset. She embodies freedom, fluidity, and the ever-changing nature of the heavens themselves. Her followers believe that Sora is the weaver of weather and the keeper of storms, with her moods reflected in the shifting skies.

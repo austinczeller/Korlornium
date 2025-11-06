@@ -1,5 +1,8 @@
 ---
 dg-publish:
+Type: God
+Location:
+  - "[[The Scar]]"
 ---
 # Cthulhu
 Is an extraplanar kraken deity who has taken interest in [[The Mundane World]], specifically [[Korlornium]] due to features like [[The Scar]].

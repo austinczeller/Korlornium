@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 dg-home: true
+Type: Object
 ---
 # General Histories of Korlornium
 ##### Compiled by The Erodian Atlasing Society

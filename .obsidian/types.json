@@ -6,7 +6,7 @@
     "dg-publish": "checkbox",
     "dg-home": "checkbox",
     "Population": "text",
-    "Region": "text",
+    "Region": "multitext",
     "Status": "checkbox",
     "Alive": "checkbox",
     "Enemy?": "checkbox",
@@ -30,6 +30,11 @@
     "excalidraw-css": "text",
     "excalidraw-autoexport": "text",
     "excalidraw-embeddable-theme": "text",
-    "excalidraw-open-md": "checkbox"
+    "excalidraw-open-md": "checkbox",
+    "Location": "multitext",
+    "Species": "multitext",
+    "Within": "multitext",
+    "Class": "multitext",
+    "Organizations": "multitext"
   }
 }

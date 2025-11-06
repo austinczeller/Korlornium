@@ -1,5 +1,6 @@
 ---
 dg-publish:
+Type: Session
 ---
 
 # Sea Rot

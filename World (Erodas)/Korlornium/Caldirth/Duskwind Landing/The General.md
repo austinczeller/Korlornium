@@ -1,5 +1,9 @@
 ---
 dg-publish:
+Type: Location
+Scale: Place
+Place_Category: Shop
+Place_Description: General goods store
 ---
 # The General
 The General is a general goods store run by the halfling [[Bert Coggins]].

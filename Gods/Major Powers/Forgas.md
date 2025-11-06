@@ -1,5 +1,11 @@
 ---
 dg-publish: true
+Type: God
+Location:
+  - "[[Erodas]]"
+  - "[[Korlornium]]"
+  - "[[Mount Redshield]]"
+  - "[[Yygarissil]]"
 ---
 # Forgas
 [[Forgas]], god of fire and forge, is the divine patron of blacksmiths, artisans, and all who shape metal and stone. Worshiped across [[Korlornium]], his presence is strongest in communities near [[Mount Redshield]], the towering volcano where he is said to slumber, his fiery breath fueling the heart of the mountain.

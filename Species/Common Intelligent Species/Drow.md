@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+Type: Species
 ---
 # Drow
 Drow are a sub-species of elves which have historically been persecuted and dwelled in societies underground. Their skin is a deep to light purple or blue.

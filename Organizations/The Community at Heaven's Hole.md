@@ -1,5 +1,6 @@
 ---
 dg-publish:
+Type: Group
 ---
 # The Community at Heaven's Hole
 Nestled within the mystical forests surrounding [[Heaven's Hole]], this secluded settlement consists of permanent and semi-permanent dwellings, blending seamlessly into the lush environment. The residents, many of whom are outcasts from [[Dithoria City]], have formed a unique society that embraces the beauty and strangeness of their home. The majority of the population are half-[[Elf|elves]], though a scattering of [[Human|humans]], [[Halfling|halfings]], and fey-touched individuals also call it home.
@@ -16,5 +17,7 @@ Due to the small population (~50 members), young members are encouraged to leave
 
 ### Notable Members
 
-- [[Elder Nyra]] – The eldest member of the community, who has bathed in Heaven’s Hole more than any other. She speaks in dreamlike riddles and sometimes drifts between reality and visions. Some claim she is half-present in the Feywild already.
+- [[Deepseer Poppy]] – The eldest member of the community, who has bathed in Heaven’s Hole more than any other. She speaks in dreamlike riddles and sometimes drifts between reality and visions. Some claim she is half-present in the [[Feywild]] already.
 - [[Thorne]] 
+- [[Numa]]
+- 

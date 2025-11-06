@@ -1,8 +1,13 @@
 ---
 Alive: true
-Antagonisic: 
-dg-publish: 
+dg-publish:
 Type: NPC
+Species: "[[Human]]"
+Location:
+  - "[[Driftwood Forest]]"
+  - "[[Duskwind Landing]]"
+Organizations: "[[Driftwood Druids]]"
+Antagonisic: false
 ---
 # Shandra Loomens
 ![[Shandra_Loomens.png]]

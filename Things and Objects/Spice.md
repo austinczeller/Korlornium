@@ -1,5 +1,6 @@
 ---
 dg-publish:
+Type: Object
 ---
 # Spice
 Spice is a drug which is a common in the fields of piracy. It is a deep orange powder which is smoked in a pipe.

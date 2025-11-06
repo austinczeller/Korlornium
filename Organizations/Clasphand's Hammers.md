@@ -1,5 +1,6 @@
 ---
 dg-publish:
+Type: Group
 ---
 
 # Clasphand's Hammers

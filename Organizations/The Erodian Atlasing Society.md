@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+Type: Group
 ---
 # The Erodian Atlasing Society
 # About the Author(s)

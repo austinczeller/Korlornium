@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+Type: Species
 ---
 # Fowlmen
 [[Fowlmen]] are a unique species native to [[Korlornium]], originating from the vast deserts of [[Siroth]]. According to legend, they were forged from the sands of [[Siroth]] by the goddess of life, [[Solwyn]], in the heart of [[The Great Dune]] Region. These humanoid falcons possess razor-sharp intellect, keen eyesight, and an innate connection to the magics of earth and sky.

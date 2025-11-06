@@ -1,5 +1,17 @@
 ---
 dg-publish:
+Type: PC
+Player: Duncan
+Class:
+  - Warlock
+Species:
+  - "[[Tortle]]"
+Location:
+  - "[[The Salty Bitch]]"
+Organizations:
+  - "[[The Salty Bitches]]"
+  - "[[Cult of Cthulhu]]"
+Crew_Position: First Mate
 ---
 # Picasso
 **Player**: Duncan

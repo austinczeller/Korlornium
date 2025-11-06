@@ -1,5 +1,16 @@
 ---
 dg-publish:
+Type: PC
+Species:
+  - "[[Human]]"
+  - "[[Elf]]"
+Player: Rachel
+Organizations: "[[The Silvertree Conservatory]]"
+Class: Monk
+Location:
+  - "[[Duskwind Landing]]"
+  - "[[The Silvertree Conservatory]]"
+Alive: true
 ---
 # Ira
 **Player**: Rachel

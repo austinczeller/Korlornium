@@ -1,5 +1,7 @@
 ---
 dg-publish:
+Type: Session
+Date:
 ---
 
 # Recap

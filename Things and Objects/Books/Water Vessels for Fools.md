@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+Type: Object
 ---
 # Water Vessels for Fools
 Written by: [[Reese Stompletooth]]

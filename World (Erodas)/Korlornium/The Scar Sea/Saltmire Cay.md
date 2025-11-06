@@ -1,5 +1,11 @@
 ---
 dg-publish:
+Type: Location
+Scale: Place
+Location:
+  - "[[The Scar]]"
+Place_Category: Island
+Place_Description: Small island used by pirates
 ---
 # Saltmire Cay
 [[Saltmire Cay]] is a small island located in [[The Scar]]. The air is hot and sticky and the sounds of crickets chirping is deafening. There are few spots of dry land and the sand and rock. The area is full of large crocodiles, [[wok-wok]], and other swamp life.

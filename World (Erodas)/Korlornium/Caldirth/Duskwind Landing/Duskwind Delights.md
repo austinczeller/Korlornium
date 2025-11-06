@@ -1,5 +1,11 @@
 ---
 dg-publish:
+Type: Location
+Scale: Place
+Location:
+  - "[[Duskwind Landing]]"
+Place_Category: Restaurant
+Place_Description: Ice cream stand
 ---
 # Duskwind Delights
 Duskwind Delights is an ice cream stand located on [[Sapphire Beach]]. 

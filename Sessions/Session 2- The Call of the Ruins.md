@@ -1,5 +1,7 @@
 ---
 dg-publish:
+Type: Session
+Date:
 ---
 
 #### Act 1: Setting the Stage (Duskwind Landing)

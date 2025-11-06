@@ -1,0 +1,16 @@
+filters:
+  and:
+    - '!file.inFolder("z_Assests")'
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - Type
+    sort:
+      - property: Type
+        direction: DESC
+      - property: file.name
+        direction: DESC
+      - property: Organizations
+        direction: ASC

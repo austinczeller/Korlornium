@@ -4,105 +4,92 @@
     "type": "split",
     "children": [
       {
-        "id": "a341feaf5811c5ef",
+        "id": "a5127564de975848",
         "type": "tabs",
         "children": [
           {
-            "id": "f03d22054f252533",
+            "id": "88b9090048cfd0eb",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 10- Ambush.md",
-                "mode": "source",
+                "file": "Homepage.md",
+                "mode": "preview",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Session 10- Ambush"
+              "title": "Homepage"
             }
           },
           {
-            "id": "4e00ccea81ed8742",
+            "id": "d2f20ea1dc5a8383",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC's/Crewmates/Wokie.md",
+                "file": "The Silvertree Conservatory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wokie"
+              "title": "The Silvertree Conservatory"
             }
           },
           {
-            "id": "f33e640c1e59d882",
+            "id": "7a008bf3ac015819",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC's/Crewmates/Timmy Horton.md",
-                "mode": "source",
+                "file": "NPC's/Baddies/Elandra Daenbright.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Timmy Horton"
+              "title": "Elandra Daenbright"
             }
           },
           {
-            "id": "03f684951b3f1dd4",
+            "id": "c4e0f8a43ba17f27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Things and Objects/Books/Water Vessels for Fools.md",
+                "file": "World (Erodas)/Korlornium/Scalecrest Bluffs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Water Vessels for Fools"
+              "title": "Scalecrest Bluffs"
             }
           },
           {
-            "id": "7af1409f2c9700b2",
+            "id": "e646b69076378774",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Player Characters/Faefi.md",
-                "mode": "source",
-                "source": false
+                "file": "z_Assests/Bases/Locations.base",
+                "viewName": "All"
               },
-              "icon": "lucide-file",
-              "title": "Faefi"
+              "icon": "lucide-table",
+              "title": "Locations"
             }
           },
           {
-            "id": "ba30b7994fc77f50",
+            "id": "a9b916da53c2d8bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Assests/Enemies/Bone Naga.md",
+                "file": "z_Assests/DM Resources/Plot Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bone Naga"
-            }
-          },
-          {
-            "id": "ac60c837a08514bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC's/Baddies/High Priest Igor.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "High Priest Igor"
+              "title": "Plot Ideas"
             }
           }
         ]
@@ -125,7 +112,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -140,7 +127,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -162,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 318.51103591918945
   },
   "right": {
     "id": "7dd0d5abf5dcc402",
@@ -172,39 +159,6 @@
         "id": "b45bf2b820a539a8",
         "type": "tabs",
         "children": [
-          {
-            "id": "d48bfdfeb47b0b5e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Events/The Red Storm.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": true,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for The Red Storm"
-            }
-          },
-          {
-            "id": "4d8f113e40ba59ea",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "DM Resources/Korlornium Player Lore Handout.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Korlornium Player Lore Handout"
-            }
-          },
           {
             "id": "1f9781b3397e7824",
             "type": "leaf",
@@ -218,21 +172,6 @@
               },
               "icon": "lucide-tags",
               "title": "Tags"
-            }
-          },
-          {
-            "id": "823fb44eb6f08b05",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Sessions/Session 7- Wok-wok to Duskwind.md",
-                "followCursor": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Session 7- Wok-wok to Duskwind"
             }
           },
           {
@@ -254,9 +193,57 @@
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
+          },
+          {
+            "id": "761cd358ecfdf69c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "z_Assests/DM Resources/Plot Ideas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Plot Ideas"
+            }
+          },
+          {
+            "id": "456cd6f19737a257",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "z_Assests/DM Resources/Plot Ideas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Plot Ideas"
+            }
+          },
+          {
+            "id": "ed8c71545392e893",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "z_Assests/DM Resources/Plot Ideas.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Plot Ideas"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -265,6 +252,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -279,58 +267,59 @@
       "obsidian42-brat:BRAT": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f03d22054f252533",
+  "active": "88b9090048cfd0eb",
   "lastOpenFiles": [
-    "Korlornium_Obsidian",
-    "Sessions/Session 10- Ambush.md",
-    "z_assets",
-    "NPC's/Crewmates/Felix Kled.md",
-    "NPC's/Crewmates/Morris Greentusk.md",
-    "Gods/Minor Powers/Cthulhu.md",
-    "Organizations/The Erodian Atlasing Society.md",
-    "NPC's/Baddies/Defeated/Calvin.md",
-    "World (Erodas)/Korlornium/Caldirth/Dithoria City/The Council of Dithoria.md",
     "z_Assests/DM Resources/Plot Ideas.md",
-    "Gods/Minor Powers/The Queen of Ravens.md",
-    "Gods/Major Powers/Ulthagos.md",
-    "Gods/Major Powers/Tidemother.md",
-    "Gods/Major Powers/Sora.md",
-    "Gods/Major Powers/Solwyn.md",
-    "Gods/Major Powers/Sibuna.md",
-    "Gods/Major Powers/Forgas.md",
-    "Gods/Major Powers/Parsus.md",
-    "Gods/Major Powers/Elaris.md",
-    "Gods/Major Powers/Dithoria (God).md",
-    "Gods/Major Powers/Alune.md",
-    "History/The Ethereal Chain.md",
-    "NPC's/Crewmates/Tokie.md",
-    "NPC's/Crewmates/Wokie.md",
-    "NPC's/Baddies/Zora Meadowlark.md",
-    "Things and Objects/Ulthite.md",
-    "Gods/Champions/Antiochus.md",
-    "z_Assests/Images/Character portaits/Timmy_Horton.png",
-    "NPC's/Crewmates",
-    "z_Assests/DM Resources/Session Canvas.canvas",
-    "z_Assests/DM Resources/Unearthed Arcana- Of Ships and the Sea.pdf",
-    "z_Assests/Stat Blocks/Sailing_Ship.png",
-    "z_Assests/DM Resources/Limithron's Guide to Naval Combat - Free.pdf",
-    "NPC's/Neutral/0_Auxillary/Duskwind Landing Locals",
-    "NPC's/Baddies/Defeated",
-    "NPC's/Neutral/0_Auxillary",
-    "z_Assests/Images/Korlornium 1.png",
-    "z_Assests/Images/Korlornium.png",
+    "New Text Document.txt",
+    "Homepage.md",
+    "z_Assests/Bases/Locations.base",
+    "z_Assests/Bases/Groups.base",
+    "z_Assests/Templates/Group Template.md",
+    "z_Assests/Templates/Article Template.md",
+    "z_Assests/Templates/Location Template.md",
+    "z_Assests/Templates/Monster Template.md",
+    "z_Assests/Templates/NPC Template.md",
+    "The Silvertree Conservatory.md",
+    "NPC's/Baddies/Elandra Daenbright.md",
+    "Sessions/Untitled.md",
+    "World (Erodas)/Korlornium/Scalecrest Bluffs.md",
+    "z_Assests/Templates/Session Template.md",
+    "NPC's/Stinkyguy.md",
+    "Sessions/Session 16- Dragonfly to Dragon.md",
+    "Sessions/Session 13- Aftermath of a Violent Election.md",
+    "Things and Objects/The Salty Bitch.md",
+    "Player Characters/Vel'Korr.md",
+    "Player Characters/Thorne.md",
+    "Player Characters/Soffalie.md",
+    "Player Characters/Ira.md",
+    "Player Characters/Kel.md",
+    "Player Characters/Faefi.md",
+    "World (Erodas)/Untitled.md",
+    "Things and Objects/Books/Water Vessels for Fools.md",
+    "z_Assests/Bases/Characters.base",
+    "NPC's/Neutral/Stormveil Locals/Terrance Highbrow.md",
+    "Planes/Feywild.md",
+    "z_Assests/Bases/Property Bros.base",
+    "z_Assests/Bases/Session.base",
+    "z_Assests/Bases/Untitled.base",
+    "z_Assests/Bases/Articles.base",
     "z_Assests/Korlornium_Map_Drawing.svg",
-    "z_Assests/Images/Character portaits/Elandra_Daenbright.png",
-    "z_Assests/DM Resources/Monster Manual.pdf",
-    "z_Assests/Images/Planar Diagram.jpeg",
-    "z_Assests",
-    "z_Assests/Images/332326_spectatorinroom_lilyabdullina.jpg",
-    "z_Assests/Images/Korlornium_map.html.txt",
-    "Images/Korlornium 1.png",
-    "DM Resources/Korlornium_interactive.svg",
+    "z_Assests/Bases",
+    "z_Assests/Images/Character portaits/Nilah.png",
+    "z_Assests/Images/Splash/Nilah_layer_entrance.png",
+    "z_Assests/Images/Splash/Session 15 Splash.png",
+    "z_Assests/Images/Splash",
+    "z_Assests/Images/Splash/Session_16_Splash.png",
+    "z_Assests/Stat Blocks/Ogre.png",
+    "z_Assests/Stat Blocks/Troll_limb.png",
+    "z_Assests/Stat Blocks/Troll.png",
+    "z_Assests/Images/Stormwood_Armor2.png",
+    "z_Assests/Images/Character portaits/Madam_LeBlanc.png",
+    "z_Assests/DM Resources/Session Canvas.canvas",
     "Resources/Untitled.canvas"
   ]
 }

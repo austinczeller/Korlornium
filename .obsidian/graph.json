@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -83,6 +83,13 @@
         "a": 1,
         "rgb": 5287353
       }
+    },
+    {
+      "query": "path:Species  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
     }
   ],
   "collapse-display": false,
@@ -95,6 +102,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5592414090663214,
-  "close": true
+  "scale": 0.49828245745514455,
+  "close": false
 }

@@ -1,8 +1,10 @@
 ---
-Region: Agite Mountains
-Continent: Korlornium
-Landmark Type: Settlement
-Population: Small-Medium
+Type: Location
+Scale: Settlement
+Location:
+  - "[[Agite Mountains]]"
+Place_Category: Town
+Place_Description: Medium-sized mining town
 ---
 # Frostcrag Glade
 ## Overview 

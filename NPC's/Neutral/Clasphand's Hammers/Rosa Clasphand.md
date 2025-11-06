@@ -1,5 +1,15 @@
 ---
 dg-publish:
+Alive: true
+Type: NPC
+Species:
+  - "[[Human]]"
+Location:
+  - "[[Agite Mountains]]"
+  - "[[Duskwind Landing]]"
+  - "[[Frostcrag Glade]]"
+Organizations: "[[Clasphand's Hammers]]"
+Antagonisic: false
 ---
 
 # Rosa Clasphand

@@ -1,5 +1,14 @@
 ---
 dg-publish:
+Alive: false
+Species: "[[Human]]"
+Location:
+  - "[[The Scar]]"
+  - "[[Saltmire Cay]]"
+  - "[[Frostcrag Glade]]"
+Type: NPC
+Organizations: "[[The Red Talons]]"
+Antagonisic: true
 ---
 
 # Joanos

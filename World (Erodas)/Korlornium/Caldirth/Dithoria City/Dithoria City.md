@@ -1,9 +1,19 @@
 ---
 dg-publish: true
+Type: Location
+Scale: Settlement
+Location:
+  - "[[Caldrith]]"
+Place_Category: City
+Place_Description: Large religious city in Korlornium
 ---
 # Dithoria City
 ## Overview 
 [[Dithoria City]], named after the god of law and order, [[Dithoria (God)]], stands as a gleaming bastion of civilization and structure amidst a chaotic world. It is the largest city in [[Korlornium]] and boasts miliary might across [[Caldrith]]. It was said to be blessed and protected by [[Dithoria (God)]] during the cataclysmic event that created [[The Scar]]. While much of the surrounding land was torn asunder, the city’s white stone walls remained unscathed, its people sheltered by the divine will of their patron god.
+
+There is a strict limitation of the use of magic within the walls of the city. Select exemptions are needed to be approved by the [[Keeper's Council]] or [[The Council of Dithoria]]. 
+
+The people of the city are of the belief that using magic will lessen the power of [[Dithoria (God)]] in his fight to keep order in the waste lands of [[Siroth]].
 
 ## Architecture & Appearance: 
 [[Dithoria City]] is a marvel of orderly design and immaculate stonework, built from brilliant white stone quarried from the nearby [[Mount Redshield]] before its eruption. The city rises in tiered levels, each section built upon the one below. Broad staircases and winding pathways connect the city’s layers, leading from the bustling lower districts to the grand citadel at its peak.

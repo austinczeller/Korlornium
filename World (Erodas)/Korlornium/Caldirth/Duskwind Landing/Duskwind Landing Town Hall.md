@@ -1,5 +1,11 @@
 ---
 dg-publish:
+Type: Location
+Scale: Place
+Location:
+  - "[[Duskwind Landing]]"
+Place_Category: Government
+Place_Description: Small town hall
 ---
 
 # Duskwind Landing Town Hall

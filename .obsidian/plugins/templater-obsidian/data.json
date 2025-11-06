@@ -9,18 +9,22 @@
   ],
   "trigger_on_file_creation": true,
   "auto_jump_to_cursor": false,
-  "enable_system_commands": false,
+  "enable_system_commands": true,
   "shell_path": "",
   "user_scripts_folder": "",
   "enable_folder_templates": true,
   "folder_templates": [
     {
       "folder": "Sessions",
-      "template": "z_Assets/Templates/Session Template.md"
+      "template": "z_Assests/Templates/Session Template.md"
     },
     {
       "folder": "NPC's",
       "template": "z_Assets/Templates/NPC Template.md"
+    },
+    {
+      "folder": "/",
+      "template": "z_Assests/Templates/Article Template.md"
     }
   ],
   "enable_file_templates": false,

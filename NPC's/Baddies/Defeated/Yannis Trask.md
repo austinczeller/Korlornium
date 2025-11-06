@@ -1,8 +1,12 @@
 ---
-Alive: true
-Antagonisic: true
-dg-publish: 
+Alive: false
+dg-publish:
 Type: NPC
+Location:
+  - "[[The Scar]]"
+  - "[[Duskwind Landing]]"
+Species: "[[Dwarf]]"
+Antagonisic: true
 ---
 # Yannis Trask
 ![[Yannis_Trask.png]]

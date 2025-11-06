@@ -1,3 +1,7 @@
+<%*
+let title = tp.file.title || await tp.system.prompt("Article Name");
+-%>
+# [[<% title %>]]
 ## Description
 
 ## Stat Block

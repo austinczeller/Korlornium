@@ -1,5 +1,6 @@
 ---
 dg-publish:
+Type: Object
 ---
 # Ulthite
 An extremely rare ore said to contain the essence of [[Ulthagos]].

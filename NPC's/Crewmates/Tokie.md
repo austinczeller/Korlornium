@@ -1,5 +1,15 @@
 ---
 dg-publish:
+Type: NPC
+Species:
+  - "[[wok-wok]]"
+Location:
+  - "[[Saltmire Cay]]"
+  - "[[The Salty Bitch]]"
+Alive: true
+Organizations: "[[The Salty Bitches]]"
+Antagonisic: false
+Crew_Position: Powder Monkey
 ---
 # Tokie
 

@@ -1,5 +1,15 @@
 ---
 dg-publish:
+Type: NPC
+Alive: true
+Species:
+  - "[[Orc]]"
+Location:
+  - "[[Duskwind Landing]]"
+  - "[[The Salty Bitch]]"
+Organizations: "[[The Salty Bitches]]"
+Antagonisic: false
+Crew_Position: Cook
 ---
 A young half-orc who found a [[Sea Rot]] body on the shores of [[Sapphire Beach]] in the town of [[Duskwind Landing]]. He previously worked in the kitchen of [[The Sunken Sail]].
 

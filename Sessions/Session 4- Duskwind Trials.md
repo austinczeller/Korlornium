@@ -1,6 +1,7 @@
 ---
-dg-publish: 
+dg-publish:
 Type: Session
+Date:
 ---
 ## Recap
 > Last session [[Picasso]] and [[Soffalie]] met up with the party as they were resting near the entrance of a underground cavern. There were plenty of symbols of [[Ulthagos]] on banners and crests in the entryway. They were greeted by a playful glowing orb which led them to a larger room where a [[Spectator]] awaited. After a brief and sassy conversation battle commenced and the [[Spectator]] was defeated. The group noted large snake-like bones on the ground but proceeded into the lit library that the [[Spectator]] was guarding. In this room the party met [[Zora Meadowlark]] who appeared frightened at first but then creepily smiled revealing a long tongue and teleported out as soon as the party became suspicious of her. The party scoured the library and found some books about [[Ulthagos]], a box of beans, sneezing dust, and a book (ASK GROUP IF THEY REMEMBER WHAT ITEMS THEY GOT). As they were searching they began to feel the earth quake and quickly exited the cavern. As they emerged they witnessed a wave of destruction cascading over the [[Driftwood Forest]]. [[Soffalie]] expressed her anger and wants to know who is responsible.

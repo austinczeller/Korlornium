@@ -1,5 +1,15 @@
 ---
 dg-publish:
+Species: "[[Elf]]"
+Alive: true
+Location:
+  - "[[Duskwind Landing]]"
+  - "[[Dithoria City]]"
+  - "[[Masoka]]"
+Type: NPC
+Antagonisic: false
+Organizations:
+  - "[[The Silvertree Conservatory]]"
 ---
 
 # Elandra Daenbright
