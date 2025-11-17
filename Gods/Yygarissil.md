@@ -7,6 +7,7 @@ Type: Place
 
 In [[Korlornium]] people have claimed to see visions of this place particularly near [[Mount Redshield]] during [[Winter's Crest]].
 
+[[Ulthagos]] was cursed to have to carry the burden of sculpting the material world and is not in [[Yygarissil]]
 
 
 ### Entities believed to be within Yygarissil
@@ -18,6 +19,6 @@ In [[Korlornium]] people have claimed to see visions of this place particularly 
 - [[Solwyn]]
 - [[Sora]]
 - [[Tidemother]]
-- [[Ulthagos]]
+
 
 

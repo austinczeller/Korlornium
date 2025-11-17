@@ -13,7 +13,7 @@ Place_Category: Town
 ## Description
 A western style town resembling the high desert. If ya look at a scoundrel wrong they may challenge you to a [[Quick Draw]].
 
-The town is made up of refugees from a mining disaster in the [[Agite Mountains]] at a site operated by [[Vancouver Gold]]. 
+The town is made up of refugees from a mining disaster in the [[Agite Mountains]] at a site operated by [[Queen Gold]]. 
 
 ## Places Within 
 ```dataview

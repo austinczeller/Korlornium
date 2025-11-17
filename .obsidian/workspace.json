@@ -24,34 +24,6 @@
             }
           },
           {
-            "id": "d2f20ea1dc5a8383",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Silvertree Conservatory.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Silvertree Conservatory"
-            }
-          },
-          {
-            "id": "7a008bf3ac015819",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC's/Baddies/Elandra Daenbright.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Elandra Daenbright"
-            }
-          },
-          {
             "id": "c4e0f8a43ba17f27",
             "type": "leaf",
             "state": {
@@ -63,33 +35,6 @@
               },
               "icon": "lucide-file",
               "title": "Scalecrest Bluffs"
-            }
-          },
-          {
-            "id": "e646b69076378774",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "z_Assests/Bases/Locations.base",
-                "viewName": "All"
-              },
-              "icon": "lucide-table",
-              "title": "Locations"
-            }
-          },
-          {
-            "id": "a9b916da53c2d8bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Assests/DM Resources/Plot Ideas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plot Ideas"
             }
           },
           {
@@ -107,49 +52,41 @@
             }
           },
           {
-            "id": "cf9556f8acd6316c",
+            "id": "78be82df9d18cc15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homepage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "0c7f207ece42b0be",
+            "id": "8f3fc046666ed522",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World (Erodas)/Korlornium/Scalecrest Bluffs.md",
+                "file": "Sessions/Session 16- Dragonfly to Dragon.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scalecrest Bluffs"
+              "title": "Session 16- Dragonfly to Dragon"
             }
           },
           {
-            "id": "78be82df9d18cc15",
+            "id": "d49f6ac20e9973ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World (Erodas)/Korlornium/Caldirth/Saugeo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Saugeo"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -257,8 +194,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Assests/DM Resources/Plot Ideas.md",
-                "collapseAll": false,
+                "file": "Sessions/Session 16- Dragonfly to Dragon.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -267,7 +204,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Plot Ideas"
+              "title": "Backlinks for Session 16- Dragonfly to Dragon"
             }
           },
           {
@@ -276,12 +213,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Assests/DM Resources/Plot Ideas.md",
+                "file": "Sessions/Session 16- Dragonfly to Dragon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Plot Ideas"
+              "title": "Outgoing links from Session 16- Dragonfly to Dragon"
             }
           },
           {
@@ -300,11 +237,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 364.5,
+    "width": 426.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -330,35 +267,40 @@
   },
   "active": "8a5bd990c234c22f",
   "lastOpenFiles": [
+    "README.md",
+    "World (Erodas)/Dracofold.md",
+    "Sessions/Session 16- Dragonfly to Dragon.md",
     "Homepage.md",
-    "World (Erodas)/Korlornium/Caldirth/Saugeo.md",
     "World (Erodas)/Korlornium/Scalecrest Bluffs.md",
-    "Sessions/Session 12- Veil-master madness.md",
+    "World (Erodas)/Korlornium/Caldirth/Saugeo.md",
     "World (Erodas)/Korlornium/Caldirth/Agite Mountains.md",
+    "z_Assests/Images/wok-wok.png",
+    "z_Assests/Images/Stormwood_tree.png",
+    "z_Assests/Images/Splash/332326_spectatorinroom_lilyabdullina.jpg",
+    "z_Assests/Images/Random",
+    "z_Assests/Images/Random/insights_session16.png",
+    "NPC's/Neutral/Georgey.md",
+    "NPC's/Neutral/Sherriff Azim.md",
+    "Gods/Yygarissil.md",
+    "Gods/The Books of Terror and Longing.md",
+    "DM Board.md",
+    "Things and Objects/Ribbitting Ribbon.md",
+    "NPC's/Neutral/Heaven's Hole/Moon.md",
+    "z_Assests/DM Resources/Plot Ideas.md",
+    "World (Erodas)/Korlornium/Caldirth/Heaven's Hole/Heaven's Hole.md",
+    "z_Assests/Templates/Location Template.md",
+    "NPC's/Baddies/Elandra Daenbright.md",
+    "z_Assests/Bases/Locations.base",
+    "NPC's/Neutral/Heaven's Hole/Deepseer Poppy.md",
+    "Sessions/Session 12- Veil-master madness.md",
     "World (Erodas)/Korlornium/Caldirth/Frostcrag Glade.md",
     "Organizations/The Silvertree Conservatory.md",
-    "z_Assests/DM Resources/Plot Ideas.md",
     "New Text Document.txt",
-    "z_Assests/Bases/Locations.base",
     "z_Assests/Bases/Groups.base",
     "z_Assests/Templates/Group Template.md",
     "z_Assests/Templates/Article Template.md",
-    "z_Assests/Templates/Location Template.md",
     "z_Assests/Templates/Monster Template.md",
     "z_Assests/Templates/NPC Template.md",
-    "NPC's/Baddies/Elandra Daenbright.md",
-    "Sessions/Untitled.md",
-    "z_Assests/Templates/Session Template.md",
-    "NPC's/Stinkyguy.md",
-    "Sessions/Session 16- Dragonfly to Dragon.md",
-    "Sessions/Session 13- Aftermath of a Violent Election.md",
-    "Things and Objects/The Salty Bitch.md",
-    "Player Characters/Vel'Korr.md",
-    "Player Characters/Thorne.md",
-    "Player Characters/Soffalie.md",
-    "Player Characters/Ira.md",
-    "Player Characters/Kel.md",
-    "Player Characters/Faefi.md",
     "z_Assests/Bases/Characters.base",
     "z_Assests/Bases/Property Bros.base",
     "z_Assests/Bases/Session.base",
@@ -369,13 +311,8 @@
     "z_Assests/Images/Character portaits/Nilah.png",
     "z_Assests/Images/Splash/Nilah_layer_entrance.png",
     "z_Assests/Images/Splash/Session 15 Splash.png",
-    "z_Assests/Images/Splash",
     "z_Assests/Images/Splash/Session_16_Splash.png",
     "z_Assests/Stat Blocks/Ogre.png",
-    "z_Assests/Stat Blocks/Troll_limb.png",
-    "z_Assests/Stat Blocks/Troll.png",
-    "z_Assests/Images/Stormwood_Armor2.png",
-    "z_Assests/Images/Character portaits/Madam_LeBlanc.png",
     "z_Assests/DM Resources/Session Canvas.canvas",
     "Resources/Untitled.canvas"
   ]

@@ -33,7 +33,8 @@ WHERE Type = "Location" AND contains(Location, this.file.link)
 ## Notable NPCs
 ```dataview
 TABLE Location, Species, Organizations
-WHERE Type = "NPC" AND contains(Location,this.file.link)
+WHERE Type = "NPC" AND contains(Location,this.file.link) OR 
+Type = "PC" AND contains(Location, this.file.link)
 ```
 
 
