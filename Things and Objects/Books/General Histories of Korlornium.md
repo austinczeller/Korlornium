@@ -7,15 +7,15 @@ Type: Object
 ##### Compiled by The Erodian Atlasing Society
 ## Welcome to Korlornium
 ### Preface
-Consider yourself lucky. My associates and I have been compiling histories of this ancient land for as long as the [[Fowlmen]] have walked [[Siroth]]. [[Korlornium]] is quite a fascinating continent full of geopolitical conflict, natural wonders, and (more so in present day) debauchery. Due to the instability over the past 2000 years information is difficult to come by for this region. Thereby you may notice gaps in our manuscripts, but be advised we will update this text as new information and historical accounts come to light. We hope you enjoy reading the collected text and may immerse yourself in the rich and mysterious land which many of the authors of this text call home.
+My associates and I have been compiling histories of this ancient land for as long as the [[Fowlmen]] have walked [[Siroth]]. [[Korlornium]] is quite a fascinating continent full of geopolitical conflict, natural wonders, and (more so in present day) debauchery. Due to the instability over the past 2000 years information is difficult to come by for this region. Thereby you may notice gaps in our manuscripts, but be advised we will update this text as new information and historical accounts come to light. We hope you enjoy reading the collected text and may immerse yourself in the rich and mysterious land which many of the authors of this text call home.
 
 Regards,
 [[The Erodian Atlasing Society]]
 
 ### Map
-![[Korlornium 1.png]]
+![[Korlornium.png]]
 Map is a work in progress and may change as needed.
-**Map last updated March 10 2025**
+**Map last updated November 20 2025**
 
 ### General History of Korlornium Geography
 It is 2000 years since [[The Great Wave]], the events which created [[The Scar]]. [[Korlornium]] is a divided continent both physically and politically. The western side of the continent, [[Caldrith]] is a forested and mountainous region with scattered wetlands. The eastern side of the continent, [[Siroth]] is characterized by its vast deserts, dry savannahs, and pockets of badlands.

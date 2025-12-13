@@ -9,6 +9,7 @@ In [[Korlornium]] people have claimed to see visions of this place particularly 
 
 [[Ulthagos]] was cursed to have to carry the burden of sculpting the material world and is not in [[Yygarissil]]
 
+The gods have power over [[Erodas]] due to the location in which they reside as the Gods travel to different locations within [[Yygarissil]] this creates natural phenomena which ripples unto [[Erodas]].
 
 ### Entities believed to be within Yygarissil
 - [[Alune]]

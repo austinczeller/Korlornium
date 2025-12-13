@@ -1,5 +1,9 @@
 ---
 Type: Session
+date: 2025-08-03
+Location:
+  - "[[The Scar]]"
+  - "[[Stormveil]]"
 ---
 
 # Recap

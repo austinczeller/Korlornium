@@ -1,6 +1,9 @@
 ---
-dg-publish: 
+dg-publish:
 Type: Session
+date: 2025-09-28
+Location:
+  - "[[Stormveil]]"
 ---
 ## Recap
 > Recap monologue

@@ -1,6 +1,8 @@
 ---
 Type: Session
-Date:
+Date: 2025-07-06
+Location:
+  - "[[The Scar]]"
 ---
 
 ## Recap

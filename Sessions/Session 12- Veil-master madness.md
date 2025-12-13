@@ -1,6 +1,9 @@
 ---
-dg-publish: 
+dg-publish:
 Type: Session
+date: 2025-08-29
+Location:
+  - "[[Stormveil]]"
 ---
 #### Music
 Milling about Stormveil:

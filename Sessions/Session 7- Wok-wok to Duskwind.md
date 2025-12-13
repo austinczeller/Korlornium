@@ -1,7 +1,10 @@
 ---
 dg-publish:
 Type: Session
-Date:
+Date: 2025-06-15
+Location:
+  - "[[Saltmire Cay]]"
+  - "[[Duskwind Landing]]"
 ---
 
 ## Recap

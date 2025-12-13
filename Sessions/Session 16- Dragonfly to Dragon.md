@@ -1,7 +1,14 @@
 ---
-dg-publish: 
+dg-publish:
 Type: Session
+Date: 2025-11-29
+Location:
+  - "[[Scalecrest Bluffs]]"
 ---
+> [!reminder]
+>  Give the players 3 things they can interact with per description
+
+
 
 # Recap
 > Recap monologue
@@ -25,7 +32,10 @@ actions:
 ```
 # Notes:
 ---
-*Type notes taken during session or just things you want to ensure you remember*
+Gate says "Parsus' love was too much to bear"
+38 dmg on [[Sibil Meadowlark]]
+
+
 # Scene: Flight of the dragonflies
 ---
 ![[Session_16_Splash.png]]
@@ -34,6 +44,7 @@ Come up with some sort of flight challenge.
 Describe the scenery.
 
 Group of predatory gulls take bites out of the flies.
+	Four gulls AC 12 1 HP
 
 [[Thorne]], and [[Soffalie]] you would know that these dragonflies aren't found at higher elevations. you see snow falling and as ectotherms these bugs will not be able to function at a 
 Find a spot to land.
@@ -42,7 +53,9 @@ Skill challenge
 ##### Setting: 
 Above the clouds leaving Heaven's hole to Scalecrest Bluffs
 ##### Music options:
-- *Links to music*
+- https://www.youtube.com/watch?v=8T26WG593uU Wind ambiance
+- https://www.youtube.com/watch?v=hzJTZgGtAVU&list=PLtdXajwkBeaUqspXbthJkim-l0_-k3gxU&index=25 Rain 
+- https://www.youtube.com/watch?v=g5SVaVuIoRY&list=RDg5SVaVuIoRY&start_radio=1&t=201s music
 ## Setup
 The party must make an animal handling check 13 if they fail DEX to stay on.
 
@@ -57,7 +70,13 @@ All PCs but the scene really highlights [[Soffalie]] and [[Thorne]]
 
 # Scene: Travelers
 ### Scene Notes
+The party will pass under an archway with draconic runes. The archway is made of stone and there is covered in lush green moss and lichen. At the top of the arch there looks to be a dull and faded inscription
+> *Anyone speak draconic?*
+
+
 The travelers walking up to witness the great storm of the dragon [[Nilah]]. Seeming [[Parsus]] followers. Actually [[Zora Meadowlark]], [[Sibil Meadowlark]], and [[Gork]] under a seeming spell. They came from the town [[Saugeo]].
+
+The two women are wearing hooded robes blue and gold trimmed. They look to be young elves.
 
 What will they say?
 ##### Scene type:
@@ -65,7 +84,8 @@ What will they say?
 ##### Setting: 
 *Once they land on the [[Scalecrest Bluffs]]*
 ##### Music options:
-- *Links to music*
+- https://www.youtube.com/watch?v=i0fnHsrEE3w&list=PLtdXajwkBeaUqspXbthJkim-l0_-k3gxU&index=35
+- https://www.youtube.com/watch?v=w7_7pz5-Jk0&list=PLtdXajwkBeaUqspXbthJkim-l0_-k3gxU&index=43 THUNDER
 ## Setup
 *The party finds a safe place to land halfway up the mountain.* 
 *They continue to walk up the trail*
@@ -145,6 +165,67 @@ Would you like me to help you write Zora’s _true dialogue voice_ — how she s
 ##### Setting: 
 *Where*
 ##### Music options:
+- https://www.youtube.com/watch?v=__Q5n1AevvA&list=PLtdXajwkBeaUqspXbthJkim-l0_-k3gxU&index=50
+- https://www.youtube.com/watch?v=K1BtuIFB-1c&list=RDK1BtuIFB-1c&start_radio=1 music delay the start for further ambience
+
+## Setup
+*How is the party arriving at this scene and what are the conditions?*
+## Descriptions
+As you approach you all feel a heavy weight in your stomach.
+Are you really about to see a dragon face to face?
+
+
+[[Thorne]] you have seen [[Nilah]] flying overhead as a child but to see her up close would give you tremendous joy. You remember stories [[Deepseer Poppy]] telling you of how [[Nilah]] helps create the beautiful place you call home. Her thunder and rain fill all the little hidden lakes and ponds surrounding [[Heaven's Hole]]. You have heard only good stories from Poppy about the dragon but you can't help but to feel uneasy at the thought of standing face to face with a dragon. 
+
+[[Vel'Korr]] you and [[Faefi]] have traveled much of [[Korlornium]] together but never have you been so close to what you feel like unspeakable power. The skies quake as you approach.
+
+[[Soffalie]] you have encountered and charmed many beasts but none quite as stoic and terrifying as a dragon.
+
+[[Kel]] your music and whimsy has brought light to many people's lives but as you approach the cavern you feel a lump in your throat. 
+
+[[Picasso]] you are accustomed to witnessing unspeakable Eldritch horrors. This dragon does not frighten you.
+
+## Participants
+*List participants*
+## Rewards
+*What is the purpose of this scene and does the party get anything?*
+
+# Scene: Gibberling Room 
+### Scene Notes
+Gibberling battle they see the Gibberlings use a slug to turn 
+##### Scene type:
+*Combat!*
+##### Setting: 
+https://www.youtube.com/watch?v=1SueveYFi24&t=6s animated map!
+##### Music options:
+- https://www.youtube.com/watch?v=t3B802PIuB0&list=RDt3B802PIuB0&start_radio=1
+## Setup
+*How is the party arriving at this scene and what are the conditions?*
+## Descriptions
+*Any descriptions to set the scene?*
+## Participants
+basilisk turned gibberling
+
+![[gibberlings.webp]]
+## Rewards
+*What is the purpose of this scene and does the party get anything?*
+# Scene: Art Room 
+### Scene Notes
+This is an room full of art of Parsus.
+There is looking around you see statues, tomes and paintings about
+
+Roll a group perception:
+Three things catch your eyes.
+1. Vial of Parsus Tears
+	- there is a desk with ancient words in draconic
+		- [[Nilah]] has been researching the properties in human form
+		- 
+2. 
+##### Scene type:
+roleplay
+##### Setting: 
+*Where*
+##### Music options:
 - *Links to music*
 ## Setup
 *How is the party arriving at this scene and what are the conditions?*
@@ -155,73 +236,44 @@ Would you like me to help you write Zora’s _true dialogue voice_ — how she s
 ## Rewards
 *What is the purpose of this scene and does the party get anything?*
 
+# Scene: Nilah 
+### Scene Notes
+*Placeholder*
+##### Scene type:
+Roleplay
+##### Setting: 
+Nilah's den foundry map
+##### Music options:
+- *Links to music*
+## Setup
+*How is the party arriving at this scene and what are the conditions?*
+## Descriptions
+*Any descriptions to set the scene?*
+## Participants
+*List participants*
+## Rewards
+*What is the purpose of this scene and does the party get anything?*
 # Scene: Zora encounter
 ### Scene Notes
 Need to have Zora nudge the party to find the next Gate Stone. Maybe make a comment about taking a trip to [[Thalmyre]] as their motely crew would fit right in. 
+
+Zora and the gang convince Nilah that these 
 ##### Scene type:
 *Combat, roleplay: what is the game?*
 ##### Setting: 
-*Where*
+
 ##### Music options:
-- *Links to music*
+- https://www.youtube.com/watch?v=CNf6BL8gwbw&list=PLtdXajwkBeaUqspXbthJkim-l0_-k3gxU&index=36
+- Negotiation: https://www.youtube.com/watch?v=uqkULUOurC4&list=RDt3B802PIuB0&index=50
 ## Setup
 *How is the party arriving at this scene and what are the conditions?*
 ## Descriptions
-*Any descriptions to set the scene?*
+21
 ## Participants
 *List participants*
 ## Rewards
 *What is the purpose of this scene and does the party get anything?*
 
 
-# Scene: 
-### Scene Notes
-*Placeholder*
-##### Scene type:
-*Combat, roleplay: what is the game?*
-##### Setting: 
-*Where*
-##### Music options:
-- *Links to music*
-## Setup
-*How is the party arriving at this scene and what are the conditions?*
-## Descriptions
-*Any descriptions to set the scene?*
-## Participants
-*List participants*
-## Rewards
-*What is the purpose of this scene and does the party get anything?*
-# Scene: 
-### Scene Notes
-*Placeholder*
-##### Scene type:
-*Combat, roleplay: what is the game?*
-##### Setting: 
-*Where*
-##### Music options:
-- *Links to music*
-## Setup
-*How is the party arriving at this scene and what are the conditions?*
-## Descriptions
-*Any descriptions to set the scene?*
-## Participants
-*List participants*
-## Rewards
-*What is the purpose of this scene and does the party get anything?*
-# Scene: 
-### Scene Notes
-*Placeholder*
-##### Scene type:
-*Combat, roleplay: what is the game?*
-##### Setting: 
-*Where*
-##### Music options:
-- *Links to music*
-## Setup
-*How is the party arriving at this scene and what are the conditions?*
-## Descriptions
-*Any descriptions to set the scene?*
-## Participants
-*List participants*
-## Rewards
-*What is the purpose of this scene and does the party get anything?*
+
+

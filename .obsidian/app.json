@@ -1,7 +1,8 @@
 {
   "alwaysUpdateLinks": true,
   "userIgnoreFilters": [
-    "z_Assests/"
+    "z_Assests/",
+    "Sessions/"
   ],
   "propertiesInDocument": "visible",
   "defaultViewMode": "preview"

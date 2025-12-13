@@ -1,7 +1,11 @@
 ---
 dg-publish:
 Type: Session
-Date:
+Date: 2025-03-07
+Location:
+  - "[[Duskwind Landing]]"
+  - "[[Old Duskwind]]"
+  - "[[Driftwood Forest]]"
 ---
 
 #### Act 1: Setting the Stage (Duskwind Landing)

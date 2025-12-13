@@ -1,0 +1,14 @@
+filters:
+  and:
+    - Type == "Group"
+formulas:
+  Number of members: this.file.links
+properties:
+  file.name:
+    displayName: Facton
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+    sort: []

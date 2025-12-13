@@ -1,6 +1,10 @@
 ---
-dg-publish: 
+dg-publish:
 Type: Session
+date: 2025-10-03
+Location:
+  - "[[Stormveil]]"
+  - "[[Heaven's Hole]]"
 ---
 
 ## Recap

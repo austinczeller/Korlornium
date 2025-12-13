@@ -5,7 +5,7 @@ Alive: true
 Location:
   - "[[Duskwind Landing]]"
   - "[[Dithoria City]]"
-  - "[[Masoka]]"
+  - "[[Wyegate]]"
 Type: NPC
 Antagonisic: false
 Organizations:

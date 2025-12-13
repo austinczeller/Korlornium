@@ -1,7 +1,9 @@
 ---
 dg-publish:
 Type: Session
-Date:
+Date: 2025-05-02
+Location:
+  - "[[Saltmire Cay]]"
 ---
 
 ## Recap

@@ -1,6 +1,8 @@
 ---
 dg-publish:
 Type: Session
+date: 2025-02-28
+Location: "[[Duskwind Landing]]"
 ---
 
 # Sea Rot

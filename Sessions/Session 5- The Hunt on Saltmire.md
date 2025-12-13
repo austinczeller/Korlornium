@@ -1,7 +1,11 @@
 ---
 dg-publish:
 Type: Session
-Date:
+Date: 2025-04-26
+Location:
+  - "[[The Scar]]"
+  - "[[The Salty Bitch]]"
+  - "[[Saltmire Cay]]"
 ---
 
 ## Recap

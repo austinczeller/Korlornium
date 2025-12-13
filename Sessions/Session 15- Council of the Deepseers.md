@@ -1,6 +1,9 @@
 ---
-dg-publish: 
+dg-publish:
 Type: Session
+date: 2025-10-19
+Location:
+  - "[[Heaven's Hole]]"
 ---
 
 ## Recap

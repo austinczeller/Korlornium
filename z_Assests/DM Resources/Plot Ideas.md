@@ -54,5 +54,8 @@ The great wave was an act of the gods to cover
 
 Tiamat rules Dracofold and eludes to another adventure, many dragon's in Korlornium fled from her rule.
 
+Gods are not immortal!!!!!!!
+
+
 
 

@@ -35,6 +35,7 @@
     "Species": "multitext",
     "Within": "multitext",
     "Class": "multitext",
-    "Organizations": "multitext"
+    "Organizations": "multitext",
+    "date": "date"
   }
 }

@@ -1,7 +1,11 @@
 ---
 dg-publish:
 Type: Session
-Date:
+Date: 2025-04-05
+Location:
+  - "[[Duskwind Landing]]"
+  - "[[Old Duskwind]]"
+  - "[[Driftwood Forest]]"
 ---
 
 # Recap
