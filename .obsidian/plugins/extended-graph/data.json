@@ -80,7 +80,7 @@
   "additionalProperties": {},
   "backupGraphOptions": {
     "collapse-filter": false,
-    "search": "",
+    "search": "-path:Sessions",
     "showTags": false,
     "showAttachments": false,
     "hideUnresolved": false,
@@ -88,101 +88,115 @@
     "collapse-color-groups": false,
     "colorGroups": [
       {
-        "query": "path:\"NPC's/Baddies\"  ",
+        "query": "[\"type\":NPC]",
         "color": {
           "a": 1,
           "rgb": 14701138
         }
       },
       {
-        "query": "path:Gods  ",
+        "query": "[\"type\":Session]",
         "color": {
           "a": 1,
           "rgb": 14725458
         }
       },
       {
-        "query": "path:\"Player Characters\"  ",
+        "query": "[\"type\":Location]",
         "color": {
           "a": 1,
-          "rgb": 1845911
+          "rgb": 3766604
         }
       },
       {
-        "query": "path:World  ",
+        "query": "[\"type\":Organization]",
         "color": {
           "a": 1,
-          "rgb": 3111215
+          "rgb": 5431378
         }
       },
       {
-        "query": "path:\"NPC's/Allies\" ",
+        "query": "[\"type\":PC]",
         "color": {
           "a": 1,
-          "rgb": 9246339
+          "rgb": 5431473
         }
       },
       {
-        "query": "path:History  ",
+        "query": "[\"type\":Object]",
         "color": {
           "a": 1,
-          "rgb": 6965520
+          "rgb": 5419488
         }
       },
       {
-        "query": "path:Organizations  ",
+        "query": "[\"type\":God]",
         "color": {
           "a": 1,
-          "rgb": 2901848
+          "rgb": 16580408
         }
       },
       {
-        "query": "  path:NPC's/Neutral  ",
+        "query": "[\"type\":Species]",
         "color": {
           "a": 1,
-          "rgb": 9246339
+          "rgb": 11621088
         }
       },
       {
-        "query": "path:\"NPC's/Inactive or Perished\"  ",
+        "query": "[\"type\":Plane]",
         "color": {
           "a": 1,
-          "rgb": 2962238
+          "rgb": 14701233
         }
       },
       {
-        "query": "path:\"Things and Objects\"  ",
+        "query": "[\"type\":Event]",
         "color": {
           "a": 1,
-          "rgb": 6122031
+          "rgb": 5522732
         }
       },
       {
-        "query": "path:NPC's/Crewmates  ",
+        "query": "[\"type\":Date]",
         "color": {
           "a": 1,
-          "rgb": 5287353
+          "rgb": 14725458
         }
       },
       {
-        "query": "path:Species  ",
+        "query": "[\"type\":Group]",
         "color": {
           "a": 1,
-          "rgb": 0
+          "rgb": 2575458
+        }
+      },
+      {
+        "query": "[\"type\":Customs/ Culture]",
+        "color": {
+          "a": 1,
+          "rgb": 18687
+        }
+      },
+      {
+        "query": "[\"type\":Vessel]",
+        "color": {
+          "a": 1,
+          "rgb": 663064
         }
       }
     ],
-    "collapse-display": false,
+    "collapse-display": true,
     "showArrow": false,
     "textFadeMultiplier": 0,
-    "nodeSizeMultiplier": 1,
-    "lineSizeMultiplier": 1,
+    "nodeSizeMultiplier": 1.23054794520548,
+    "lineSizeMultiplier": 1.41465753424658,
     "collapse-forces": false,
     "centerStrength": 0.518713248970312,
     "repelStrength": 10,
     "linkStrength": 1,
     "linkDistance": 250,
-    "scale": 0.9234000769335512,
+    "scale": 0.6223491140020678,
     "close": true
   },
   "openInNewTab": false,

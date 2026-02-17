@@ -1,0 +1,63 @@
+{
+  "callouts": {
+    "custom": [
+      "challenge",
+      "combat",
+      "description",
+      "item"
+    ],
+    "settings": {
+      "challenge": [
+        {
+          "changes": {
+            "icon": "lucide-shield-question"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "207, 125, 48"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "207, 125, 48"
+          }
+        }
+      ],
+      "combat": [
+        {
+          "changes": {
+            "icon": "lucide-swords",
+            "color": "226, 34, 43"
+          }
+        }
+      ],
+      "description": [
+        {
+          "changes": {
+            "icon": "lucide-bird",
+            "color": "54, 158, 16"
+          }
+        }
+      ],
+      "item": [
+        {
+          "changes": {
+            "icon": "lucide-bow-arrow"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

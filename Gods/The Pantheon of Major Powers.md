@@ -1,6 +1,9 @@
 ---
 dg-publish:
-Type:
+Type: Group
+Location:
+  - "[[Yygarissil]]"
+  - "[[Erodas]]"
 ---
 # [[The Pantheon of Major Powers]]
 ## Description

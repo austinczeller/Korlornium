@@ -233,3 +233,30 @@ views:
       note.Location: 210
       note.Crew_Position: 135
       note.Class: 143
+  - type: table
+    name: Thalmyre
+    filters:
+      and:
+        - Location.contains(link("Thalmyre"))
+    order:
+      - file.name
+      - Location
+      - Organizations
+      - Alive
+      - Species
+      - Antagonisic
+    sort:
+      - property: Location
+        direction: ASC
+      - property: Organizations
+        direction: ASC
+      - property: file.mtime
+        direction: DESC
+      - property: file.name
+        direction: ASC
+      - property: Antagonisic
+        direction: ASC
+    columnSize:
+      file.name: 171
+      note.Location: 278
+      note.Organizations: 128

@@ -7,7 +7,8 @@ Location:
 
 ## Members
 ```dataview
-TABLE Location  
+TABLE Type, Location
+
 WHERE contains(Organizations, this.file.link)
 SORT file.mtime DESC
 ```

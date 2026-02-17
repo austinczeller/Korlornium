@@ -4,6 +4,8 @@ Type: Session
 date: 2025-10-19
 Location:
   - "[[Heaven's Hole]]"
+fc-date:
+fc-category:
 ---
 
 ## Recap

@@ -1,6 +1,6 @@
 ---
 dg-publish: true
-Type: Place
+Type: Location
 ---
 # Yygarissil
  [[Yygarissil]] is common name for the location that gods ascend to. It is unknown whether this place exists in a parallel plane or is outside of [[Erodas]]. It is believed that essences of life have come from this place and is a place of undeath. 

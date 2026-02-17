@@ -7,9 +7,13 @@ views:
     order:
       - file.name
       - Date
-      - file.ctime
+      - Location
     sort:
+      - property: IGN-Date
+        direction: ASC
       - property: file.name
+        direction: ASC
+      - property: date
         direction: DESC
     columnSize:
-      note.Date: 83
+      note.date: 125

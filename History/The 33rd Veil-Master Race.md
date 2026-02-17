@@ -2,6 +2,8 @@
 dg-publish:
 Type: Event
 Location: "[[Stormveil]]"
+fc-date: 12004-01-45
+fc-category: Event
 ---
 # The 33rd Veil-Master Race
 

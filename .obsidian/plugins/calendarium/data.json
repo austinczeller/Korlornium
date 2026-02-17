@@ -1,10 +1,306 @@
 {
   "autoParse": false,
-  "calendars": [],
+  "calendars": [
+    {
+      "name": "Erodian Standard",
+      "description": null,
+      "id": "ID_e94a1b4b6ba9",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": false,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Vitael (Spirit)",
+            "id": "ID_58db38dbdb0b",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Luxael (Light)",
+            "id": "ID_6aa81a8a69c8",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Umrael (Shadow)",
+            "id": "ID_38489b7b1ba8",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Terrael (Land)",
+            "id": "ID_2a2998bb59d9",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Aelwyn (Air)",
+            "id": "ID_39bb9b09ca28",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Aqueal (Water)",
+            "id": "ID_49db1bcab9b8",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Pyrael (Fire)",
+            "id": "ID_4aa9c9ebb84b",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Temprael (Storm)",
+            "id": "ID_3b5ba9eaa89b",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Veloriael (Noise)",
+            "id": "ID_489b1aba9b38",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Vaelchron (Time)",
+            "id": "ID_688ba91b7bc9",
+            "number": null
+          }
+        ],
+        "months": [
+          {
+            "name": "Nhaale (Inhale)",
+            "type": "month",
+            "length": 80,
+            "id": "ID_7a0afb5a6848",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Htaale (Heat)",
+            "type": "month",
+            "length": 80,
+            "id": "ID_18296b8b3adb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Xhaale (Exhale)",
+            "type": "month",
+            "length": 80,
+            "id": "ID_8b296b29bbeb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Salaale (Quiet)",
+            "type": "month",
+            "length": 80,
+            "id": "ID_a90b0aca3be9",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Têthra",
+            "cycle": 64,
+            "offset": 20,
+            "faceColor": "#f7f7f0",
+            "shadowColor": "#292b4a",
+            "id": "ID_d89a788b8bea"
+          },
+          {
+            "name": "Pêpra",
+            "cycle": 200,
+            "offset": 0,
+            "faceColor": "#aabb67",
+            "shadowColor": "#292b4a",
+            "id": "ID_e838fba849fb"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [],
+        "eras": [],
+        "padMonths": 1,
+        "padDays": 2
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "ID_7a4a68e9aae9",
+            "name": "Spring",
+            "type": "Dated",
+            "kind": "Spring",
+            "month": 0,
+            "day": 1,
+            "color": "#b3b60f",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "ID_8adbe91a7999",
+            "name": "Summer",
+            "type": "Dated",
+            "kind": "Summer",
+            "month": 1,
+            "day": 1,
+            "color": "#d07975",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "ID_aa1a793b09bb",
+            "name": "Autumn",
+            "type": "Dated",
+            "kind": "Autumn",
+            "month": 2,
+            "day": 1,
+            "color": "#32911a",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "ID_db0979695a0b",
+            "name": "Winter",
+            "type": "Dated",
+            "kind": "Winter",
+            "month": 3,
+            "day": 1,
+            "color": "#51c4c3",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          }
+        ],
+        "offset": 0,
+        "type": "Dated",
+        "displayColors": false,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": 1,
+          "tempUnits": "Imperial",
+          "windUnits": "Metric",
+          "primaryWindDirection": "E"
+        }
+      },
+      "locations": {
+        "locations": []
+      },
+      "current": {
+        "day": 56,
+        "month": 0,
+        "year": 12004
+      },
+      "events": [
+        {
+          "name": "Spring Equinox",
+          "description": "<p>The spring equinox is when the day and the night are equally as long, and are getting longer.</p>",
+          "id": "3544410",
+          "note": null,
+          "type": "Undated",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": "ID_38cbc8aa1bf9",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Summer Solstice",
+          "description": "<p>\tAt the summer solstice, the Sun travels the longest path through the sky, and that day therefore has the most daylight.</p>",
+          "id": "3544411",
+          "note": null,
+          "type": "Recurring",
+          "date": {
+            "day": [
+              40,
+              40
+            ],
+            "month": 1,
+            "year": [
+              1,
+              9999
+            ]
+          },
+          "category": "ID_38cbc8aa1bf9",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Autumn Equinox",
+          "description": "<p>The autumn equinox is when the day and the night are equally as long, and are getting shorter.</p>",
+          "id": "3544412",
+          "note": null,
+          "type": "Undated",
+          "date": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "category": "ID_38cbc8aa1bf9",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Winter Solstice",
+          "description": "<p>The winter solstice marks the shortest day and longest night of the year, when the sun is at its lowest arc in the sky.</p>",
+          "id": "3544413",
+          "note": null,
+          "type": "Undated",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        }
+      ],
+      "categories": [
+        {
+          "id": "ID_38cbc8aa1bf9",
+          "color": "#0d7222",
+          "name": "Seasonal Observance"
+        },
+        {
+          "id": "ID_3b09cb8a5879",
+          "color": "#ddc840",
+          "name": "Religious Event "
+        },
+        {
+          "id": "ID_6818fac81b9b",
+          "color": "#ae02dd",
+          "name": "Cultural Holiday"
+        }
+      ],
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events",
+      "dateFormat": "YYYYY-MM-DD"
+    }
+  ],
   "configDirectory": null,
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
-  "defaultCalendar": null,
+  "defaultCalendar": "ID_e94a1b4b6ba9",
   "eventPreview": false,
   "exit": {
     "saving": false,
@@ -13,14 +309,14 @@
     "savingEvent": false
   },
   "eventFrontmatter": false,
-  "parseDates": false,
+  "parseDates": true,
   "version": {
     "major": 2,
-    "minor": 0,
+    "minor": 1,
     "patch": 0,
     "beta": null
   },
-  "debug": false,
+  "debug": true,
   "askedToMoveFC": false,
   "askedAboutSync": false,
   "syncBehavior": "Ask",

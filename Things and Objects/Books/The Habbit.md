@@ -5,7 +5,7 @@ Type: Object
 # [[The Habbit]]
 ## Description
 A book about stealing from a dragon
-First spoken about in [[Session 16- Dragonfly to Dragon]]
+First spoken about in [[Session 16- Dragonflies and Dragons]]
 
 
 ## Related Articles

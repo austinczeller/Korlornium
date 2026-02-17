@@ -15,6 +15,10 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
+      "folder": "/",
+      "template": "z_Assests/Templates/Article Template.md"
+    },
+    {
       "folder": "Sessions",
       "template": "z_Assests/Templates/Session Template.md"
     },
@@ -23,8 +27,20 @@
       "template": "z_Assets/Templates/NPC Template.md"
     },
     {
-      "folder": "/",
-      "template": "z_Assests/Templates/Article Template.md"
+      "folder": "History",
+      "template": "z_Assests/Templates/History Template.md"
+    },
+    {
+      "folder": "Organizations",
+      "template": "z_Assests/Templates/Group Template.md"
+    },
+    {
+      "folder": "Calendar",
+      "template": "z_Assests/Templates/History Template.md"
+    },
+    {
+      "folder": "Things and Objects",
+      "template": "z_Assests/Templates/Item Template.md"
     }
   ],
   "enable_file_templates": false,

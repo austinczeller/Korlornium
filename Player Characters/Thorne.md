@@ -17,7 +17,12 @@ Crew_Position: Angler
 Alive: true
 ---
 # Thorne
+## Notes
+The dragon [[Nilah]] has entrusted [[Thorne]] to take the [[Parsus]] [[Gate Stone]] to [[Casa LeBlanc]] once her [[One-trek]] has been completed
 
+
+
+--- 
 **Player**: Rachel
 **Class**: Ranger
 **Species**: Half-[[Elf]]
@@ -26,7 +31,9 @@ Alive: true
 **Short Description**
 - Half-elf, weird chaotic energy. Described as a buzzing aura.
 - Has mysterious ties to the [[Feywild]]
--  Is infatuated with [[Kel]]
+-  Past infatuated with [[Kel]]
+
+
 
 **Backstory**
 Thorne is a young half-elf from a small cultist clan [[Heaven's Hole]]. She left the clan recently and ended up in [[Duskwind Landing]] on her [[One-trek]].

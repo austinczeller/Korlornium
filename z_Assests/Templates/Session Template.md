@@ -1,98 +1,259 @@
 ---
-dg-publish: 
+dg-publish:
 Type: Session
-Location: 
+date:
+fc-start: YYYY-MM-DD
+fc-end: YYYY-MM-DD
+fc-category: Session
+Location:
 ---
+
 # Recap
 > Recap monologue
 
----
-```meta-bind-button
-label: Home
-icon: ""
-style: primary
-class: ""
-cssStyle: ""
-backgroundImage: ""
-tooltip: ""
-id: ""
-hidden: false
-actions:
-  - type: open
-    link: Homepage.md
-    newTab: true
+
+
+
+```calendarium
 
 ```
+
+
+```button
+name Advance One Day
+type command
+action Calendarium: Set Current Date to Next
+color orange
+```
+
+```button
+name New Scene
+type insert
+action ## Scene
+
+> [!Summary]+
+> 
+
+> [!Description]+
+> 
+
+> [!Note]+
+> 
+
+> [!challenge]+
+> 
+
+> [!Combat]+
+> 
+
+> [!quote]+
+> 
+
+color green
+```
+
+
+
+# Callouts
+ctrl+shift+c 
+
+> [!Summary]+
+> Represents general ideas and thoughts about a scene
+> Usually unfinished and appear at beginning of scene
+
+>[! Note]+
+>Represents information for the GM. Could be mechanics or conditions the party needs to meet.
+
+> [! Description]+
+> This is something to set the scene
+
+> [!challenge]+
+> Something the party will have to overcome. Usually  non-combat
+
+> [! Combat]+
+> Represents potential conflict or **combat**
+
+> [!quote]+
+> Dialogue to be read out loud
+
 # Notes:
 *Type notes taken during session or just things you want to ensure you remember*
 
-# Scene:
-### Scene Notes
-*Placeholder*
-##### Scene type:
-*Combat, roleplay: what is the game?*
-##### Setting: 
-*Where*
-##### Music options:
-- *Links to music*
-## Setup
-*How is the party arriving at this scene and what are the conditions?*
-## Descriptions
-*Any descriptions to set the scene?*
-## Participants
-*List participants*
-## Rewards
-*What is the purpose of this scene and does the party get anything?*
 
----
-# Scene:
-##### Scene type:
-*Combat, roleplay: what is the game?*
-##### Setting: 
-*Where*
-##### Music options:
-- *Links to music*
-## Setup
-*How is the party arriving at this scene and what are the conditions?*
-## Descriptions
-*Any descriptions to set the scene?*
-## Participants
-*List participants*
-## Rewards
-*What is the purpose of this scene and does the party get anything?*
 
----
 # Scene:
-##### Scene type:
-*Combat, roleplay: what is the game?*
-##### Setting: 
-*Where*
-##### Music options:
-- *Links to music*
-## Setup
-*How is the party arriving at this scene and what are the conditions?*
-## Descriptions
-*Any descriptions to set the scene?*
-## Participants
-*List participants*
-## Rewards
-*What is the purpose of this scene and does the party get anything?*
 
----
+> [!Summary]+
+> 
+
+>[! Note]+
+>
+
+> [! Description]+
+> 
+
+> [!challenge]+
+> 
+
+> [! Combat]+
+> 
+
+> [!quote]+
+> 
+
+> [!item]+
+> 
 # Scene:
-##### Scene type:
-*Combat, roleplay: what is the game?*
-##### Setting: 
-*Where*
-##### Music options:
-- *Links to music*
-## Setup
-*How is the party arriving at this scene and what are the conditions?*
-## Descriptions
-*Any descriptions to set the scene?*
-## Participants
-*List participants*
-## Rewards
-*What is the purpose of this scene and does the party get anything?*
 
----
+> [!Summary]+
+> 
+
+>[! Note]+
+>
+
+> [! Description]+
+> 
+
+> [!challenge]+
+> 
+
+> [! Combat]+
+> 
+
+> [!quote]+
+> 
+
+# Scene:
+
+
+> [!Summary]+
+> 
+
+>[! Note]+
+>
+
+> [! Description]+
+> 
+
+> [!challenge]+
+> 
+
+> [! Combat]+
+> 
+
+> [!quote]+
+> 
+
+
+# Scene:
+
+
+> [!Summary]+
+> 
+
+>[! Note]+
+>
+
+> [! Description]+
+> 
+
+> [!challenge]+
+> 
+
+> [! Combat]+
+> 
+
+> [!quote]+
+> 
+
+
+# Scene:
+
+
+> [!Summary]+
+> 
+
+>[! Note]+
+>
+
+> [! Description]+
+> 
+
+> [!challenge]+
+> 
+
+> [! Combat]+
+> 
+
+> [!quote]+
+> 
+
+
+# Scene:
+
+
+> [!Summary]+
+> 
+
+>[! Note]+
+>
+
+> [! Description]+
+> 
+
+> [!challenge]+
+> 
+
+> [! Combat]+
+> 
+
+> [!quote]+
+> 
+
+
+# Scene:
+
+
+> [!Summary]+
+> 
+
+>[! Note]+
+>
+
+> [! Description]+
+> 
+
+> [!challenge]+
+> 
+
+> [! Combat]+
+> 
+
+> [!quote]+
+> 
+
+
+
+# Scene:
+
+
+> [!Summary]+
+> 
+
+>[! Note]+
+>
+
+> [! Description]+
+> 
+
+> [!challenge]+
+> 
+
+> [! Combat]+
+> 
+
+> [!quote]+
+> 
+
+
+

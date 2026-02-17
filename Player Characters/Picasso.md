@@ -12,6 +12,7 @@ Organizations:
   - "[[The Salty Bitches]]"
   - "[[Cult of Cthulhu]]"
 Crew_Position: First Mate
+Alive: true
 ---
 # Picasso
 **Player**: Duncan

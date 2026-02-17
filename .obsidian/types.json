@@ -36,6 +36,10 @@
     "Within": "multitext",
     "Class": "multitext",
     "Organizations": "multitext",
-    "date": "date"
+    "date": "date",
+    "IGN-Date": "text",
+    "excalidraw-export-internal-links": "checkbox",
+    "excalidraw-embed-md": "checkbox",
+    "Artifact": "checkbox"
   }
 }

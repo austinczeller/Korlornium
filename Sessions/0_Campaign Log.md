@@ -4,6 +4,28 @@ dg-publish: true
 ---
 # Campaign Log
 
+```zoommap
+image: z_Assests/Images/Korlornium.png
+imageBases:
+  - path: z_Assests/Images/Korlornium.png
+markers: z_Assests/Images/Korlornium.markers.json
+markerLayers:
+  - Default
+minZoom: 0.25
+maxZoom: 8
+wrap: false
+responsive: false
+width: 100%
+height: 480px
+resizable: false
+resizeHandle: native
+id: map-mj874wju
+view:
+  zoom: 0.2500
+  centerX: 0.499401
+  centerY: 0.500173
+```
+
 Session 1- Sea Rot plagued the town of [[Duskwind Landing]]. The group of [[Vel'Korr]], [[Faefi]], [[Ira]], [[Picasso]], and [[Soffalie]] were tasked to solving how/who has been afflicting the sailors with this curse by the head of the undercity [[Borin Duskrag]], after being exposed to a [[Sea Rot]] body due to [[Morris Greentusk|Maurice]] bringing a body into[[The Sunken Sail]] tavern. [[Borin Duskrag|Borin]] pointed the group to a group of [[Gnome|gnomes]] which have been taken up residence in the [[Driftwood Forest]] as of late. After chugging a couple of pints of [[Goblin Piss]] the gang was off. They decided to first check out [[Sapphire Beach]] where the body was discovered. They found nothing but an unusually high tide and an unusually sticky ice cream shop ([[Duskwind Delights]]). After some minor trespassing the crew adventured into the forest where they confronted the gnomes. The group ended up murdering one individual and made the rest of the gnomes surrender. After an interrogation the group learned the gnomes were innocent but knew there was an imbalance in the magics of the world, and something was not quite right with the world. The gnomes said they were fleeing to the dwarves in the mountains. But there was great evil coming from [[Widow's Rook]]. After learning this the gang went to find a boat. [[Borin Duskrag]] agreed to lend them a small vessel and the crew set sail. After passing a series of sailing challenges, despite being under the influence of [[Spice]], the gang made it to [[Widow's Rook]]. Here they confronted a mad wizard, defeating him and taking in the hoard of [[Spice]] and shipments the wizard had stashed.
 
 Session 2- [[Vel'Korr]] and [[Faefi]] met up with two new members of their new adventuring group, [[Kel]] and [[Thorne]] in [[The Sunken Sail]]. Here they noticed a few gnomes wander through the door, which was odd. They approached them and befriended the gnome named [[Melkor Fluffybottom]]. Melkor told the group about weird sounds coming from the old ruins that have the gnomes spooked as the reside in the forest. He then led the gang to the forest and left them near the ruins where the party had to find their way for rest. They eventually found the ruins and fought a battle against some animated stone statues which seemed to be protecting a sand pit. After figuring that there may be something hidden beneath the sandpit [[Vel'Korr]] agreed to test it out and submitted to the earth.  As he was engulfed he began to breathe sand and  witnessed a large stone figure in white light. The stone figure touched his face and everything faded to black. The party tried to rescue [[Vel'Korr]] through pulling on some rope, but he naturally ascended on his own. From there the ground began to quake and revealed a hidden passage buried in the sand.

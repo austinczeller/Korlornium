@@ -3,6 +3,8 @@ dg-publish: true
 Type: Event
 Location:
   - "[[Duskwind Landing]]"
+fc-date:
+fc-category: Event
 ---
 # Sea Rot
 Sea Rot is disease which was plaguing the town of [[Duskwind Landing]]. 

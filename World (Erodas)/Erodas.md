@@ -10,7 +10,8 @@ Place_Description: Large Earth-like planet
 # Erodas
 [[Erodas]] is the earth-like planet which contains many continents such as [[Korlornium]].
 
-[[Erodas]] has three moons but *typically* only one is visible at night. 
+[[Erodas]] has two moons but *typically* only [[Têthra]] is visible at night. [[Pêpra]], or the yellow moon is often concealed behind the large white moon of [[Têthra]].
+
 
 The calendar year follows similarly to Earth's seasons however months are not distinguished from another. Erodians (people of [[Erodas]]) simply count the number of days they are within a season (typically 80). 
 

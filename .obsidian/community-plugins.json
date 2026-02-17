@@ -12,5 +12,9 @@
   "obsidian-git",
   "homepage",
   "extended-graph",
-  "maps"
+  "maps",
+  "zoom-map",
+  "callout-manager",
+  "multi-column-markdown",
+  "buttons"
 ]

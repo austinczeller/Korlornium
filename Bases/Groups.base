@@ -3,6 +3,8 @@ filters:
     - Type == "Group"
 formulas:
   Number of members: this.file.links
+  Members: |
+    if(Type = NPC, if(Organizations = [[]], list))
 properties:
   file.name:
     displayName: Facton
@@ -11,4 +13,5 @@ views:
     name: Table
     order:
       - file.name
+      - Location
     sort: []

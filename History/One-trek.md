@@ -1,6 +1,6 @@
 ---
 dg-publish:
-Type: Event
+Type: Customs/ Culture
 Location:
   - "[[Heaven's Hole]]"
   - "[[Korlornium]]"

@@ -5,6 +5,8 @@ date: 2025-10-03
 Location:
   - "[[Stormveil]]"
   - "[[Heaven's Hole]]"
+fc-date:
+fc-category:
 ---
 
 ## Recap

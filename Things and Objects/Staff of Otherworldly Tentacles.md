@@ -8,11 +8,9 @@ At first glace this staff seems to be covered in algae. Inscribed along the side
 
 When someone picks this weapon up they feel hungry. and now require 2x the normal rations.
 
-**Requires attunement.** 
-Grants the wielder dark vision, can cast hunger of hadar once per day without expending a spell slot. 
-If not used after a while, the staff may cast hungar of hadar at it's own will. 
 
-Staff communicates through emotion. 
+**Requires attunement.** 
+Staff communicates through emotion.  and smells
 
 Once attuned creature needs to make a DC17 WIS save to un-attune. 
 

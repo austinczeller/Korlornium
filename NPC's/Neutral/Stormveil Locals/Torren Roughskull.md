@@ -16,7 +16,5 @@ Burly human lumberjack with soot all over.
 He owns and operates the shop, [[Torren's Shop]].
 Brother of [[Arthur Roughskull]].
 
-
-
 ## Context
 Might be interested in buying some of the weapons.

@@ -20,6 +20,28 @@ views:
       note.Scale: 83
       note.Place_Category: 123
   - type: table
+    name: Settlements
+    filters:
+      and:
+        - Scale == "Settlement"
+    order:
+      - file.name
+      - Location
+      - Scale
+      - Place_Category
+      - Place_Description
+  - type: table
+    name: Places (fine detail)
+    filters:
+      and:
+        - Scale == "Place"
+    order:
+      - file.name
+      - Scale
+      - Place_Category
+      - Place_Description
+      - Location
+  - type: table
     name: Stormveil
     filters:
       or:

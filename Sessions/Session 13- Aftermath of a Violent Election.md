@@ -4,6 +4,8 @@ Type: Session
 date: 2025-09-28
 Location:
   - "[[Stormveil]]"
+fc-date:
+fc-category: Session
 ---
 ## Recap
 > Recap monologue

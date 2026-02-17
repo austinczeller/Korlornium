@@ -6,10 +6,9 @@ Species:
 Location:
 Organizations:
 Antagonisic:
+Class:
 ---
-
----
-# <%*
+ <%*
 let title = tp.file.title || await tp.system.prompt("NPC Name?");
 -%>
 # [[<% title %>]]

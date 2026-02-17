@@ -4,6 +4,7 @@ date: 2025-08-03
 Location:
   - "[[The Scar]]"
   - "[[Stormveil]]"
+fc-date: 2004-01-44
 ---
 
 # Recap

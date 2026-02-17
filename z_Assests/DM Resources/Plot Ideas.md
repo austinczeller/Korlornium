@@ -56,6 +56,9 @@ Tiamat rules Dracofold and eludes to another adventure, many dragon's in Korlorn
 
 Gods are not immortal!!!!!!!
 
+Tidemother gate stone. bubblebeard has a clue but they will have to explore a Thalmyre map in order to solve it.
+Someone on Thalmyre will have a picasso pamphlet
+
 
 
 

@@ -1,0 +1,22 @@
+filters:
+  and:
+    - '!file.inFolder("z_Assests")'
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasProperty("Type")
+    order:
+      - file.name
+      - Type
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
+    limit: 5
+    columnSize:
+      file.name: 270
+      note.Type: 284

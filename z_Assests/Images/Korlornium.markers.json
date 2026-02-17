@@ -1,0 +1,130 @@
+{
+  "size": {
+    "w": 2804,
+    "h": 2000
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    },
+    {
+      "id": "layer_rrn4ll",
+      "name": "Salty Bitches",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_u9irw5",
+      "x": 0.27606395146483054,
+      "y": 0.6456466884450685,
+      "layer": "default",
+      "link": "Heaven's Hole",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_y6t8qz",
+      "x": 0.41653022364968084,
+      "y": 0.5827823012683084,
+      "layer": "default",
+      "link": "Duskwind Landing",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_dlemwh",
+      "x": 0.27918732644275185,
+      "y": 0.7100232502445643,
+      "layer": "default",
+      "link": "Stormveil",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_fzp1k0",
+      "x": 0.1810916273065447,
+      "y": 0.6267737839826185,
+      "layer": "default",
+      "link": "Saugeo",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_jau5jj",
+      "x": 0.5174799448155651,
+      "y": 0.37732614688383853,
+      "layer": "default",
+      "link": "Dithoria City",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_lm3t7l",
+      "x": 0.2190714733269739,
+      "y": 0.23404621140773232,
+      "layer": "default",
+      "link": "Frostcrag Glade",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_z4oi79",
+      "x": 0.5589259155960804,
+      "y": 0.6404506857209423,
+      "layer": "default",
+      "link": "Thalmyre",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_nffptw",
+      "x": 0.24678463426702685,
+      "y": 0.596743781120713,
+      "layer": "default",
+      "link": "Scalecrest Bluffs",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true,
+      "iconColor": "#DCBE18"
+    }
+  ],
+  "bases": [
+    {
+      "path": "z_Assests/Images/Korlornium.png"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "z_Assests/Images/Korlornium.png",
+  "measurement": {
+    "displayUnit": "km",
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false
+  },
+  "pinSizeOverrides": {},
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "textLayers": []
+}
