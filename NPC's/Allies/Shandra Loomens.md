@@ -6,7 +6,7 @@ Species: "[[Human]]"
 Location:
   - "[[Driftwood Forest]]"
   - "[[Duskwind Landing]]"
-Organizations: "[[Driftwood Druids]]"
+Faction: "[[Driftwood Druids]]"
 Antagonisic: false
 ---
 # Shandra Loomens

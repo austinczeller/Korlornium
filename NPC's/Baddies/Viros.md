@@ -7,6 +7,7 @@ Species:
   - "[[Elf]]"
 Location:
   - "[[Frostcrag Glade]]"
+Faction:
 ---
 # Viros
 ## Description

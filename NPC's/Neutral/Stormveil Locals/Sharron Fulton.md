@@ -8,6 +8,7 @@ Alive: true
 Antagonisic: true
 Species:
   - "[[Human]]"
+Faction:
 ---
 # Sharron Fulton
 [[Sharron Fulton]] is the middle-aged elven woman with pale white skin long pink fingernails and bouffant. She works at the [[Permitting Office of Stormveil]] and was the person who found the late 32nd Veil-father, [[Damon Warthelm]]. 

@@ -7,6 +7,7 @@ Location:
   - "[[The Scar]]"
   - "[[The Salty Bitch]]"
 Antagonisic: true
+Faction:
 ---
 # Betula
 ![[Betula.png]]

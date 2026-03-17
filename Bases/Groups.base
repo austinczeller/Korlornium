@@ -15,3 +15,5 @@ views:
       - file.name
       - Location
     sort: []
+    columnSize:
+      file.name: 222

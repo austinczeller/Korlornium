@@ -10,7 +10,7 @@ Species:
 Location:
   - "[[Heaven's Hole]]"
   - "[[The Salty Bitch]]"
-Organizations:
+Faction:
   - "[[The Community at Heaven's Hole]]"
   - "[[The Salty Bitches]]"
 Crew_Position: Angler

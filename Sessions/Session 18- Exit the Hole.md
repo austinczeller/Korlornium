@@ -2,8 +2,10 @@
 dg-publish:
 Type: Session
 Location:
+  - "[[Scalecrest Bluffs]]"
 date: 2026-01-17
-fc-date: YYYY-MM-DD
+fc-start: YYYY-MM-DD
+fc-end:
 fc-category: Session
 ---
 # Recap

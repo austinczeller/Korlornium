@@ -6,7 +6,7 @@ Class:
   - Rouge
 Species:
   - "[[Drow]]"
-Organizations:
+Faction:
   - "[[The Red Talons]]"
   - "[[The Salty Bitches]]"
 Location:

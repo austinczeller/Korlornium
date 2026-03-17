@@ -2,8 +2,12 @@
 dg-publish:
 Type: Session
 Location:
+  - "[[Scalecrest Bluffs]]"
+  - "[[Stormveil]]"
+  - "[[The Scar]]"
 date: 2026-02-07
-fc-date: YYYY-MM-DD
+fc-start: 12004-01-25
+fc-end: 12004-01-55
 fc-category: Session
 ---
 # Recap

@@ -7,7 +7,7 @@ Species:
 Location:
   - "[[Saltmire Cay]]"
   - "[[The Salty Bitch]]"
-Organizations: "[[The Salty Bitches]]"
+Faction: "[[The Salty Bitches]]"
 Antagonisic: false
 Crew_Position: Powder Monkey
 ---

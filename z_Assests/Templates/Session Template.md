@@ -26,33 +26,14 @@ action Calendarium: Set Current Date to Next
 color orange
 ```
 
-```button
+```button 
 name New Scene
-type insert
-action ## Scene
-
-> [!Summary]+
-> 
-
-> [!Description]+
-> 
-
-> [!Note]+
-> 
-
-> [!challenge]+
-> 
-
-> [!Combat]+
-> 
-
-> [!quote]+
-> 
-
-color green
+type command
+action Templater: Insert z_Assets/Templates/Scene Template.md
+color green 
 ```
 
-
+NEW SCENE BUTTON DOESNT WORK!!!! >:(
 
 # Callouts
 ctrl+shift+c 

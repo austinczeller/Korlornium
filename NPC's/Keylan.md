@@ -7,7 +7,7 @@ Species:
 Location:
   - "[[Korlornium]]"
   - "[[The Scar]]"
-Organizations:
+Faction:
 Antagonisic:
 Class:
   - Rouge

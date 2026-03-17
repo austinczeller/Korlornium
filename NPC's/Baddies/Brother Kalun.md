@@ -6,6 +6,7 @@ Location:
 Species: "[[Dragonborn]]"
 Type: NPC
 Antagonisic: true
+Faction:
 ---
 
 # Brother Kalun

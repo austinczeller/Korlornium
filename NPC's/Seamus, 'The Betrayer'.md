@@ -6,7 +6,7 @@ Species:
   - "[[Tortle]]"
 Location:
   - "[[Thalmyre]]"
-Organizations:
+Faction:
   - "[[The Rattails]]"
 Antagonisic:
 Class:

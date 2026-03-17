@@ -7,7 +7,7 @@ Location:
   - "[[Saltmire Cay]]"
   - "[[Frostcrag Glade]]"
 Type: NPC
-Organizations: "[[The Red Talons]]"
+Faction: "[[The Red Talons]]"
 Antagonisic: true
 ---
 

@@ -7,6 +7,7 @@ Location:
   - "[[Dithoria City]]"
 Type: NPC
 Antagonisic: true
+Faction:
 ---
 
 # Sister Veyra

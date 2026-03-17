@@ -14,3 +14,10 @@ The Salty Bitches are a gang of adventurers who met in [[Duskwind Landing]]. The
 - [[Soffalie]]
 - [[Picasso]]
 - [[Kel]]
+## Members (NPCs)
+```dataview
+TABLE Species,Faction, Location, Type
+
+WHERE Type= "NPC" and contains(Faction, this.file.link)
+SORT file.mtime DESC
+```

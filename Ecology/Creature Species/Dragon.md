@@ -1,6 +1,9 @@
 ---
 dg-publish:
 Type: Species
+Location:
+  - "[[Dracofold]]"
+  - "[[Erodas]]"
 ---
 # Dragon
 

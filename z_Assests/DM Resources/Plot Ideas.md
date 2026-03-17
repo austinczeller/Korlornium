@@ -60,5 +60,9 @@ Tidemother gate stone. bubblebeard has a clue but they will have to explore a Th
 Someone on Thalmyre will have a picasso pamphlet
 
 
+are the gods in space? where is yyargarisl? they could be in interplanetary space. every year the meteor shower comes the gods renew their power on erodas. maybe the meteors are them or maybe element of them dying? eeeh nah i kinda need them to be on Erodas so that the void rots them. maybe they are underground. OR EACH has to plant a God seed every year. hence the meteor shower. OR OTHER PLANETARY GODS are assisting theem OR ONE GOD is renewing them through stardust? I think stardust is cool. I think it is weird that on Erodas only Korlornium would have god stuff though... maybe the gods are local gods in charge of korlornium. but actually other deities roam throughout erodas? Sorry i remember, the meteor shower IS the void.
 
 
+conspiracy that lizard people are running the government maybe one crazy guys tells them that, and maybe it is TRUE , the leader is constantly disguise self or something to make him appear human.
+
+Earthquake happens and the sea levels rise but also creates a crack in the ethereal chain middle of the scar.

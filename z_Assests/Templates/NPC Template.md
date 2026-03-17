@@ -4,7 +4,7 @@ Alive: true
 Type: NPC
 Species:
 Location:
-Organizations:
+Faction:
 Antagonisic:
 Class:
 ---

@@ -10,6 +10,7 @@ Location:
   - "[[Scalecrest Bluffs]]"
 Type: NPC
 Antagonisic: true
+Faction:
 ---
 # Gork 
 [[Gork]] is a half-[[Orc]], half-[[Goblin]] from [[Dithoria City]]. He has been traveling with [[Zora Meadowlark]] as her rouge/thief. He is a medium sized humanoid with a bit of a hunched back. Looks like a large goblin or a small orc. Hard to say. The small tusks protruding his mouth lean more toward orc but the posture and  and but has a large crooked nose. His skin is a light green but is mostly masked by his black robes. 

@@ -5,7 +5,7 @@ Player: Laura
 Species:
   - "[[Aasimar]]"
 Class: Barbarian
-Organizations:
+Faction:
   - "[[The Salty Bitches]]"
   - "[[Abbey of the Silver Veil]]"
 Location:

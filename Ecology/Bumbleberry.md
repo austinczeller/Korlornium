@@ -1,6 +1,8 @@
 ---
 dg-publish:
 Type: Nature
+Location:
+  - "[[Pugent Delta]]"
 ---
 # [[Bumbleberry]]
 ## Description

@@ -5,7 +5,7 @@ Species:
   - "[[Human]]"
   - "[[Elf]]"
 Player: Rachel
-Organizations: "[[The Silvertree Conservatory]]"
+Faction: "[[The Silvertree Conservatory]]"
 Class: Monk
 Location:
   - "[[Duskwind Landing]]"

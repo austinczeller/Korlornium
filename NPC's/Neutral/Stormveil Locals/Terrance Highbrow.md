@@ -8,6 +8,7 @@ Alive: true
 Antagonisic: true
 Species:
   - "[[Human]]"
+Faction:
 ---
 # Terrance Highbrow
 A rosy cheeked large bodied human male wears a old dusty suit which has been repaired numerous times but nonetheless looks rather dapper compared to many of the townsfolk.

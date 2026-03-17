@@ -8,6 +8,7 @@ Location:
   - "[[Saugeo]]"
 Organizations:
 Antagonisic:
+Faction:
 ---
 
 ---

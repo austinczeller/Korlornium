@@ -4,7 +4,7 @@ Type: NPC
 Alive: true
 Species:
   - Magic- Raven
-Organizations:
+Faction:
   - "[[The Red Talons]]"
   - "[[The Salty Bitches]]"
 Location:

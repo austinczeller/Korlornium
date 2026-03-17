@@ -8,6 +8,7 @@ Alive: true
 Antagonisic: false
 Species:
   - "[[Human]]"
+Faction:
 ---
 # Flint
 ![[Flint.png]]

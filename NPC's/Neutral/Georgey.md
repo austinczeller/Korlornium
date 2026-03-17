@@ -5,7 +5,7 @@ Location:
   - "[[Saugeo]]"
 Species:
   - Cat
-Organizations:
+Faction:
 Antagonisic:
 Alive: true
 ---

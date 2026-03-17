@@ -7,7 +7,7 @@ Species:
 Location:
   - "[[Frostcrag Glade]]"
   - "[[The Scar]]"
-Organizations: "[[The Red Talons]]"
+Faction: "[[The Red Talons]]"
 Antagonisic: false
 ---
 # Torag

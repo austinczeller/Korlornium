@@ -6,7 +6,7 @@ Species:
 Player: Alisha
 Class:
   - Druid
-Organizations:
+Faction:
   - "[[The Salty Bitches]]"
 Location:
   - "[[Duskwind Landing]]"

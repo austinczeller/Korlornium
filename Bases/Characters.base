@@ -213,13 +213,14 @@ views:
     name: The Salty Bitches
     filters:
       or:
-        - Organizations.contains(link("The Salty Bitches"))
+        - Faction.contains(link("The Salty Bitches"))
     order:
       - file.name
       - Player
       - Location
       - Crew_Position
       - Class
+      - Faction
     sort:
       - property: Player
         direction: ASC

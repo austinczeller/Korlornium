@@ -7,3 +7,11 @@ Location:
 # The Council of Dithoria
 
  [[The Council of Dithoria]] is a collection of powerful people within [[Dithoria City]]'s government. They worship [[Dithoria (God)]] and are looking to set [[Dithoria (God)]] free from the [[The Ethereal Chain]].
+
+## Members
+```dataview
+TABLE Species,Faction, Location, Type
+
+WHERE Type= "NPC" and contains(Faction, this.file.link)
+SORT file.mtime DESC
+```

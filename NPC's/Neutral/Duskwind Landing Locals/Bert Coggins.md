@@ -8,6 +8,7 @@ Location:
 Species:
   - "[[Halfling]]"
 Antagonisic: false
+Faction:
 ---
 > "GubGub is the real General around these parts!"
 ## Description

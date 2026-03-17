@@ -8,6 +8,8 @@ Location:
   - "[[Duskwind Landing]]"
   - "[[Rusty Hook]]"
 Antagonisic: false
+Faction:
+  - "[[The Rusty Hookers]]"
 ---
 # Ronda Eelfingers
 ![[Ronda_Eelfingers.png]]

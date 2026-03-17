@@ -8,6 +8,7 @@ Location:
   - "[[Mount Redshield]]"
 Type: NPC
 Antagonisic: false
+Faction:
 ---
 
 Melkor is a funny sassy [[Gnome|gnome]] who has a wife and a young son. 

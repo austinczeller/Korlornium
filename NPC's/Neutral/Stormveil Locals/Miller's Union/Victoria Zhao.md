@@ -4,7 +4,7 @@ Type: NPC
 Location:
   - "[[Stormveil]]"
 Alive: true
-Organizations: "[[The Miller's Union]]"
+Faction: "[[The Miller's Union]]"
 Antagonisic: false
 Species:
   - "[[Human]]"

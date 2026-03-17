@@ -13,4 +13,10 @@ Location:
 [[Brick Ford]]
 [[Nixz]]
 [[Morty Irvine]]
+## Members
+```dataview
+TABLE Species,Faction, Location, Type
 
+WHERE Type= "NPC" and contains(Faction, this.file.link)
+SORT file.mtime DESC
+```

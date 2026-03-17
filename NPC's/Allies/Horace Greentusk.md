@@ -6,6 +6,7 @@ Species: "[[Orc]]"
 Location:
   - "[[Duskwind Landing]]"
 Antagonisic: false
+Faction:
 ---
 # Horace Greentusk
 ![[Horace_Greentusk.png]]

@@ -6,7 +6,7 @@ Species:
 Location:
   - "[[Heaven's Hole]]"
 Alive: true
-Organizations: "[[The Community at Heaven's Hole]]"
+Faction: "[[The Community at Heaven's Hole]]"
 Antagonisic: false
 ---
 # Topaz

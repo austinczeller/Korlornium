@@ -11,7 +11,13 @@ Location:
 
 They had a pretty nice beachside estate on the shores of [[Thalmyre]] overlooking [[The Scar]].
 
+## Members
+```dataview
+TABLE Species,Faction, Location, Type
 
+WHERE Type= "NPC" and contains(Faction, this.file.link)
+SORT file.mtime DESC
+```
 ## Related Articles
 ```dataview
 TABLE Type  

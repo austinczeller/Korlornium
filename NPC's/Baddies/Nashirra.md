@@ -9,6 +9,7 @@ Location:
   - "[[The Scar]]"
 Type: NPC
 Antagonisic: true
+Faction:
 ---
 # Nashirra
 

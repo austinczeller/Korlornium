@@ -1,6 +1,8 @@
 ---
 dg-publish:
 Type: Species
+Location:
+  - "[[The Scar]]"
 ---
 
 # wok-wok

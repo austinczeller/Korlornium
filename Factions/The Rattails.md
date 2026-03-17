@@ -12,6 +12,13 @@ They are led by their wild and very young leader, [[Tompkins 'The Squealer' Long
 
 They recently joined the [[The Hydra (Syndicate)]] by exploding the previous groups' headquarters, [[The Barnicle Boyz]].
 
+## Members
+```dataview
+TABLE Species,Faction, Location, Type
+
+WHERE Type= "NPC" and contains(Faction, this.file.link)
+SORT file.mtime DESC
+```
 
 ## Related Articles
 ```dataview

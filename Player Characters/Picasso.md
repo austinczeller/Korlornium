@@ -8,7 +8,7 @@ Species:
   - "[[Tortle]]"
 Location:
   - "[[The Salty Bitch]]"
-Organizations:
+Faction:
   - "[[The Salty Bitches]]"
   - "[[Cult of Cthulhu]]"
 Crew_Position: First Mate

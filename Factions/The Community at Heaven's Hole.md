@@ -22,4 +22,11 @@ Due to the small population (~50 members), young members are encouraged to leave
 - [[Deepseer Poppy]] – The eldest member of the community, who has bathed in Heaven’s Hole more than any other. She speaks in dreamlike riddles and sometimes drifts between reality and visions. Some claim she is half-present in the [[Feywild]] already.
 - [[Thorne]] 
 - [[Numa]]
-- 
+
+## Members
+```dataview
+TABLE Species,Faction, Location, Type
+
+WHERE Type= "NPC" and contains(Faction, this.file.link)
+SORT file.mtime DESC
+```

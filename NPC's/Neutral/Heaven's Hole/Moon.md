@@ -6,7 +6,7 @@ Location:
   - "[[Heaven's Hole]]"
 Species:
   - "[[Human]]"
-Organizations: "[[The Community at Heaven's Hole]]"
+Faction: "[[The Community at Heaven's Hole]]"
 Antagonisic: false
 ---
 # Moon

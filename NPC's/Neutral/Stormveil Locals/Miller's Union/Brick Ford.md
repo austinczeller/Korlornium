@@ -6,7 +6,7 @@ Location:
 Species:
   - "[[Dwarf]]"
 Antagonisic: false
-Organizations: "[[The Miller's Union]]"
+Faction: "[[The Miller's Union]]"
 ---
 
 # Brick Ford

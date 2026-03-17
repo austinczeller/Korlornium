@@ -7,7 +7,7 @@ Species:
 Location:
   - "[[Agite Mountains]]"
   - "[[Duskwind Landing]]"
-Organizations: "[[Clasphand's Hammers]]"
+Faction: "[[Clasphand's Hammers]]"
 Antagonisic: false
 ---
 # Marc Clasphand

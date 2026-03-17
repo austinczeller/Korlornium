@@ -8,6 +8,7 @@ Location:
   - "[[Pugent Delta]]"
   - "[[Heaven's Hole]]"
 Antagonisic: false
+Faction:
 ---
 # Nilah
 ![[Nilah.png]]

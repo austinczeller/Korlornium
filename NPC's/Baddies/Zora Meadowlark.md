@@ -9,6 +9,7 @@ Location:
 Species:
   - "[[Drow]]"
 Antagonisic: true
+Faction:
 ---
 # Zora Meadowlark
 ![[Zora_Meadowlark.png]]

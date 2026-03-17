@@ -223,14 +223,11 @@
           "note": null,
           "type": "Recurring",
           "date": {
-            "day": [
-              40,
-              40
-            ],
+            "day": 40,
             "month": 1,
             "year": [
-              1,
-              9999
+              null,
+              null
             ]
           },
           "category": "ID_38cbc8aa1bf9",
@@ -258,20 +255,43 @@
         },
         {
           "name": "Winter Solstice",
-          "description": "<p>The winter solstice marks the shortest day and longest night of the year, when the sun is at its lowest arc in the sky.</p>",
+          "description": "The winter solstice marks the shortest day and longest night of the year, when the sun is at its lowest arc in the sky.",
           "id": "3544413",
           "note": null,
-          "type": "Undated",
+          "type": "Recurring",
           "date": {
-            "day": null,
-            "year": null,
-            "month": null
+            "day": 40,
+            "month": 3,
+            "year": [
+              null,
+              null
+            ]
           },
-          "category": null,
+          "category": "ID_38cbc8aa1bf9",
           "sort": {
             "order": "",
             "timestamp": 0
           }
+        },
+        {
+          "name": "The Severance",
+          "description": "Ancient holiday whose meaning has been lost over time with religious undertones.",
+          "date": {
+            "day": 24,
+            "month": 3,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "id": "ID_7b2958892858",
+          "note": "Calendar/Holidays/The Severance.md",
+          "category": "ID_3b09cb8a5879",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
         }
       ],
       "categories": [
@@ -289,6 +309,21 @@
           "id": "ID_6818fac81b9b",
           "color": "#ae02dd",
           "name": "Cultural Holiday"
+        },
+        {
+          "id": "ID_b8e9c8e94b88",
+          "color": "#9c9ced",
+          "name": "Era"
+        },
+        {
+          "id": "ID_0a19399aa97a",
+          "color": "#f76283",
+          "name": "Event"
+        },
+        {
+          "id": "ID_9b4a0959e928",
+          "color": "#f9a895",
+          "name": "Session"
         }
       ],
       "path": [],

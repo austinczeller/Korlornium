@@ -6,7 +6,7 @@ Type:
 ## Description
 A book written by [[The Miller's Union]] in [[Stormveil]].
 
-It was inspired by the words of [[Picasso]] disguised as "Gus"
+It was inspired by the words of [[Picasso]] disguised as "Gus".
 
 
 ## Related Articles

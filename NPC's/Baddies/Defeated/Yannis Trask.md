@@ -7,6 +7,7 @@ Location:
   - "[[Duskwind Landing]]"
 Species: "[[Dwarf]]"
 Antagonisic: true
+Faction:
 ---
 # Yannis Trask
 ![[Yannis_Trask.png]]

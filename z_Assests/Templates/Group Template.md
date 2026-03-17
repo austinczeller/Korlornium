@@ -1,15 +1,15 @@
 ---
-Type: Group
+Type: Faction
 Location:
 ---
 <%* let title = tp.file.title || await tp.system.prompt("Article Name"); -%>
-# [[<% title %>]]
+# [[<% tp.file.title %>]]
 
 ## Members
 ```dataview
 TABLE Type, Location
 
-WHERE contains(Organizations, this.file.link)
+WHERE Type= "NPC" and contains(Factions, this.file.link)
 SORT file.mtime DESC
 ```
 

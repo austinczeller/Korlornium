@@ -1,7 +1,3 @@
----
-dg-publish:
-Type:
----
 
 <%*
 let filetype = await tp.system.suggester(
@@ -29,17 +25,16 @@ if (filetype === "Location") {
   template = "[[History Template]]";
   await tp.file.move("History/" + tp.file.title);
 
-} else if (filetype === "Organization") {
+} else if (filetype === "Faction") {
   template = "[[Group Template]]";
-  await tp.file.move("Organizations/" + tp.file.title);
+  await tp.file.move("Factions/" + tp.file.title);
 }
 
-tR += await tp.file.include(template);
+if (template !== "") {
+  tR += await tp.file.include(template);
+}
 %>
-
-
-<%* let title = tp.file.title || await tp.system.prompt("Article Name"); -%>
-# [[<% title %>]]
+# [[<% tp.file.title %>]]
 
 ## Description
 Placeholder

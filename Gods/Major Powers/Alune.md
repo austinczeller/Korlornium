@@ -12,3 +12,5 @@ Location:
 Her followers often embrace trickery, subterfuge, and guile, seeing deception as both an art and a means of survival. While many fear her influence, others revere her as a protector of outcasts and wanderers, granting safe passage under the cover of darkness. Myths tell of [[Alune]] weaving the first shadows, hiding secrets in the stars, and whispering forbidden truths to those who listen.
 
 Her temples are rare, often disguised as mundane structures or hidden beneath the surface world, known only to those who seek them. Though she is unpredictable and playful, her divine mischief always serves a purpose—whether for good or ill is often left to fate.
+
+Many devout followers believe that [[Alune]] resides on the moon [[Pêpra]]

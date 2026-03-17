@@ -6,7 +6,7 @@ Species: "[[Tiefling]]"
 Location:
   - "[[Heaven's Hole]]"
 Type: NPC
-Organizations: "[[The Community at Heaven's Hole]]"
+Faction: "[[The Community at Heaven's Hole]]"
 Antagonisic: false
 ---
 # Lorikeet

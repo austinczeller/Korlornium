@@ -9,6 +9,7 @@ Alive: true
 Antagonisic: false
 Species:
   - "[[Human]]"
+Faction:
 ---
 # Torren Roughskull
 [[Torren Roughskull]] is the blacksmith in the town [[Stormveil]].

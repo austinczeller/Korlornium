@@ -9,6 +9,7 @@ Location:
   - "[[Casa LeBlanc]]"
   - "[[Heaven's Hole]]"
 Antagonisic: false
+Faction:
 ---
 # Madam LeBlanc
 ![[Madam_LeBlanc.png]]

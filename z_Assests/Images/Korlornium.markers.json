@@ -21,8 +21,8 @@
     {
       "type": "pin",
       "id": "marker_u9irw5",
-      "x": 0.27606395146483054,
-      "y": 0.6456466884450685,
+      "x": 0.22910677640848193,
+      "y": 0.62439739638476,
       "layer": "default",
       "link": "Heaven's Hole",
       "iconKey": "pinRed",
@@ -32,8 +32,8 @@
     {
       "type": "pin",
       "id": "marker_y6t8qz",
-      "x": 0.41653022364968084,
-      "y": 0.5827823012683084,
+      "x": 0.35676654630523713,
+      "y": 0.625280962588616,
       "layer": "default",
       "link": "Duskwind Landing",
       "iconKey": "pinRed",
@@ -43,8 +43,8 @@
     {
       "type": "pin",
       "id": "marker_dlemwh",
-      "x": 0.27918732644275185,
-      "y": 0.7100232502445643,
+      "x": 0.2450366536744983,
+      "y": 0.6827027429098378,
       "layer": "default",
       "link": "Stormveil",
       "iconKey": "pinRed",
@@ -54,8 +54,8 @@
     {
       "type": "pin",
       "id": "marker_fzp1k0",
-      "x": 0.1810916273065447,
-      "y": 0.6267737839826185,
+      "x": 0.16657761743493257,
+      "y": 0.5205272078815399,
       "layer": "default",
       "link": "Saugeo",
       "iconKey": "pinRed",
@@ -65,8 +65,8 @@
     {
       "type": "pin",
       "id": "marker_jau5jj",
-      "x": 0.5174799448155651,
-      "y": 0.37732614688383853,
+      "x": 0.5089422766235018,
+      "y": 0.31357819350322236,
       "layer": "default",
       "link": "Dithoria City",
       "iconKey": "pinRed",
@@ -87,8 +87,8 @@
     {
       "type": "pin",
       "id": "marker_z4oi79",
-      "x": 0.5589259155960804,
-      "y": 0.6404506857209423,
+      "x": 0.5511643990578409,
+      "y": 0.553521693474507,
       "layer": "default",
       "link": "Thalmyre",
       "iconKey": "pinRed",
@@ -97,15 +97,23 @@
     },
     {
       "type": "pin",
-      "id": "marker_nffptw",
-      "x": 0.24678463426702685,
-      "y": 0.596743781120713,
+      "id": "marker_705nim",
+      "x": 0.5844968063160015,
+      "y": 0.41479203677827475,
+      "layer": "default",
+      "link": "The Scar",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_aa9tow",
+      "x": 0.23044143856362884,
+      "y": 0.5428928515873025,
       "layer": "default",
       "link": "Scalecrest Bluffs",
       "iconKey": "pinRed",
-      "tooltip": "",
-      "scaleLikeSticker": true,
-      "iconColor": "#DCBE18"
+      "tooltip": ""
     }
   ],
   "bases": [

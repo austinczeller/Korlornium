@@ -8,7 +8,7 @@ Location:
   - "[[Korlornium]]"
   - "[[Thalmyre]]"
   - "[[The Scar]]"
-Organizations:
+Faction:
   - "[[The Stray Dogs]]"
 Antagonisic:
 Class:

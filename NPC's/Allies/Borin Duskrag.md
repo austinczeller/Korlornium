@@ -7,6 +7,7 @@ Location:
   - "[[Rusty Hook]]"
 Species: "[[Dwarf]]"
 Antagonisic: false
+Faction:
 ---
 # Borin Duskrag
 ![[Borin_Duskrag.png]]

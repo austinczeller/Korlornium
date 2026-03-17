@@ -9,6 +9,7 @@ Location:
 Species:
   - "[[Human]]"
 Antagonisic: false
+Faction:
 ---
 # High Priest Igor
 ## Description

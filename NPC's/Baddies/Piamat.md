@@ -7,6 +7,7 @@ Location:
 Alive: true
 Type: NPC
 Antagonisic: false
+Faction:
 ---
 
 # Piamat

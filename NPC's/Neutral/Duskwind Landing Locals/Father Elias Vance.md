@@ -8,6 +8,8 @@ Location:
   - "[[Duskwind Landing]]"
   - "[[Tidemother Temple of Duskwind]]"
 Antagonisic: false
+Faction:
+  - "[[Tidemother Tempests]]"
 ---
 ![[Father Elias Vance.png]]
 ## Description

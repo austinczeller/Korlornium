@@ -9,6 +9,7 @@ Species:
   - "[[Drow]]"
 Type: NPC
 Antagonisic: true
+Faction:
 ---
 # Sibil Meadowlark
 ![[Pasted image 20260119212141.png]]

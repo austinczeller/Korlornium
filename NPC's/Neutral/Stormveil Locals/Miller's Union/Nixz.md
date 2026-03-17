@@ -8,6 +8,8 @@ Alive: true
 Antagonisic: false
 Species:
   - "[[Goblin]]"
+Faction:
+  - "[[The Miller's Union]]"
 ---
 # Nixz
 ![[Nixz.png]]

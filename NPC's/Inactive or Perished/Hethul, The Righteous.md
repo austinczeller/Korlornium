@@ -10,6 +10,7 @@ Location:
   - "[[Korlornium]]"
   - "[[Dithoria City]]"
 Antagonisic: false
+Faction:
 ---
 # Hethul, The Righteous
 A mighty [[Goliath]] warrior and a leader of old of [[The Righteous Banner]]. He led the troops in the [[Battle of Wyegate]]. 

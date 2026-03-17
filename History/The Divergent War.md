@@ -6,7 +6,7 @@ Location:
   - "[[Caldrith]]"
   - "[[Siroth]]"
 fc-date:
-fc-category: Event
+fc-category: War
 ---
 # The Divergent War
 [[The Divergent War]] refers to the war which followed [[The Red Storm]]. It was named the [[The Divergent War]] because it politically separated [[Siroth]] and [[Caldrith]].

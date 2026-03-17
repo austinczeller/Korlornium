@@ -1,13 +1,13 @@
 ---
 dg-publish:
 Type: NPC
-Organizations: "[[The Miller's Union]]"
 Location:
   - "[[Stormveil]]"
 Alive: true
 Antagonisic: false
 Species:
   - "[[Fowlmen]]"
+Faction: "[[The Miller's Union]]"
 ---
 # Morty Irvine
 [[Morty Irvine]] is a mid-aged [[Fowlmen]] barbarian. 

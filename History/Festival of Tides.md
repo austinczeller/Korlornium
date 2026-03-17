@@ -2,12 +2,11 @@
 Type: Event
 Location:
   - "[[Korlornium]]"
-fc-date:
-  day: 66
-  month: Nhaale (Inhale)
+fc-category: Event
 ---
 # [[Festival of Tides]]
 
-A three day festival celebrated across [[Korlornium]].
-It occurs on the fourth last [[(6) Aquael]] of [[Xhaale (Exhale)]] and spans for three days ending on [[(8) Temprael]].
+A  nautical festival celebrated across [[Korlornium]], originating on [[Thalmyre]] as the day [[The Dread Pirate, Captain Garrick Hollowmaw]] died. Typically festivities last multiple days depending on location.
+
+It occurs on the 45th of [[Xhaale (Exhale)]] yearly.
 

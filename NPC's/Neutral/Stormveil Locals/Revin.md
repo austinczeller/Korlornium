@@ -8,6 +8,7 @@ Alive: true
 Antagonisic: false
 Species:
   - "[[Fowlmen]]"
+Faction:
 ---
 # Revin
 ![[Revin.png]]

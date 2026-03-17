@@ -1,7 +1,7 @@
 ---
 dg-publish:
 Type: NPC
-Organizations: "[[The Miller's Union]]"
+Faction: "[[The Miller's Union]]"
 Location:
   - "[[Stormveil]]"
 Alive: true

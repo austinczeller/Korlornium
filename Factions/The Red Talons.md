@@ -20,3 +20,10 @@ They disbanded after most of the crew was slaughtered by the wizard [[Viros]] in
 - [[Astra]]
 - A [[Fowlmen|Fowlman]]
 - 
+## Members
+```dataview
+TABLE Species,Faction, Location, Type
+
+WHERE Type= "NPC" and contains(Faction, this.file.link)
+SORT file.mtime DESC
+```

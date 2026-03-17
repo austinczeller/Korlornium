@@ -8,37 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "240cb33426c5ce11",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_e94a1b4b6ba9",
-                "ephemeral": {
-                  "viewing": null,
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 66,
-                    "month": 0,
-                    "year": 12004
-                  },
-                  "displayDayNumber": true,
-                  "displaySeasonColors": false,
-                  "interpolateColors": true,
-                  "hideEra": true,
-                  "displayAbsoluteYear": true,
-                  "displayMoons": true,
-                  "displayWeather": true
-                },
-                "id": "ID_0ba878aa7998"
-              },
-              "pinned": true,
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
             "id": "88b9090048cfd0eb",
             "type": "leaf",
             "pinned": true,
@@ -55,105 +24,35 @@
             }
           },
           {
-            "id": "cdc25eed542eecad",
+            "id": "859f83657e49669f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Things and Objects/Books/Millman's Manifesto.md",
+                "file": "Factions/The Miller's Union.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Millman's Manifesto"
+              "title": "The Miller's Union"
             }
           },
           {
-            "id": "3eb89e29ac32e062",
+            "id": "d88d5ef1168cafd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/The Erodian Standard Calendar.md",
+                "file": "Celestial Bodies/Pêpra.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Erodian Standard Calendar"
+              "title": "Pêpra"
             }
           },
           {
-            "id": "72430cd23bc16fd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/The Stray Dogs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Stray Dogs"
-            }
-          },
-          {
-            "id": "ed86a8b2696d046e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Assests/DM Resources/Plot Ideas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plot Ideas"
-            }
-          },
-          {
-            "id": "b3c6cf2fd14f51b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC's/Sterrak Gauge.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sterrak Gauge"
-            }
-          },
-          {
-            "id": "590f395db9b9482f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Session 19- A New Chapter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 19- A New Chapter"
-            }
-          },
-          {
-            "id": "e68ed5ed00f14394",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Session 18- Exit the Hole.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 18- Exit the Hole"
-            }
-          },
-          {
-            "id": "acbd9ea3e6fd83cd",
+            "id": "196701874d8452da",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,108 +63,9 @@
               },
               "icon": "lucide-file",
               "title": "Article Template"
-            }
-          },
-          {
-            "id": "8ca0bc8726a7b95d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Assests/Templates/Article Template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Article Template"
-            }
-          },
-          {
-            "id": "b056e66044465c5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Assests/Templates/Item Template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Item Template"
-            }
-          },
-          {
-            "id": "256eb6394af9b6b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Assests/Templates/Group Template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Group Template"
-            }
-          },
-          {
-            "id": "21b5bd98f179b7d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC's/Seamus, 'The Betrayer'.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Seamus, 'The Betrayer'"
-            }
-          },
-          {
-            "id": "52d36a692b732d18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/Holidays/The Severance.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Severance"
-            }
-          },
-          {
-            "id": "953cd6890a98bdb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Assests/Templates/Session Template.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Session Template"
-            }
-          },
-          {
-            "id": "48b38ec80f7638a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Assests/Templates/Session Template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session Template"
             }
           }
-        ],
-        "currentTab": 16
+        ]
       }
     ],
     "direction": "vertical"
@@ -322,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5124969482422
+    "width": 530.5124969482422
   },
   "right": {
     "id": "7dd0d5abf5dcc402",
@@ -348,22 +148,12 @@
             }
           },
           {
-            "id": "804dc0a28b72e8e4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "761cd358ecfdf69c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Assests/Templates/Session Template.md",
+                "file": "Homepage.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -373,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session Template"
+              "title": "Backlinks for Homepage"
             }
           },
           {
@@ -382,12 +172,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 16- Dragonfly to Dragon.md",
+                "file": "Sessions/Session 1- Sea Rot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 16- Dragonfly to Dragon"
+              "title": "Outgoing links from Session 1- Sea Rot"
             }
           },
           {
@@ -396,15 +186,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Festival of Tides.md",
+                "file": "Sessions/Session 1- Sea Rot.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Festival of Tides"
+              "title": "Outline of Session 1- Sea Rot"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6a42f5124c3faf8f",
+        "type": "tabs",
+        "children": [
           {
             "id": "d4d564cc3121e525",
             "type": "leaf",
@@ -415,7 +212,7 @@
                 "ephemeral": {
                   "viewState": 1,
                   "displaying": {
-                    "day": 51,
+                    "day": 56,
                     "month": 0,
                     "year": 12004
                   },
@@ -431,13 +228,11 @@
               "title": "Calendarium"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 480.5,
-    "collapsed": true
+    "width": 473.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -458,56 +253,57 @@
       "obsidian-git:Open Git source control": false,
       "homepage:Open homepage": false,
       "callout-manager:Insert Callout": false,
-      "calendarium:Open Calendarium": false
+      "random-note:Open random note": false
     }
   },
-  "active": "48b38ec80f7638a3",
+  "active": "88b9090048cfd0eb",
   "lastOpenFiles": [
-    "Sessions/Untitled.md",
+    "Celestial Bodies/Pêpra.md",
+    "Celestial Bodies/Julie's Belt.md",
+    "Factions/Murky Bellows.md",
+    "z_Assests/Templates/Article Template.md",
+    "Gods/Divine Seed.md",
+    "NPC's/Porrock, the Dim.md",
+    "World (Erodas)/Untitled.md",
+    "NPC's/Untitled.md",
+    "Celestial Bodies/Têthra.md",
+    "Gods/Major Powers/Alune.md",
+    "Gods/Major Powers/Tidemother.md",
+    "Gods/Spectral Aurora.md",
+    "tidal moon.md",
+    "History/The Great Wave.md",
+    "History/The Severance.md",
+    "Sessions/Session 18- Exit the Hole.md",
+    "Sessions/Session 19- A New Chapter.md",
+    "Sessions/Session 20- At Sea.md",
+    "Sessions/Session 1- Sea Rot.md",
+    "z_Assests/Templates/Scene Template.md",
     "z_Assests/Templates/Session Template.md",
-    "Homepage.md",
+    "z_Assests/Templates/NPC Template.md",
+    "z_Assests/Templates/Monster Template.md",
+    "z_Assests/Templates/History Template.md",
     "z_Assests/Templates/Item Template.md",
     "z_Assests/Templates/Group Template.md",
-    "Factions/The Righteous Banner.md",
-    "Factions/The Rellian Dynasty.md",
-    "NPC's/Eotanna.md",
-    "Factions/The Red Talons.md",
-    "Factions/The Rattails.md",
-    "Factions/The Miller's Union.md",
-    "Factions/The Hydra (Syndicate).md",
-    "Factions/The Erodian Atlasing Society.md",
-    "Factions/The Council of Dithoria.md",
-    "Factions/The Community at Heaven's Hole.md",
-    "Factions/The Barnicle Boyz.md",
-    "Factions/Murky Bellows.md",
-    "Factions/Clasphand's Hammers.md",
-    "z_Assests/Templates/Article Template.md",
-    "World (Erodas)/Untitled.md",
-    "Calendar/Holidays/The Severance.md",
-    "Things and Objects/Books/Water Vessels for Fools.md",
-    "NPC's/Untitled.md",
-    "Things and Objects/Books/General Histories of Korlornium.md",
-    "Sessions/Session 19- A New Chapter.md",
-    "Calendar/Holidays",
-    "Thalmyre2.xcf",
-    "Thalmyre.xcf",
+    "Untitled",
+    "z_Assests/Images/~halmyre.tmp",
+    "z_Assests/Images/thalmyre.png",
+    "z_Assests/DM Resources/Monster Manual.pdf",
+    "z_Assests/DM Resources/Limithron's Guide to Naval Combat - Free.pdf",
+    "z_Assests/DM Resources/Unearthed Arcana- Of Ships and the Sea.pdf",
+    "Celestial Bodies",
+    "Bases/Session.base",
+    "Bases/Groups.base",
+    "Bases/Locations.base",
+    "Bases/Characters.base",
     "z_Assests/Images/Character portaits/Pasted image 20260119212141.png",
     "z_Assests/Images/Character portaits/Sibil_Meadowlark.png",
-    "Ecology",
     "z_Assests/Images/Sibil_alternate.png",
     "z_Assests/Images/Void_rock.png",
-    "z_Assests/Images/~ibberling_Hole.tmp",
     "z_Assests/Images/Gibberling_Hole.png",
     "z_Assests/Images/Gibberling_slug.png",
-    "z_Assests/Images/Glowing Cavern.jpeg.~tmp",
     "z_Assests/Images/Glowing Cavern.jpeg",
     "z_Assests/Images/Corrupted Dungeon Map.png",
-    "Bases/Session.base",
-    "Calendar/Months",
-    "Calendar",
-    "History/Untitled",
     "z_Assests/Images/Korlornium.png",
-    "z_Assests/Images/Korlornium 1.png",
     "z_Assests/DM Resources/Session Canvas.canvas",
     "Resources/Untitled.canvas"
   ]

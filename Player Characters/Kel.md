@@ -5,7 +5,7 @@ Player: Kevin
 Class:
   - Bard
   - Paladin
-Organizations: "[[The Salty Bitches]]"
+Faction: "[[The Salty Bitches]]"
 Location:
   - "[[Duskwind Landing]]"
   - "[[The Salty Bitch]]"

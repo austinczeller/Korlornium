@@ -2,7 +2,7 @@
 dg-publish:
 Type: Asset
 ---
-# [[Homepage]]
+# Homepage
 
 
 ```zoommap
@@ -12,7 +12,7 @@ imageBases:
 markers: z_Assests/Images/Korlornium.markers.json
 markerLayers:
   - Default
-minZoom: 0.25
+minZoom: 0.1
 maxZoom: 8
 wrap: false
 responsive: false
@@ -40,11 +40,11 @@ color orange
 ## !! TO DO !!
 - make start and end fc-date for sessions
 - Makes some holidays
+	`- meteor shower
 - Property to make something MOC?
 	- Like checkbox. You check it once you think it deserves a MOC. Should this be only locations? likely. We will need to have sections for every note type related to that location. 
 	- Requires updating location template. Should there be a MOC template?? 
-- Fill in the world map more. 
-- Change groups / organizations to factions in all notes
+- Make the [[Millman's Manifesto]]
 - 
 
 ## Welcome to Korlornium

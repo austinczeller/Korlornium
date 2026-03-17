@@ -8,7 +8,7 @@ Location:
   - "[[Agite Mountains]]"
   - "[[Duskwind Landing]]"
   - "[[Frostcrag Glade]]"
-Organizations: "[[Clasphand's Hammers]]"
+Faction: "[[Clasphand's Hammers]]"
 Antagonisic: false
 ---
 

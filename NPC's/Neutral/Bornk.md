@@ -6,7 +6,7 @@ Species:
   - "[[Dwarf]]"
 Location:
   - "[[Agite Mountains]]"
-Organizations:
+Faction:
 Antagonisic:
 ---
 

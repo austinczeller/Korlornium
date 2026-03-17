@@ -6,7 +6,7 @@ Species:
   - "[[Human]]"
 Location:
   - "[[Heaven's Hole]]"
-Organizations: "[[The Community at Heaven's Hole]]"
+Faction: "[[The Community at Heaven's Hole]]"
 Antagonisic: false
 ---
 # Xeric

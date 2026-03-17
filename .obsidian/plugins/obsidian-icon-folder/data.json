@@ -1,0 +1,52 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiList",
+      "LiMoonStar",
+      "LiTrees",
+      "LiComponent",
+      "LiVenetianMask"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Sessions": "LiBackpack",
+  "World (Erodas)": "LiGlobe2",
+  "Species": "LiDna",
+  "Homepage.md": "LiHomepage",
+  "Things and Objects": "LiSword",
+  "Player Characters": "LiVenetianMask",
+  "z_Assests": "LiArchive",
+  "Planes": "LiBox",
+  "NPC's": "LiPersonStanding",
+  "History": "LiScroll",
+  "Gods": "LiStars",
+  "Factions": "LiComponent",
+  "Ecology": "LiTrees",
+  "Celestial Bodies": "LiMoonStar",
+  "Bases": "LiList"
+}

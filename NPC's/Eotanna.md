@@ -6,7 +6,7 @@ Species:
   - "[[Elf]]"
 Location:
   - "[[Pugent Delta]]"
-Organizations:
+Faction:
 Antagonisic:
 Class:
 ---

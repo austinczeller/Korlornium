@@ -3,6 +3,9 @@ dg-publish:
 Type: Session
 date: 2025-02-28
 Location: "[[Duskwind Landing]]"
+fc-start:
+fc-end:
+fc-category: Session
 ---
 
 # Sea Rot

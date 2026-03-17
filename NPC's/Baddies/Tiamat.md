@@ -7,6 +7,7 @@ Species:
 Location:
   - "[[The Ethereal Chain]]"
 Antagonisic: true
+Faction:
 ---
 # Tiamat
 Tiamat is the working name of an ancient [[Dragon]] mother who was active in the [[Erodas]].

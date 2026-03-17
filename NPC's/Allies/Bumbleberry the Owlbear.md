@@ -7,6 +7,7 @@ Location:
   - "[[Redbark Docks]]"
 Alive: true
 Antagonisic: false
+Faction:
 ---
 # Bumbleberry the Owlbear
 [[Bumbleberry the Owlbear]] is an adult [[Owlbear]] befriended by [[Soffalie]] in the forest outside of [[Stormveil]]. 

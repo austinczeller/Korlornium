@@ -8,7 +8,7 @@ Location:
   - "[[Wyegate]]"
 Type: NPC
 Antagonisic: false
-Organizations:
+Faction:
   - "[[The Silvertree Conservatory]]"
 ---
 

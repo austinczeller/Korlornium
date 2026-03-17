@@ -8,7 +8,7 @@ Location:
   - "[[Duskwind Landing]]"
   - "[[Frostcrag Glade]]"
   - "[[Agite Mountains]]"
-Organizations: "[[Clasphand's Hammers]]"
+Faction: "[[Clasphand's Hammers]]"
 Antagonisic: false
 ---
 # Alain Clasphand

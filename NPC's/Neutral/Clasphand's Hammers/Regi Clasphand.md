@@ -7,7 +7,7 @@ Location:
   - "[[Duskwind Landing]]"
   - "[[Agite Mountains]]"
 Type: NPC
-Organizations: "[[Clasphand's Hammers]]"
+Faction: "[[Clasphand's Hammers]]"
 Antagonisic: false
 ---
 

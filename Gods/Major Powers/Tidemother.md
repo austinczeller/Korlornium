@@ -15,3 +15,5 @@ She shares a strong kinship with [[Alune]], goddess of the night, as both are mi
 Legends speak of her appearing as a siren, emerging from moonlit waters to lure sailors toward an uncertain fate. Some claim she grants boons to those who amuse her, while others warn that she delights in pulling the arrogant and the unwary into the depths. Despite her unpredictable nature, she is not cruel—only capricious, as wild and untamed as the ocean itself.
 
 Her shrines are found in coastal cities and aboard ships, often adorned with shells, driftwood, and offerings cast into the sea. Those who earn her favor find winds at their back and calm waters ahead, while those who spurn her might never see land again.
+
+Many followers believe that the heart of the [[Tidemother]] exists on the moon [[Têthra]]

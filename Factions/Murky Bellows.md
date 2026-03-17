@@ -18,6 +18,13 @@ Many wealthy merchants recommend them as they are mostly honest when they are fu
 
 > "If you're going to get fucked, at least have a say in how"
 
+## Members
+```dataview
+TABLE Species,Faction, Location, Type
+
+WHERE Type= "NPC" and contains(Faction, this.file.link)
+SORT file.mtime DESC
+```
 ## Related Articles
 ```dataview
 TABLE Type  
