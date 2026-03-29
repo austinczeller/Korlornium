@@ -134,5 +134,9 @@
   "panClamp": true,
   "drawLayers": [],
   "drawings": [],
-  "textLayers": []
+  "textLayers": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "grids": []
 }
