@@ -9,11 +9,9 @@ views:
       - Date
       - Location
     sort:
+      - property: file.name
+        direction: DESC
       - property: IGN-Date
         direction: ASC
-      - property: file.name
-        direction: ASC
-      - property: date
-        direction: DESC
     columnSize:
       note.date: 125

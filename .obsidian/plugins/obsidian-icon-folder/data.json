@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiList",
-      "LiMoonStar",
-      "LiTrees",
-      "LiComponent",
-      "LiVenetianMask"
+      "LiHome",
+      "LiHomepage",
+      "LiSpline",
+      "LiNewspaper",
+      "LiList"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,7 +37,7 @@
   "Sessions": "LiBackpack",
   "World (Erodas)": "LiGlobe2",
   "Species": "LiDna",
-  "Homepage.md": "LiHomepage",
+  "Homepage.md": "LiHome",
   "Things and Objects": "LiSword",
   "Player Characters": "LiVenetianMask",
   "z_Assests": "LiArchive",
@@ -48,5 +48,5 @@
   "Factions": "LiComponent",
   "Ecology": "LiTrees",
   "Celestial Bodies": "LiMoonStar",
-  "Bases": "LiList"
+  "Plot Lines": "LiSpline"
 }

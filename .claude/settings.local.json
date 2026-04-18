@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -v \"^$\")",
+      "Bash(node -e \" const fs = require\\('fs'\\); const src = fs.readFileSync\\('/c/Users/austi/Documents/Korlornium/.obsidian/plugins/obsidian-meta-bind-plugin/main.js', 'utf8'\\); // Find the JS action execution context const idx = src.indexOf\\('type:\\\\\"js\\\\\"'\\); if \\(idx > -1\\) console.log\\(src.substring\\(idx, idx + 500\\)\\); const idx2 = src.indexOf\\('jsFile'\\) > -1 ? src.indexOf\\('jsFile'\\) : src.indexOf\\('runJs'\\); if \\(idx2 > -1\\) console.log\\('---', src.substring\\(idx2, idx2 + 500\\)\\); \")",
+      "Bash(node:*)",
+      "Bash(py:*)"
+    ]
+  }
+}

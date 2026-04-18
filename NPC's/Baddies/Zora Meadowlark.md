@@ -10,6 +10,12 @@ Species:
   - "[[Drow]]"
 Antagonisic: true
 Faction:
+Plot_Lines:
+  - "[[Breaking the Chain]]"
+  - "[[The Void Rot]]"
+  - "[[Nilah's Gate Stone]]"
+  - "[[Veilmaster Madness]]"
+  - "[[The Search for Tidemother Gate Stone]]"
 ---
 # Zora Meadowlark
 ![[Zora_Meadowlark.png]]

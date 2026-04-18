@@ -4,6 +4,11 @@ Type: Session
 Date: 2025-05-02
 Location:
   - "[[Saltmire Cay]]"
+fc-start: 12004-01-12
+fc-end: 12004-01-13
+fc-category: Session
+Plot_Lines:
+  - "[[Breaking the Chain]]"
 ---
 
 ## Recap
@@ -41,7 +46,7 @@ x 5
 Once they kill [[Yannis Trask]] they will likely want to take ownership of the [[The Salty Bitch]].
 [[Borin Duskrag]] suggests that they should get back to [[Duskwind Landing]] quickly as he doesn't want to leave the town alone with [[Father Elias Vance]]. 
 In the captains quarters they find a travel log:
-It shows travel from [[Dithoria City]] and [[Duskwind Landing]], [[Frostcrag Glave]],
+It shows travel from [[Dithoria City]] and [[Duskwind Landing]], [[Frostcrag Glade]],
 [[Rosesholl]] and [[Stormveil]] (near [[Heaven's Hole]])
 
 They will also look for loot:

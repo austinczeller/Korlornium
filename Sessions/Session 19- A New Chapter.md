@@ -6,8 +6,11 @@ Location:
   - "[[Stormveil]]"
   - "[[The Scar]]"
 date: 2026-02-07
-fc-start: 12004-01-25
-fc-end: 12004-01-55
+Plot_Lines:
+  - "[[Breaking the Chain]]"
+  - "[[The Search for Tidemother Gate Stone]]"
+fc-start: 12004-01-58
+fc-end: 12004-01-80
 fc-category: Session
 ---
 # Recap

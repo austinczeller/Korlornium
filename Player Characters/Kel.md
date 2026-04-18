@@ -33,7 +33,7 @@ A sad boy half-orc who's family used to own the [[Side Quest Tavern]] in [[Duskw
 
 
 **Backstory**
-A tavern owner that he inherited from his parents and follower of [[Dithoria (God)]] (Artisan background). Although large and intimating in stature he is a softy at heart and wants to protect people close to him or those he considers allies. He hasn't quite sworn an oath yet because he's still unsure whether he truly believes in everything [[Dithoria (God)]] stands for. When he rages its more of an emotional and angry-fuel anxiety attack. He doesn't like himself when he rages but knows it's for the safety of others - he just wishes he didn't have to rage to help people.
+A tavern owner that he inherited from his parents and follower of [[Forgas]] (Artisan background). Although large and intimating in stature he is a softy at heart and wants to protect people close to him or those he considers allies. He finds meaning in [[Forgas]]'s philosophy of creation — that there is something sacred in making things and bringing life to the world. He hasn't quite sworn an oath yet, still finding his footing in that belief.
 
 
 **Personal Quest**

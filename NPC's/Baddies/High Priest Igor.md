@@ -10,6 +10,8 @@ Species:
   - "[[Human]]"
 Antagonisic: false
 Faction:
+Plot_Lines:
+  - "[[Breaking the Chain]]"
 ---
 # High Priest Igor
 ## Description

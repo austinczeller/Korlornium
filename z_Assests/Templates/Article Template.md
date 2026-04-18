@@ -1,8 +1,8 @@
 
 <%*
 let filetype = await tp.system.suggester(
-  ["Standard", "Location", "NPC", "Faction", "History/Event", "Session", "Item"],
-  ["Standard", "Location", "NPC", "Faction", "History/Event", "Session", "Item"],
+  ["Standard", "Location", "NPC", "Faction", "History/Event", "Session", "Item", "Plot Line", "God", "Species"],
+  ["Standard", "Location", "NPC", "Faction", "History/Event", "Session", "Item", "Plot Line", "God", "Species"],
   false,
   "What are you creating?"
 );
@@ -26,23 +26,23 @@ if (filetype === "Location") {
   await tp.file.move("History/" + tp.file.title);
 
 } else if (filetype === "Faction") {
-  template = "[[Group Template]]";
+  template = "[[Faction Template]]";
   await tp.file.move("Factions/" + tp.file.title);
+
+} else if (filetype === "Plot Line") {
+  template = "[[Plot Line Template]]";
+  await tp.file.move("Plot Lines/" + tp.file.title);
+
+} else if (filetype === "God") {
+  template = "[[God Template]]";
+  await tp.file.move("Gods/" + tp.file.title);
+
+} else if (filetype === "Species") {
+  template = "[[Species Template]]";
+  await tp.file.move("Species/" + tp.file.title);
 }
 
 if (template !== "") {
   tR += await tp.file.include(template);
 }
 %>
-# [[<% tp.file.title %>]]
-
-## Description
-Placeholder
-
-## Related Articles
-```dataview
-TABLE Type  
-WHERE contains(file.outlinks, this.file.link)
-AND file.name != this.file.name
-SORT file.mtime DESC
-```

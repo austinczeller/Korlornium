@@ -1,0 +1,14 @@
+filters:
+  and:
+    - Type == "Nature"
+views:
+  - type: table
+    name: All
+    order:
+      - file.name
+      - Region
+    sort:
+      - property: Region
+        direction: ASC
+      - property: file.name
+        direction: ASC

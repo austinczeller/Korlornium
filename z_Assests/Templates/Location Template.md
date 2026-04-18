@@ -32,16 +32,7 @@ WHERE Type = "Location" AND contains(Location, this.file.link)
  
 ## Notable NPCs
 ```dataview
-TABLE Location, Species, Organizations
-WHERE Type = "NPC" AND contains(Location,this.file.link) OR 
-Type = "PC" AND contains(Location, this.file.link)
+TABLE Location, Species, Faction
+WHERE (Type = "NPC" OR Type = "PC") AND contains(Location, this.file.link)
 ```
 
-
-## Related Articles
-```dataview
-TABLE Type  
-WHERE contains(file.outlinks, this.file.link)
-AND file.name != this.file.name
-SORT file.mtime DESC
-```

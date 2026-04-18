@@ -1,21 +1,22 @@
 [
   "fantasy-name",
-  "obsidian-leaflet-plugin",
   "obsidian-5e-statblocks",
   "digitalgarden",
   "dataview",
   "templater-obsidian",
   "obsidian42-brat",
   "obsidian-meta-bind-plugin",
-  "obsidian-excalidraw-plugin",
   "calendarium",
   "obsidian-git",
   "homepage",
   "extended-graph",
   "maps",
-  "zoom-map",
   "callout-manager",
   "multi-column-markdown",
   "buttons",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "terminal",
+  "zoom-map",
+  "js-engine",
+  "media-extended"
 ]

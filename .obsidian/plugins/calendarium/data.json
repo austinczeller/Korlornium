@@ -194,7 +194,7 @@
         "locations": []
       },
       "current": {
-        "day": 56,
+        "day": 59,
         "month": 0,
         "year": 12004
       },
@@ -292,6 +292,36 @@
             "order": ""
           },
           "type": "Recurring"
+        },
+        {
+          "name": "Tidescrest",
+          "description": "Holiday celebrated in Thalmyre",
+          "date": {
+            "year": [
+              1,
+              null
+            ],
+            "month": 0,
+            "day": [
+              59,
+              61
+            ],
+            "order": ""
+          },
+          "id": "ID_89fa3859294a",
+          "note": "Tidescrest.md",
+          "category": "ID_a8b9d84a58da",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring",
+          "end": {
+            "year": 1,
+            "month": 0,
+            "day": 1,
+            "order": ""
+          }
         }
       ],
       "categories": [
@@ -324,6 +354,11 @@
           "id": "ID_9b4a0959e928",
           "color": "#f9a895",
           "name": "Session"
+        },
+        {
+          "id": "ID_a8b9d84a58da",
+          "color": "#0d6ce8",
+          "name": "Holiday"
         }
       ],
       "path": [],
@@ -336,7 +371,7 @@
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
   "defaultCalendar": "ID_e94a1b4b6ba9",
-  "eventPreview": false,
+  "eventPreview": true,
   "exit": {
     "saving": false,
     "event": false,
@@ -353,13 +388,13 @@
   },
   "debug": true,
   "askedToMoveFC": false,
-  "askedAboutSync": false,
-  "syncBehavior": "Ask",
+  "askedAboutSync": true,
+  "syncBehavior": "Never",
   "inlineEventsTag": null,
   "paths": [
     [
-      "/",
-      "DEFAULT"
+      "History",
+      "ID_e94a1b4b6ba9"
     ]
   ]
 }

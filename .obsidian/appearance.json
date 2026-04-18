@@ -1,8 +1,12 @@
 {
-  "cssTheme": "Reverie",
-  "accentColor": "#731abc",
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "#b95b88",
   "baseFontSize": 15,
   "showRibbon": true,
   "showViewHeader": true,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "scroller-callout"
+  ]
 }

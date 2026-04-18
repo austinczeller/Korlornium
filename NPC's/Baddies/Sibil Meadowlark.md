@@ -10,6 +10,9 @@ Species:
 Type: NPC
 Antagonisic: true
 Faction:
+Plot_Lines:
+  - "[[Breaking the Chain]]"
+  - "[[The Void Rot]]"
 ---
 # Sibil Meadowlark
 ![[Pasted image 20260119212141.png]]

@@ -47,7 +47,6 @@ The vibe is a rainy port town, fairly industrial, has a shady side.
 - [[Shandra Loomens]] is the leader of the druid clan
 
 ```dataview
-TABLE Location, Species, Organizations
-WHERE Type=NPC
-WHERE Location = this.file.link OR Location = this.file.name
+TABLE Location, Species, Faction
+WHERE (Type = "NPC" OR Type = "PC") AND contains(Location, this.file.link)
 ```

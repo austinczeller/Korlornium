@@ -28,6 +28,9 @@ The dragon [[Nilah]] has entrusted [[Thorne]] to take the [[Parsus]] [[Gate Ston
 **Species**: Half-[[Elf]]
 
 ![[Thorne.png]]
+## Notes
+[[Nilah]] is holding onto the [[Parsus]] [[Gate Stone]] until [[Thorne]] is ready.
+
 **Short Description**
 - Half-elf, weird chaotic energy. Described as a buzzing aura.
 - Has mysterious ties to the [[Feywild]]

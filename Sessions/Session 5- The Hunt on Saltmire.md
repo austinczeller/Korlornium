@@ -6,6 +6,12 @@ Location:
   - "[[The Scar]]"
   - "[[The Salty Bitch]]"
   - "[[Saltmire Cay]]"
+fc-start: 12004-01-10
+fc-end: 12004-01-11
+fc-category: Session
+Plot_Lines:
+  - "[[Breaking the Chain]]"
+  - "[[The Red Talons Fate]]"
 ---
 
 ## Recap

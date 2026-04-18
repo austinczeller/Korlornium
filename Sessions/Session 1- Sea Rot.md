@@ -3,9 +3,12 @@ dg-publish:
 Type: Session
 date: 2025-02-28
 Location: "[[Duskwind Landing]]"
-fc-start:
-fc-end:
+fc-start: 12004-01-01
+fc-end: 12004-01-02
 fc-category: Session
+Plot_Lines:
+  - "[[Sea Rot]]"
+  - "[[Gnome Exodus]]"
 ---
 
 # Sea Rot

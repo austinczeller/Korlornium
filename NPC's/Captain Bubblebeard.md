@@ -13,6 +13,8 @@ Class:
   - Warlock
   - Barbarian
   - Werewolf
+Plot_Lines:
+  - "[[The Search for Tidemother Gate Stone]]"
 ---
 ---
 # # [[Captain Bubblebeard]]

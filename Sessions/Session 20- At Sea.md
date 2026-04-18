@@ -2,15 +2,19 @@
 dg-publish:
 Type: Session
 date: 2026-03-07
-fc-start: 12004-01-56
-fc-end: 12004-01-59
+fc-start: 12004-02-31
+fc-end: 12004-02-34
 fc-category: Session
 Location:
   - "[[The Scar]]"
+  - "[[Thalmyre]]"
+Plot_Lines:
+  - "[[Breaking the Chain]]"
+  - "[[The Search for Tidemother Gate Stone]]"
 ---
 
 # Recap
-> [[The Salty Bitches]] flew back to [[Stormveil]] on [[Nilah]] landing in [[Arthur Roughskull]]'s mud hut field. [[Picasso]] fed [[Arthur Roughskull]] a magic egg which instantly killed him and the crew fled into the town. They worked on upgrading the ship while acting as if [[Arthur Roughskull]] was going to help them on their journey. 
+>
 
 
 
@@ -27,14 +31,6 @@ action Calendarium: Set Current Date to Next
 color orange
 ```
 
-```button 
-name New Scene
-type command
-action Templater: Insert z_Assets/Templates/Scene Template.md
-color green 
-```
-
-NEW SCENE BUTTON DOESNT WORK!!!! >:(
 
 # Callouts
 ctrl+shift+c 
@@ -63,6 +59,7 @@ ctrl+shift+c
 
 Tavern with a shell on the door is the neutral one.-- need name
 
+ [[The Salty Bitches]] set sail from [[Stormveil]] across [[The Scar]] bound for [[Thalmyre]]. Mid-voyage, they were boarded by a crew associated with [[The Drifting Bastards]] who flung [[Kobold]]s onto [[The Salty Bitch]], nearly killing [[Picasso]] in the chaos. The crew repelled the attack. They earned the [[Thalmyre]] map from the encounter. Navigating the perilous waters surrounding [[Thalmyre]], they made port and were met by **Tumbo**, the dock warden — a man [[Vel'Korr]] nearly gutted before Tumbo defused the situation by blowing a raspberry on his belly. Tumbo pointed the crew toward a neutral bar called [[Whelk's Landing]], marked by a shell above the door.
 
 # Scene: The Bootie Mates 
 

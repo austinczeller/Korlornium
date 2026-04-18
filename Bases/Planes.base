@@ -1,0 +1,12 @@
+filters:
+  and:
+    - Type == "Plane"
+views:
+  - type: table
+    name: All
+    order:
+      - file.name
+      - Access
+    sort:
+      - property: file.name
+        direction: ASC

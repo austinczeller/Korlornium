@@ -1,6 +1,6 @@
 ---
 dg-publish:
-Type: Group
+Type: Faction
 Location:
   - "[[Thalmyre]]"
   - "[[The Scar]]"

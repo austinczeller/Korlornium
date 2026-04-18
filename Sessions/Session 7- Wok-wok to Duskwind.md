@@ -5,10 +5,16 @@ Date: 2025-06-15
 Location:
   - "[[Saltmire Cay]]"
   - "[[Duskwind Landing]]"
+fc-start: 12004-01-14
+fc-end: 12004-01-16
+fc-category: Session
+Plot_Lines:
+  - "[[Breaking the Chain]]"
+  - "[[Gnome Exodus]]"
 ---
 
 ## Recap
-> players befriended wok-woks and ate wokberries to shrink down enough to squeeze into a magic hole in the tree to rest. They investigated where the ship was located an decided to sneak up on it with the guidance of the wok-woks. They were quickly spotted thanks to a bad sneaking by Velkorr. They initiated combat and found Yannis Trask was just a ghosty boy. Borin was skeptical of this guy and snuck on board and was hiding in a barrel. He popped out to try to join the party in the fight. After defeating the crew, the party searched the captains quarters. They found a couple of magic items, and a ledger that said where the ship has been and plans for future expeditions. It showed travel from [[Dithoria City]] and [[Duskwind Landing]], [[Frostcrag Glave]],
+> players befriended wok-woks and ate wokberries to shrink down enough to squeeze into a magic hole in the tree to rest. They investigated where the ship was located an decided to sneak up on it with the guidance of the wok-woks. They were quickly spotted thanks to a bad sneaking by Velkorr. They initiated combat and found Yannis Trask was just a ghosty boy. Borin was skeptical of this guy and snuck on board and was hiding in a barrel. He popped out to try to join the party in the fight. After defeating the crew, the party searched the captains quarters. They found a couple of magic items, and a ledger that said where the ship has been and plans for future expeditions. It showed travel from [[Dithoria City]] and [[Duskwind Landing]], [[Frostcrag Glade]],
  [[Rosesholl]] and [[Stormveil]] (near [[Heaven's Hole]]).
 
 

@@ -1,6 +1,6 @@
 ---
 dg-publish: true
-Type: Group
+Type: Faction
 Location:
   - "[[Dithoria City]]"
 ---

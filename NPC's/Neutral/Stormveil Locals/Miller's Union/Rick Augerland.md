@@ -8,6 +8,8 @@ Alive: true
 Antagonisic: false
 Species:
   - "[[Dragonborn]]"
+Plot_Lines:
+  - "[[Veilmaster Madness]]"
 ---
 # Rick Augerland
 [[Rick Augerland]] is a tall gold [[Dragonborn]] lumberjack wearing blue and black plaid. He has a MOM tattoo. 

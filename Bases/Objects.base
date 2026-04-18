@@ -1,0 +1,44 @@
+filters:
+  and:
+    - Type.containsAny("Object", "Artifact")
+views:
+  - type: table
+    name: All
+    order:
+      - file.name
+      - Type
+      - Rarity
+      - Owner
+    sort:
+      - property: Type
+        direction: DESC
+      - property: Rarity
+        direction: DESC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Artifacts
+    filters:
+      and:
+        - Type == "Artifact"
+    order:
+      - file.name
+      - Origin
+      - Current_Location
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: By Rarity
+    filters:
+      and:
+        - Type == "Object"
+    order:
+      - file.name
+      - Rarity
+      - Owner
+    sort:
+      - property: Rarity
+        direction: DESC
+      - property: file.name
+        direction: ASC

@@ -4,6 +4,12 @@ Type: Session
 Date: 2025-05-02
 Location:
   - "[[Duskwind Landing]]"
+fc-start: 12004-01-17
+fc-end: 12004-01-18
+fc-category: Session
+Plot_Lines:
+  - "[[Breaking the Chain]]"
+  - "[[The Red Talons Fate]]"
 ---
 
 ## Recap

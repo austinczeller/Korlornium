@@ -65,7 +65,7 @@ My magic started showing early, and it never did what I wanted. Wild, untamed, c
 
   
 
-Except for [[Mother Elyra]]. She was the abbey's leader, a stern but kind woman who saw something in me no one else could. She never tried to cage the storm in me. She tried to teach it to dance. I loved her like a mother. She treated me like a daughter.
+Except for [[Elyra|Mother Elyra]]. She was the abbey's leader, a stern but kind woman who saw something in me no one else could. She never tried to cage the storm in me. She tried to teach it to dance. I loved her like a mother. She treated me like a daughter.
 
   
 

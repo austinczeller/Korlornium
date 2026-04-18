@@ -10,6 +10,8 @@ Antagonisic: false
 Species:
   - "[[Dragonborn]]"
 Faction:
+Plot_Lines:
+  - "[[Veilmaster Madness]]"
 ---
 # Damon Warthelm
 [[Damon Warthelm]] was a large bodied older Dragonborn and the 32nd Veil-father of [[Stormveil]]. 

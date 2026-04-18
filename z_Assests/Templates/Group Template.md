@@ -7,16 +7,8 @@ Location:
 
 ## Members
 ```dataview
-TABLE Type, Location
+TABLE Status, Location
 
-WHERE Type= "NPC" and contains(Factions, this.file.link)
-SORT file.mtime DESC
-```
-
-## Related Articles
-```dataview
-TABLE Type  
-WHERE contains(file.outlinks, this.file.link)
-AND file.name != this.file.name
+WHERE Type = "NPC" AND contains(Faction, this.file.link)
 SORT file.mtime DESC
 ```

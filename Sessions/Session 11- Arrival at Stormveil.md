@@ -4,7 +4,13 @@ date: 2025-08-03
 Location:
   - "[[The Scar]]"
   - "[[Stormveil]]"
-fc-date: 2004-01-44
+fc-start: 12004-01-26
+fc-end: 12004-01-30
+fc-category: Session
+Plot_Lines:
+  - "[[Breaking the Chain]]"
+  - "[[Veilmaster Madness]]"
+  - "[[Nilah's Gate Stone]]"
 ---
 
 # Recap

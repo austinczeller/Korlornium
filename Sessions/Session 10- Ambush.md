@@ -3,6 +3,13 @@ Type: Session
 Date: 2025-07-06
 Location:
   - "[[The Scar]]"
+fc-start: 12004-01-23
+fc-end: 12004-01-25
+fc-category: Session
+Plot_Lines:
+  - "[[Breaking the Chain]]"
+  - "[[The Red Talons Fate]]"
+  - "[[Nilah's Gate Stone]]"
 ---
 
 ## Recap

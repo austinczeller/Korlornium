@@ -5,8 +5,12 @@ date: 2025-10-03
 Location:
   - "[[Stormveil]]"
   - "[[Heaven's Hole]]"
-fc-date:
-fc-category:
+fc-start: 12004-01-38
+fc-end: 12004-01-40
+fc-category: Session
+Plot_Lines:
+  - "[[Breaking the Chain]]"
+  - "[[Nilah's Gate Stone]]"
 ---
 
 ## Recap

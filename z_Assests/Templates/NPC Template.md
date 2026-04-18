@@ -5,6 +5,7 @@ Type: NPC
 Species:
 Location:
 Faction:
+Plot_Lines:
 Antagonisic:
 Class:
 ---
@@ -31,11 +32,3 @@ let title = tp.file.title || await tp.system.prompt("NPC Name?");
 
 ## Motives
 
-
-## Related Articles
-```dataview
-TABLE Type  
-WHERE contains(file.outlinks, this.file.link)
-AND file.name != this.file.name
-SORT file.mtime DESC
-```

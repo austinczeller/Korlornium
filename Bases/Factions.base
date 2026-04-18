@@ -1,6 +1,6 @@
 filters:
   and:
-    - Type == "Group"
+    - Type == "Faction"
 formulas:
   Number of members: this.file.links
   Members: |

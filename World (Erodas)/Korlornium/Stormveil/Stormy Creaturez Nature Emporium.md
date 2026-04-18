@@ -12,7 +12,7 @@ Place_Description: A small zoo within Stormveil
 A small zoo run by [[Arthur Roughskull]] near his little domes.
 It contains:
 - [[Owlbear]], unruly
-- [[Flying Zeemer]] 
+- [[Flying Zoot]] 
 
 
 

@@ -4,6 +4,12 @@ Type: Session
 date: 2025-08-29
 Location:
   - "[[Stormveil]]"
+fc-start: 12004-01-34
+fc-end: 12004-01-35
+fc-category: Session
+Plot_Lines:
+  - "[[Veilmaster Madness]]"
+  - "[[Breaking the Chain]]"
 ---
 #### Music
 Milling about Stormveil:

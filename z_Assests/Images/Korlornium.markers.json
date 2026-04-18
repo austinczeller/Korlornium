@@ -98,8 +98,8 @@
     {
       "type": "pin",
       "id": "marker_705nim",
-      "x": 0.5844968063160015,
-      "y": 0.41479203677827475,
+      "x": 0.6590252268304914,
+      "y": 0.4122918197706774,
       "layer": "default",
       "link": "The Scar",
       "iconKey": "pinBlue",
@@ -108,8 +108,8 @@
     {
       "type": "pin",
       "id": "marker_aa9tow",
-      "x": 0.23044143856362884,
-      "y": 0.5428928515873025,
+      "x": 0.21251847532542312,
+      "y": 0.5588243744657077,
       "layer": "default",
       "link": "Scalecrest Bluffs",
       "iconKey": "pinRed",

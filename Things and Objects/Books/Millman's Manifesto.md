@@ -1,6 +1,6 @@
 ---
 dg-publish:
-Type:
+Type: Object
 ---
 # [[Millman's Manifesto]]
 ## Description

@@ -1,0 +1,42 @@
+filters:
+  and:
+    - Type == "Event"
+views:
+  - type: table
+    name: All
+    order:
+      - file.name
+      - fc-start
+      - Location
+      - Plot_Lines
+    sort:
+      - property: fc-start
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Holidays
+    filters:
+      and:
+        - fc-type == "holiday"
+    order:
+      - file.name
+      - fc-start
+      - fc-end
+      - Location
+    sort:
+      - property: fc-start
+        direction: ASC
+  - type: table
+    name: Historical Events
+    filters:
+      and:
+        - fc-type != "holiday"
+    order:
+      - file.name
+      - fc-start
+      - Location
+      - Plot_Lines
+    sort:
+      - property: fc-start
+        direction: ASC

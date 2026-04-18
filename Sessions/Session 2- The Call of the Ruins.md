@@ -6,6 +6,13 @@ Location:
   - "[[Duskwind Landing]]"
   - "[[Old Duskwind]]"
   - "[[Driftwood Forest]]"
+fc-start: 12004-01-03
+fc-end: 12004-01-04
+fc-category: Session
+Plot_Lines:
+  - "[[Sea Rot]]"
+  - "[[Gnome Exodus]]"
+  - "[[The Red Talons Fate]]"
 ---
 
 #### Act 1: Setting the Stage (Duskwind Landing)

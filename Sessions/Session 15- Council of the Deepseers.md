@@ -4,8 +4,14 @@ Type: Session
 date: 2025-10-19
 Location:
   - "[[Heaven's Hole]]"
-fc-date:
-fc-category:
+fc-start: 12004-01-41
+fc-end: 12004-01-43
+fc-category: Session
+Plot_Lines:
+  - "[[Breaking the Chain]]"
+  - "[[Nilah's Gate Stone]]"
+  - "[[Picasso's Patron]]"
+  - "[[The Void Rot]]"
 ---
 
 ## Recap

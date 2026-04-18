@@ -1,0 +1,71 @@
+/* =============================================
+   Scrollable Dataview & Bases Embeds
+   Adjust --embed-max-height to taste
+   ============================================= */
+
+:root {
+    --embed-max-height: 400px;
+}
+
+/* ── Method 1: Scroller callout (proven community approach) ──────────────
+   Wrap any content in a > [!scroller] callout to make it scroll.
+   Example:
+     > [!scroller]
+     > ```dataview
+     > TABLE ...
+     > ```
+   ─────────────────────────────────────────────────────────────────────── */
+
+[data-callout="scroller"] .callout-title {
+    display: none;
+}
+[data-callout="scroller"] .callout-content {
+    max-height: var(--embed-max-height);
+    overflow-y: auto;
+    overflow-x: auto;
+}
+
+/* ── Method 2: Direct Dataview targeting ─────────────────────────────── */
+
+/* Outer code block wrapper */
+.block-language-dataview,
+.block-language-dataviewjs {
+    max-height: var(--embed-max-height);
+    overflow: auto;
+}
+
+/* Inner table — prevent it from forcing the container to expand */
+.block-language-dataview .dataview.table-view-table,
+.block-language-dataviewjs .dataview.table-view-table {
+    display: table;
+    width: 100%;
+}
+
+/* ── Embedded Bases (![[file.base]]) ─────────────────────────────────── */
+
+.internal-embed .markdown-embed-content:has(.bases-view) {
+    max-height: var(--embed-max-height);
+    overflow-y: auto;
+}
+
+/* ── Scrollbar styling — subtle, matches Obsidian feel ───────────────── */
+
+[data-callout="scroller"] .callout-content::-webkit-scrollbar,
+.block-language-dataview::-webkit-scrollbar,
+.block-language-dataviewjs::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+
+[data-callout="scroller"] .callout-content::-webkit-scrollbar-track,
+.block-language-dataview::-webkit-scrollbar-track,
+.block-language-dataviewjs::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+[data-callout="scroller"] .callout-content::-webkit-scrollbar-thumb,
+.block-language-dataview::-webkit-scrollbar-thumb,
+.block-language-dataviewjs::-webkit-scrollbar-thumb {
+    background: var(--scrollbar-thumb-bg);
+    border-radius: 3px;
+}

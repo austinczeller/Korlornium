@@ -4,8 +4,12 @@ Type: Session
 date: 2025-09-28
 Location:
   - "[[Stormveil]]"
-fc-date:
+fc-start: 12004-01-36
+fc-end: 12004-01-37
 fc-category: Session
+Plot_Lines:
+  - "[[Veilmaster Madness]]"
+  - "[[Breaking the Chain]]"
 ---
 ## Recap
 > Recap monologue

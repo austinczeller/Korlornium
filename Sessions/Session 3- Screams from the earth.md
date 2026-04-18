@@ -6,6 +6,13 @@ Location:
   - "[[Duskwind Landing]]"
   - "[[Old Duskwind]]"
   - "[[Driftwood Forest]]"
+fc-start: 12004-01-05
+fc-end: 12004-01-06
+fc-category: Session
+Plot_Lines:
+  - "[[Sea Rot]]"
+  - "[[Gnome Exodus]]"
+  - "[[Breaking the Chain]]"
 ---
 
 # Recap

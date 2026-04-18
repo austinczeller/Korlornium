@@ -1,0 +1,28 @@
+filters:
+  and:
+    - Type == "Vessel"
+views:
+  - type: table
+    name: All
+    order:
+      - file.name
+      - Class
+      - Owner
+      - Status
+    sort:
+      - property: Status
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Active
+    filters:
+      and:
+        - Status == "Active"
+    order:
+      - file.name
+      - Class
+      - Owner
+    sort:
+      - property: file.name
+        direction: ASC

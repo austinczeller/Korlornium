@@ -18,6 +18,8 @@ views:
       - file.mtime
     sort:
       - property: Location
+        direction: DESC
+      - property: Species
         direction: ASC
       - property: Organizations
         direction: ASC

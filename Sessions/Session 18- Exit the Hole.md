@@ -4,9 +4,15 @@ Type: Session
 Location:
   - "[[Scalecrest Bluffs]]"
 date: 2026-01-17
-fc-start: YYYY-MM-DD
-fc-end:
+fc-start: 12004-01-51
+fc-end: 12004-01-57
 fc-category: Session
+Plot_Lines:
+  - "[[Breaking the Chain]]"
+  - "[[Nilah's Gate Stone]]"
+  - "[[The Void Rot]]"
+  - "[[The Red Talons Fate]]"
+  - "[[Gnome Exodus]]"
 ---
 # Recap
 > Recap monologue

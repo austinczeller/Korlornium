@@ -8,6 +8,8 @@ Location:
 Type: NPC
 Faction: "[[The Community at Heaven's Hole]]"
 Antagonisic: false
+Plot_Lines:
+  - "[[Veilmaster Madness]]"
 ---
 # Numa
 ![[Nuna 1.png]]

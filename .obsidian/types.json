@@ -7,7 +7,7 @@
     "dg-home": "checkbox",
     "Population": "text",
     "Region": "multitext",
-    "Status": "checkbox",
+    "Status": "text",
     "Alive": "checkbox",
     "Enemy?": "checkbox",
     "Antagonisic": "checkbox",

@@ -8,6 +8,10 @@ Species:
 Location:
   - "[[Frostcrag Glade]]"
 Faction:
+Plot_Lines:
+  - "[[Breaking the Chain]]"
+  - "[[The Red Talons Fate]]"
+  - "[[The Search for Tidemother Gate Stone]]"
 ---
 # Viros
 ## Description

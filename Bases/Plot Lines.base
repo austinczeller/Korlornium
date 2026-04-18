@@ -1,0 +1,37 @@
+filters:
+  and:
+    - Type == "Plot Line"
+views:
+  - type: table
+    name: All
+    order:
+      - file.name
+      - Status
+      - Locations
+    sort:
+      - property: Status
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Active
+    filters:
+      and:
+        - Status == "Active"
+    order:
+      - file.name
+      - Locations
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Complete
+    filters:
+      and:
+        - Status == "Complete"
+    order:
+      - file.name
+      - Locations
+    sort:
+      - property: file.name
+        direction: ASC

@@ -9,6 +9,9 @@ Location:
 Type: NPC
 Faction: "[[The Red Talons]]"
 Antagonisic: true
+Plot_Lines:
+  - "[[The Red Talons Fate]]"
+  - "[[Breaking the Chain]]"
 ---
 
 # Joanos

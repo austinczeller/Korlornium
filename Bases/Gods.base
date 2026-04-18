@@ -1,0 +1,43 @@
+filters:
+  and:
+    - Type == "God"
+views:
+  - type: table
+    name: All
+    order:
+      - file.name
+      - Domain
+      - Status
+      - Worshippers
+      - Holy_Site
+    sort:
+      - property: Status
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Active
+    filters:
+      and:
+        - Status == "Active"
+    order:
+      - file.name
+      - Domain
+      - Worshippers
+      - Holy_Site
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Dead or Imprisoned
+    filters:
+      or:
+        - Status == "Dead"
+        - Status == "Imprisoned"
+    order:
+      - file.name
+      - Domain
+      - Status
+    sort:
+      - property: file.name
+        direction: ASC

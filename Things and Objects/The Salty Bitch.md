@@ -1,6 +1,7 @@
 ---
 dg-publish: false
 Type: Vessel
+Owner: "[[The Salty Bitches]]"
 ---
 # The Salty Bitch
 [[The Salty Bitch]] is a [sailing ship](https://www.dndbeyond.com/vehicles/sailing-ship) previously captained by [[Yannis Trask]], and now operated by [[The Salty Bitches]]. Under previous leadership, the vessel typically sails from [[Duskwind Landing]] to [[Dithoria City]] as a trading vessel. [[Borin Duskrag]] has contested ownership of the ship but relinquished control under an agreement to deliver the weaponry onboard and return with the profits.

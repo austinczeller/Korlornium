@@ -11,9 +11,8 @@ Place_Description: Fey-touched wetlands and forest region
 **Nestled within the [[Pugent Delta]], Heaven’s Hole is a place where the veil between [[The Mundane World]] and the [[Feywild]] is at its thinnest. At its heart lies a deep, iridescent pool—a mysterious gateway rumored to transport those who dare submerge themselves into the enchanting yet perilous [[Feywild]]. Nearby villages like [[Stormveil]] have a bad notion about the hole and warn children not to venture too far into the forest.**
 
 ```dataview
-TABLE Location, Species, Organizations
-WHERE Type = "NPC" AND contains(Location,this.file.link) OR 
-Type = "PC" AND contains(Location, this.file.link)
+TABLE Location, Species, Faction
+WHERE (Type = "NPC" OR Type = "PC") AND contains(Location, this.file.link)
 ```
 
 

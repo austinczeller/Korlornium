@@ -16,10 +16,16 @@ A dive bar, on situated in the isles of [[Thalmyre]], specifically on the island
 The exterior appears to be a old wooden fishing shack but once inside visitors are greeted by a long set of stairs that are sparsely illuminated by torchlight. The stairs descend below the seafloor and a the tavern sits in a completely glass room within the sea. There is intricate figurines and statues littered from across [[Korlornium]] around the tavern with symbols of a forgotten time. The place is busy and appears to have wealth. The mangey pirates inside starkly contrast the quite sleek interior.
 
 
-The tavern serves a specialty dish called [[buttered whelk]] or [[sparklefish]] gumbo.
-They carry the finest [[Dithorian wine]] and [[Agithian Ale]], it seems like a cultural melting pot.
+The tavern serves a specialty dish called buttered whelk or sparklefish gumbo.
+They carry the finest Dithorian wine and [[Agithian Ale]], it seems like a cultural melting pot and highlights the isles of [[Thalmyre]]. 
 
 The tavern is run by a no-nonsense [[Sea-folk]] woman [[Darla Murdinthe]]. She is well respected across pirate gangs and is known as the matriarch. 
+# Menu
+- buttered whelk
+- sparklefish gumbo
+- Rums
+- [[Agithian Ale]]
+- Dithorian wine
 
 ## Places Within 
 ```dataview
@@ -29,9 +35,8 @@ WHERE Type = "Location" AND contains(Location, this.file.link)
  
 ## Notable NPCs
 ```dataview
-TABLE Location, Species, Organizations
-WHERE Type = "NPC" AND contains(Location,this.file.link) OR 
-Type = "PC" AND contains(Location, this.file.link)
+TABLE Location, Species, Faction
+WHERE (Type = "NPC" OR Type = "PC") AND contains(Location, this.file.link)
 ```
 
 

@@ -9,6 +9,10 @@ Location:
   - "[[Heaven's Hole]]"
 Antagonisic: false
 Faction:
+Plot_Lines:
+  - "[[Breaking the Chain]]"
+  - "[[The Void Rot]]"
+  - "[[Nilah's Gate Stone]]"
 ---
 # Nilah
 ![[Nilah.png]]

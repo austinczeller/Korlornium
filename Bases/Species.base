@@ -1,0 +1,16 @@
+filters:
+  and:
+    - Type == "Species"
+views:
+  - type: table
+    name: All
+    order:
+      - file.name
+      - Origin
+      - Typical_Alignment
+      - Subraces
+    sort:
+      - property: Origin
+        direction: ASC
+      - property: file.name
+        direction: ASC

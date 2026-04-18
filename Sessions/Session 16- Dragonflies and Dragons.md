@@ -4,8 +4,12 @@ Type: Session
 Date: 2025-11-29
 Location:
   - "[[Scalecrest Bluffs]]"
-fc-date:
+fc-start: 12004-01-44
+fc-end: 12004-01-47
 fc-category: Session
+Plot_Lines:
+  - "[[Breaking the Chain]]"
+  - "[[Nilah's Gate Stone]]"
 ---
 > [!reminder]
 >  Give the players 3 things they can interact with per description

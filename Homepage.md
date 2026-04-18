@@ -37,19 +37,38 @@ action Calendarium: Set Current Date to Next
 color orange
 ```
 
-## !! TO DO !!
-- make start and end fc-date for sessions
-- Makes some holidays
-	`- meteor shower
-- Property to make something MOC?
-	- Like checkbox. You check it once you think it deserves a MOC. Should this be only locations? likely. We will need to have sections for every note type related to that location. 
-	- Requires updating location template. Should there be a MOC template?? 
-- Make the [[Millman's Manifesto]]
-- 
+## TO DO 
+
+```meta-bind-button
+label: Add Task
+icon: "plus"
+style: primary
+class: ""
+cssStyle: ""
+backgroundImage: ""
+tooltip: ""
+id: ""
+hidden: false
+actions:
+  - type: templaterCreateNote
+    templateFile: z_Assests/Templates/Add Task.md
+    folderPath: z_Assests
+    fileName: "_task_temp"
+    openNote: false
+    openIfAlreadyExists: false
+
+```
+
+```dataview
+TASK
+FROM "z_Assests/To Do"
+WHERE !completed
+```
 
 ## Welcome to Korlornium
 
-> [! Note]+
+## [[The Salty Bitches]]
+> Current Party Level: `= [[The Salty Bitches]].party_level`
 > [[0_Campaign Log|Campaign Log]]
 > ![[Characters.base#The Salty Bitches]]
 ### Create
@@ -112,7 +131,7 @@ actions:
 
 ```
 ```meta-bind-button
-label: New Group/ Organization
+label: New Faction
 icon: ""
 style: default
 class: ""
@@ -123,7 +142,7 @@ id: ""
 hidden: false
 actions:
   - type: templaterCreateNote
-    templateFile: z_Assests/Templates/Group Template.md
+    templateFile: z_Assests/Templates/Faction Template.md
     folderPath: /
     fileName: ""
     openNote: true
@@ -149,6 +168,49 @@ actions:
     openIfAlreadyExists: false
 
 ```
+## Stubs
+```dataviewjs
+const unresolved = app.metadataCache.unresolvedLinks;
+
+const stubMap = {};
+for (const [file, links] of Object.entries(unresolved)) {
+    for (const link of Object.keys(links)) {
+        if (!stubMap[link]) stubMap[link] = [];
+        stubMap[link].push(file);
+    }
+}
+
+const stubs = Object.keys(stubMap);
+if (stubs.length === 0) {
+    dv.paragraph("*All referenced articles have been written. Impressive.*");
+} else {
+    const pick = stubs[Math.floor(Math.random() * stubs.length)];
+    const sources = stubMap[pick];
+
+    dv.paragraph(`*${stubs.length} unwritten articles in the vault.*`);
+    dv.table(
+        ["Stub", "Referenced In", "Type"],
+        sources.map(f => {
+            const path = f.replace(/\.md$/, '');
+            const name = path.split('/').pop();
+            const page = dv.page(f);
+            const type = page?.Type ?? "—";
+            return [`[[${pick}]]`, dv.fileLink(path, name), type];
+        })
+    );
+}
+```
+
+```meta-bind-button
+label: "↺ New Stub"
+icon: "refresh-cw"
+style: default
+hidden: false
+actions:
+  - type: command
+    command: dataview:dataview-force-refresh-views
+```
+
 ## Sessions
 ![[Session.base]]
 ## Ideas Pads
@@ -158,17 +220,5 @@ actions:
 ## Recently Updated Articles
 ![[Recently Updated.base]]
 ## Databases
->[! Note]-
->To best explore databases change the view
+![[Hub.base]]
 
-### NPCs 
-![[Characters.base]]
-### Locations
-![[Locations.base#All]]
-### Groups
-![[Groups.base]]
-
-
-
-
-## End of page

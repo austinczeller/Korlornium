@@ -9,6 +9,8 @@ Location:
 Type: NPC
 Antagonisic: false
 Faction:
+Plot_Lines:
+  - "[[Gnome Exodus]]"
 ---
 
 Melkor is a funny sassy [[Gnome|gnome]] who has a wife and a young son. 

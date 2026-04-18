@@ -21,7 +21,8 @@ Glass right eye.
 
 ## Notable Relationships
 - Civil understanding with temple leader [[Father Elias Vance]]
-- 
+- He is a leader of [[Duskwind Landing]] with [[Father Elias Vance]] and [[Shandra Loomens]]
+- He has ties with the piracy gang [[The Blackwake Company]] as they supply much of the [[Spice]]
 
 ## Location
 - [[Duskwind Landing]] often found in the [[Rusty Hook]].

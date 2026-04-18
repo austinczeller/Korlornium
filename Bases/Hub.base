@@ -1,0 +1,25 @@
+filters:
+  and:
+    - Type == "MOC"
+properties:
+  file.name:
+    displayName: Database
+  cover:
+    displayName: " "
+views:
+  - type: cards
+    name: Databases
+    sort:
+      - property: file.name
+        direction: ASC
+    cover: cover
+    cardSize: 130
+    image: note.cover
+  - type: table
+    name: List
+    order:
+      - file.name
+      - description
+    sort:
+      - property: file.name
+        direction: ASC

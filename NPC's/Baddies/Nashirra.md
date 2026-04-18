@@ -10,6 +10,8 @@ Location:
 Type: NPC
 Antagonisic: true
 Faction:
+Plot_Lines:
+  - "[[Breaking the Chain]]"
 ---
 # Nashirra
 
