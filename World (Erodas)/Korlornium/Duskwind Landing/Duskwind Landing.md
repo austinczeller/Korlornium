@@ -1,11 +1,10 @@
 ---
-dg-publish: true
 Type: Location
-Scale: Settlement
 Location:
   - "[[Pugent Delta]]"
-Place_Category: Town
+Location_Category: Town
 Place_Description: Small fishing and shipping port town
+publish: description
 ---
 # Duskwind Landing
 ## Description
