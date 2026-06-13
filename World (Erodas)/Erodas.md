@@ -1,11 +1,10 @@
 ---
-dg-publish: true
 Type: Location
-Scale: Planet
 Location:
   - "[[The Mundane World]]"
-Place_Category: Nature
+Location_Category: Planet
 Place_Description: Large Earth-like planet
+publish: true
 ---
 # Erodas
 [[Erodas]] is the earth-like planet which contains many continents such as [[Korlornium]].
