@@ -1,10 +1,8 @@
 ---
-dg-publish:
 Type: Location
-Scale: Place
 Location:
   - "[[Duskwind Landing]]"
-Place_Category: Restaurant
+Location_Category: Tavern
 Place_Description: Ice cream stand
 ---
 # Duskwind Delights

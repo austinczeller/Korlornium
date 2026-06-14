@@ -8,3 +8,12 @@ Gnomes are highly secretive, small, and intelligent creatures native to [[Korlor
 Despite their secrecy, gnomes are brilliant craftspeople and skilled magic users, particularly attuned to the weave of magic that runs through the land. Their craftsmanship is highly sought after, and while they rarely invite outsiders into their settlements, they engage in selective trade with multi-cultural cities However, even among those who conduct business with gnomes, few know where their settlements truly lie.
 
 Legends speak of gnome cities hidden in the mist their borders veiled by enchantments that warp the senses of intruders. Some believe that their mastery of concealment extends beyond mere illusion—that the gnomes have woven themselves into the very fabric of the land, existing just beyond the sight of those who do not belong.
+
+```dataviewjs
+dv.header(2, "Notable " + dv.current().file.name);
+dv.table(["Location", "Faction"], 
+  dv.pages()
+    .where(p => (p.Type === "NPC" || p.Type === "PC") && p.Species && dv.array(p.Species).some(s => s && s.path === dv.current().file.path))
+    .map(p => [p.file.link, p.Location, p.Faction])
+);
+```

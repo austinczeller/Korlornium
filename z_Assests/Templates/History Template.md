@@ -1,3 +1,4 @@
+<%* -%>
 ---
 Type: Event
 fc-date: YYYY-MM-DD

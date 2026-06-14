@@ -1,10 +1,8 @@
 ---
-dg-publish:
 Type: Location
-Scale: Place
 Location:
   - "[[Duskwind Landing]]"
-Place_Category: Shop
+Location_Category: Shop
 Place_Description: Fish market and trading hub
 ---
 # Duskwind Fish Market

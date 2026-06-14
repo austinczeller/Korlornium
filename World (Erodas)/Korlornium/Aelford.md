@@ -1,10 +1,8 @@
 ---
-dg-publish: true
 Type: Location
 Location:
   - "[[Pugent Delta]]"
-Scale: Place
-Place_Category: Town
+Location_Category: Town
 Place_Description: Small farming town
 ---
 # Aelford

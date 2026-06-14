@@ -1,8 +1,6 @@
 ---
-dg-publish:
 Type: Location
-Scale: Place
-Place_Category: House
+Location_Category: House
 Place_Description: Mysterious home of Madam LeBlanc
 Location:
   - "[[Feywild]]"

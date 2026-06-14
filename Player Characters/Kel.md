@@ -41,3 +41,4 @@ A tavern owner that he inherited from his parents and follower of [[Forgas]] (Ar
 
 ~~~~~
 anger when people are mistreating their parents
+

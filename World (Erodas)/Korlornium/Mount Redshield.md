@@ -1,10 +1,8 @@
 ---
-dg-publish: true
 Location:
   - "[[Korlornium]]"
 Type: Location
-Scale: Place
-Place_Category: Nature
+Location_Category: Nature
 Place_Description: Massive volcano in Korlornium
 ---
 # Mount Redshield 

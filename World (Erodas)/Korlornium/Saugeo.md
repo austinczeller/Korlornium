@@ -1,11 +1,9 @@
 ---
-dg-publish:
 Type: Location
-Scale: Settlement
 Location:
   - "[[Agite Mountains]]"
 Place_Description: Settlement in the foothills of the Agite Mts
-Place_Category: Town
+Location_Category: Town
 ---
 
 # [[Saugeo]]
@@ -17,7 +15,7 @@ The town is made up of refugees from a mining disaster in the [[Agite Mountains]
 
 ## Places Within 
 ```dataview
-TABLE Scale,Location,Place_Category, Place_Description 
+TABLE Location_Category,Location,Place_Description 
 WHERE Type = "Location" AND contains(Location, this.file.link)
 ```
  

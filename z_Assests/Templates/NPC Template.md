@@ -1,3 +1,4 @@
+<%* -%>
 ---
 dg-publish:
 Alive: true

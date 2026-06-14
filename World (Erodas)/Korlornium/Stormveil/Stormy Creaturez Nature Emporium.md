@@ -1,8 +1,6 @@
 ---
-dg-publish:
 Type: Location
-Scale: Place
-Place_Category: Shop
+Location_Category: Shop
 Location:
   - "[[Stormveil]]"
 Place_Description: A small zoo within Stormveil

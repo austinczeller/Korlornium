@@ -1,10 +1,8 @@
 ---
-dg-publish:
 Type: Location
-Scale: Place
 Location:
   - "[[Stormveil]]"
-Place_Category: Shop
+Location_Category: Shop
 Place_Description: General goods store
 ---
 # The Rain Barrell

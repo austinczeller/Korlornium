@@ -1,12 +1,10 @@
 ---
-dg-publish:
 Type: Location
-Scale: Landmass
 Location:
   - "[[Thalmyre]]"
   - "[[The Scar]]"
 Place_Description: A small island in the archipelago in the southern region of Thalmyre
-Place_Category: Island
+Location_Category: Island
 ---
 
 # [[Bent Peter]]
@@ -16,7 +14,7 @@ Place_Category: Island
 
 ## Places Within 
 ```dataview
-TABLE Scale,Location,Place_Category, Place_Description 
+TABLE Location_Category,Location,Place_Description 
 WHERE Type = "Location" AND contains(Location, this.file.link)
 ```
  

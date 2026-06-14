@@ -1,6 +1,8 @@
 ---
 dg-publish:
 Type: Event
+fc-start: 04-24
+fc-end: 04-24
 fc-category: Religious Observance
 ---
 # [[The Severance]]

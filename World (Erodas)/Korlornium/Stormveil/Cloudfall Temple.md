@@ -1,10 +1,8 @@
 ---
-dg-publish:
 Type: Location
-Scale: Place
 Location:
   - "[[Stormveil]]"
-Place_Category: Religious Center
+Location_Category: Temple
 Place_Description: Temple to Parsus
 ---
 # Cloudfall Temple

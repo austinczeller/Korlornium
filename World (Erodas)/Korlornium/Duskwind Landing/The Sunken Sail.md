@@ -1,10 +1,8 @@
 ---
-dg-publish:
 Type: Location
-Scale: Place
 Location:
   - "[[Duskwind Landing]]"
-Place_Category: Tavern
+Location_Category: Tavern
 Place_Description: Tavern made out of ship's hull
 ---
 # The Sunken Sail

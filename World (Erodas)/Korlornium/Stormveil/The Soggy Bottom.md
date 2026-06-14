@@ -1,10 +1,8 @@
 ---
-dg-publish:
 Type: Location
 Location:
   - "[[Stormveil]]"
-Scale: Place
-Place_Category: Tavern
+Location_Category: Tavern
 Place_Description: Barn dive bar
 ---
 # The Soggy Bottom 

@@ -1,3 +1,4 @@
+<%* -%>
 ---
 Type: Faction
 Status: Active
@@ -26,7 +27,7 @@ dg-publish:
 ## Members
 ```dataview
 TABLE Status, Location
-WHERE Type = "NPC" AND contains(Affiliation, this.file.link)
+WHERE Type = "NPC" AND contains(Faction, this.file.link)
 SORT file.mtime DESC
 ```
 

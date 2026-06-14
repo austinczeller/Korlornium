@@ -1,11 +1,9 @@
 ---
-dg-publish: true
 dg-home:
 Type: Location
-Scale: Region
 Location:
   - "[[Korlornium]]"
-Place_Category: Nature
+Location_Category: Waterbody
 Place_Description: Large shallow sea
 ---
 # The Scar

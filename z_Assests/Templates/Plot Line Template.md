@@ -1,3 +1,4 @@
+<%* -%>
 ---
 Type: Plot Line
 Status: Active

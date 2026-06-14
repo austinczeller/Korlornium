@@ -3,6 +3,7 @@ Type: Event
 dg-publish: true
 fc-start: 04-80
 fc-end: 01-01
+fc-category: Holiday
 ---
 
 # Nhaalthurn

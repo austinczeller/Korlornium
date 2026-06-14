@@ -1,8 +1,6 @@
 ---
-dg-publish:
 Type: Location
-Scale: Place
-Place_Category: Shop
+Location_Category: Shop
 Place_Description: General goods store
 Location:
   - "[[Duskwind Landing]]"

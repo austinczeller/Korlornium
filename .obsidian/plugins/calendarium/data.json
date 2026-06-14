@@ -359,6 +359,16 @@
           "id": "ID_a8b9d84a58da",
           "color": "#0d6ce8",
           "name": "Holiday"
+        },
+        {
+          "id": "ID_685ba83bc9aa",
+          "color": "#339e0c",
+          "name": "Religious Observance"
+        },
+        {
+          "id": "ID_982b193b8ad9",
+          "color": "#b57c0a",
+          "name": "War"
         }
       ],
       "path": [],

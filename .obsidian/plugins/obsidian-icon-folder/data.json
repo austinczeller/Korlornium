@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCalendar",
+      "LiDatabase",
       "LiHome",
       "LiHomepage",
-      "LiSpline",
-      "LiNewspaper",
-      "LiList"
+      "LiSpline"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,9 +44,11 @@
   "Planes": "LiBox",
   "NPC's": "LiPersonStanding",
   "History": "LiScroll",
-  "Gods": "LiStars",
   "Factions": "LiComponent",
   "Ecology": "LiTrees",
   "Celestial Bodies": "LiMoonStar",
-  "Plot Lines": "LiSpline"
+  "Plot Lines": "LiSpline",
+  "Bases": "LiDatabase",
+  "History/Calendar": "LiCalendar",
+  "Gods and Higher Powers": "LiStars"
 }

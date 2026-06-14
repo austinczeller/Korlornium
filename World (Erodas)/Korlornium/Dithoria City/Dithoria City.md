@@ -1,11 +1,10 @@
 ---
-dg-publish: true
 Type: Location
-Scale: Settlement
 Location:
   - "[[Caldrith]]"
-Place_Category: City
+Location_Category: City
 Place_Description: Large religious city in Korlornium
+publish: true
 ---
 # Dithoria City
 ## Overview 

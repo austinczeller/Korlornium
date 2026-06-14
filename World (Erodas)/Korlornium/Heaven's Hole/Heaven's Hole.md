@@ -1,10 +1,8 @@
 ---
-dg-publish:
 Type: Location
-Scale: Region
 Location:
   - "[[Pugent Delta]]"
-Place_Category: Nature
+Location_Category: Nature
 Place_Description: Fey-touched wetlands and forest region
 ---
 # **Heaven's Hole**

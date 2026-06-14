@@ -1,0 +1,12 @@
+{
+  "selectedBackground": "none",
+  "pets": [],
+  "nextPetIdCounters": {
+    "pets/vampire-cat": 1,
+    "pets/ghost": 1,
+    "pets/pirate-cat": 1
+  },
+  "overlayMode": true,
+  "indexedFiles": {},
+  "petSize": 2
+}

@@ -2,7 +2,9 @@
 Type: Event
 Location:
   - "[[Korlornium]]"
-fc-category: Event
+fc-start: 03-45
+fc-end: 03-45
+fc-category: Holiday
 ---
 # [[Festival of Tides]]
 

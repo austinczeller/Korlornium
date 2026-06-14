@@ -1,7 +1,7 @@
+<%* -%>
 ---
 dg-publish:
 Type: Species
-Rarity:
 ---
 <%* let title = tp.file.title || await tp.system.prompt("Species Name?"); -%>
 # [[<% title %>]]
@@ -12,8 +12,11 @@ Rarity:
 ## Culture and Society
 
 
-## Notable Members
-```dataview
-TABLE Location, Faction
-WHERE (Type = "NPC" OR Type = "PC") AND contains(Species, this.file.link)
+```dataviewjs
+dv.header(2, "Notable " + dv.current().file.name);
+dv.table(["Location", "Faction"], 
+  dv.pages()
+    .where(p => (p.Type === "NPC" || p.Type === "PC") && p.Species && dv.array(p.Species).some(s => s && s.path === dv.current().file.path))
+    .map(p => [p.file.link, p.Location, p.Faction])
+);
 ```

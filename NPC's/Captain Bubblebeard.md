@@ -1,6 +1,6 @@
 ---
-dg-publish:
-Alive: true
+dg-publish: true
+Alive: false
 Type: NPC
 Species:
   - "[[Bugbear]]"
@@ -12,37 +12,28 @@ Antagonisic:
 Class:
   - Warlock
   - Barbarian
-  - Werewolf
 Plot_Lines:
   - "[[The Search for Tidemother Gate Stone]]"
 ---
----
-# # [[Captain Bubblebeard]]
+# Captain Bubblebeard
 
 ## Description
-[[Captain Bubblebeard]] is a large fearsome pirate and leader of the [[The Stray Dogs]], he was born a werewolf and desires an audience with [[Alune]]. He believes that if the [[Tidemother]] [[Gate Stone]] is destroyed then he will get her attention as the two gods share a deep bond.
 
-He is tall, scarred [[Bugbear]] with one glass eye. He is furry and has a long beard which he often spills his ale in.
-A mist obscures the man's face originating from the broken horn. 
-He is rumored to have possession of the [[Tidemother]] [[Gate Stone]] and was looking to use this as leverage a
+[[Captain Bubblebeard]] was a large, fearsome pirate and leader of [[The Stray Dogs]] — a tall, scarred [[Bugbear]] with one glass eye and a long beard he often spilled his ale in. A mist drifted from his broken horn. He fought with the energy of someone who had never seriously considered losing and the warmth of someone who shook every hand after he knocked its owner down.
 
-## Relationship to party
+He was a werewolf, born with the condition, and sought an audience with [[Alune]] to understand or cure it. He believed destroying the [[Tidemother]] Gate Stone would draw the god's attention.
 
+## Role in the Campaign
+
+Bubblebeard was the keeper of the [[Tidemother]] Gate Stone during [[History/The Tidecrest Tournament of 1190|Tidescrest]]. He fought in the Captains' Brawl on the night the crew arrived, told [[The Salty Bitches]] to find him in the morning, and promised to take them to the stone himself.
+
+He was found dead before morning came — seated in his chair, no visible wounds, glass eye removed. Dark basalt dust was ground into his boot heels. [[Viros]]'s rune network had reached him.
+
+## Legacy
+
+[[Faefi]] used Bubblebeard's hand to push [[Viros]] into the excavation pit at [[Coffin Rock]] — the same pit where Viros had been conducting his ritual using the Gate Stone Bubblebeard had tried to protect. It was as fitting an end as the crew could manage for him.
 
 ## Notable Relationships
 
-
-## Location
-
-
-## Motives
-- Control or cure over his werewolf infliction.
-- 
-
-## Related Articles
-```dataview
-TABLE Type  
-WHERE contains(file.outlinks, this.file.link)
-AND file.name != this.file.name
-SORT file.mtime DESC
-```
+- [[The Stray Dogs]] — his crew
+- [[Darla Murdinthe]] — a figure of mutual respect in [[Thalmyre]]'s neutral territory

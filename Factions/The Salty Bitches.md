@@ -3,7 +3,7 @@ dg-publish:
 Type: Faction
 Location:
   - "[[Korlornium]]"
-party_level: 6
+party_level: 7
 ---
 # The Salty Bitches
 

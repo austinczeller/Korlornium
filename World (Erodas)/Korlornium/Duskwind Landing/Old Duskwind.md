@@ -1,11 +1,9 @@
 ---
-dg-publish:
 Type: Location
-Scale: Place
 Location:
   - "[[Duskwind Landing]]"
   - "[[Driftwood Forest]]"
-Place_Category: Ruins
+Location_Category: Ruin
 Place_Description: Ruins on the outskirts of Duskwind Landing
 ---
 # Old Duskwind

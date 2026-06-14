@@ -1,10 +1,8 @@
 ---
-dg-publish: true
 Type: Location
-Scale: Landmass
 Location:
   - "[[Korlornium]]"
-Place_Category: Nature
+Location_Category: Region
 Place_Description: Western populated half of Korlornium
 ---
 # Caldrith

@@ -1,10 +1,8 @@
 ---
-dg-publish:
 Type: Location
-Scale: Place
 Location:
   - "[[The Scar]]"
-Place_Category: Island
+Location_Category: Island
 Place_Description: Small island used by pirates
 ---
 # Saltmire Cay

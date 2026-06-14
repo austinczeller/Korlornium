@@ -1,11 +1,9 @@
 ---
-dg-publish:
 Type: Location
-Scale: Place
 Location:
   - "[[Thalmyre]]"
 Place_Description: Tavern in the population centre of Thalmyre.
-Place_Category: Tavern
+Location_Category: Tavern
 ---
 
 # [[Whelk's Landing]]
@@ -29,7 +27,7 @@ The tavern is run by a no-nonsense [[Sea-folk]] woman [[Darla Murdinthe]]. She i
 
 ## Places Within 
 ```dataview
-TABLE Scale,Location,Place_Category, Place_Description 
+TABLE Location_Category,Location,Place_Description 
 WHERE Type = "Location" AND contains(Location, this.file.link)
 ```
  

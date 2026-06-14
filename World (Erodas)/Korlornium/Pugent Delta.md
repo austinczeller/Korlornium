@@ -1,10 +1,8 @@
 ---
-dg-publish: true
 Type: Location
-Scale: Region
 Location:
   - "[[Caldrith]]"
-Place_Category: Nature
+Location_Category: Region
 Place_Description: Large fertile region in SW Caldrith
 ---
 # Pugent Delta

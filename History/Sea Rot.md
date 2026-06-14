@@ -4,7 +4,7 @@ Type: Event
 Location:
   - "[[Duskwind Landing]]"
   - "[[Widow's Rook]]"
-fc-date:
+fc-date: 12004-01-01
 fc-category: Event
 ---
 # Sea Rot

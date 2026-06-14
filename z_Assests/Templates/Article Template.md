@@ -1,4 +1,3 @@
-
 <%*
 let filetype = await tp.system.suggester(
   ["Standard", "Location", "NPC", "Faction", "History/Event", "Session", "Item", "Plot Line", "God", "Species"],

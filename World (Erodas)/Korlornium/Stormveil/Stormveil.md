@@ -1,9 +1,8 @@
 ---
 Type: Location
-Scale: Settlement
 Location:
   - "[[Pugent Delta]]"
-Place_Category: Town
+Location_Category: Town
 Place_Description: Small rainy logging town
 ---
 

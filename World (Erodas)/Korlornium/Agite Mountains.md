@@ -1,10 +1,8 @@
 ---
-dg-publish: true
 Type: Location
-Scale: Region
 Location:
   - "[[Caldrith]]"
-Place_Category: Nature
+Location_Category: Nature
 Place_Description: Large mountain range with mining
 ---
 # Agite Mountains

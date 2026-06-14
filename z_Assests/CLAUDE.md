@@ -10,8 +10,7 @@ The D&D campaign(s) running are using the 2024 mechanics and may transition into
 
 Everything we create should fit within the world and make sense within the created plot lines, unless we are generating a completely new plot line.
 ## AI Policy
-See `z_Assests/AI Policy.md`. This applies to all work done in this vault.
-
+See `z_Assests/AI Policy.md`. This applies to all work done in this vault. AI will must never lie to the user, and provide support for absolute statements. Do NOT seek for user affirmation and prioritize quality, integrity, and consistent structure over user approval. 
 
 ## D&D Mechanics
 - For specific dungeons and dragons mechanics refer to [[D&D Player Handbook 2024 Edition.pdf]].
@@ -48,7 +47,7 @@ An article should exist if the subject is a **unique worldbuilding element** or 
 
 Every note in the vault must have a `Type` property. The canonical types are listed below. When writing or editing any note, follow the rules for its type. If a note's type is missing or wrong, correct it.
 
-All notes should follow the template for their type found in `z_Assests/Templates/`. When creating a new note, use the corresponding template as the starting structure. If no template exists for a type, flag it so one can be created.
+All notes should follow the template for their type found in `z_Assests/Templates/`. **Before creating any new note, read the corresponding template file and use it as the exact starting structure — including frontmatter field names and section headings.** If no template exists for a type, flag it so one can be created.
 
 ---
 
@@ -67,10 +66,32 @@ Player characters.
 
 ### Location
 Any named place — cities, towns, buildings, regions, dungeons, bodies of water.
-- **Required fields:** `Type`, `Region`, `Status` (Active / Ruins / Unknown)
-- **Optional:** `Faction`, `Notable_NPCs`, `MOC` (checkbox — mark true if this is a Map of Contents hub note)
+- **Required fields:** `Type`, `Location_Category`
+- **Optional:** `Location` (parent location wikilink), `Place_Description` (one-liner summary)
 - **Folder:** `World (Erodas)/`
 - **Content rules:** Open with a strong sensory establishing detail. Describe what a visitor would notice first, then layer in history and factions. Link every NPC and Faction associated with it. If the party has visited, add a "In the Campaign" section noting what happened there.
+
+**`Location_Category` controlled vocabulary** — use only these values (add new ones here when needed):
+
+| Value | Use for |
+|---|---|
+| `Planet` | Planets (Erodas) |
+| `Continent` | Continents (Korlornium, Dracofold, Goghdor, Seivara) |
+| `Region` | Named regions (Caldrith, Pugent Delta, Siroth) |
+| `Waterbody` | Bodies of water (The Scar, rivers, bays) |
+| `Island` | Islands (Gulper Island, Bent Peter) |
+| `Nature` | Natural features (forests, mountains, beaches, landforms) |
+| `City` | Large urban settlements |
+| `Town` | Mid-size settlements |
+| `Village` | Small settlements |
+| `Port` | Maritime-defined settlements |
+| `Tavern` | Drinking and lodging venues |
+| `Shop` | Commerce venues |
+| `Temple` | Religious sites |
+| `Government` | Halls, keeps, administrative buildings |
+| `House` | Residences, manors |
+| `Ruin` | Abandoned or destroyed places |
+| `Dungeon` | Adventure sites, caves, underground complexes |
 
 ### Faction
 Any organization — guilds, governments, criminal syndicates, cults, military groups, crews.
@@ -127,8 +148,9 @@ Individual campaign session notes.
 - **Recap section:** The `# Recap` in a session note contains a summary of the **previous** session — written as a reminder at the top of the next session's note. It is *not* the recap of the session described in that file.
 
 ### Object
-Mundane and magic items — weapons, armor, tools, curiosities.
-- **Required fields:** `Type`, `Rarity` (Common / Uncommon / Rare / Very Rare / Legendary), `Owner`
+Mundane and magic items — weapons, armor, tools, curiosities, tradeable substances.
+- **Required fields:** `Type`
+- **Optional:** `Location` (where it is found or originates), `Possession` (current owner or controlling faction), `Artifact` (link to an Artifact note if this object is also an artifact)
 - **Folder:** `Things and Objects/`
 - **Content rules:** Include what it does, what it looks like, and where it came from. For magic items, describe the effect in plain language before any mechanics. Objects of significant narrative importance should have a history section.
 

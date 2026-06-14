@@ -33,6 +33,7 @@ She is the elder sister to [[Sibil Meadowlark]].
 - Doesn't mind them and thinks that they might prove useful. 
 - She is in a tenuous alliance with [[The Salty Bitches]] upon meeting them in the presence of [[Nilah]] and the [[Parsus]] [[Gate Stone]]. 
 	- [[Vel'Korr]] and [[Faefi]] agreed to help her aquire the [[Tidemother]] [[Gate Stone]] on [[Thalmyre]] if in turn she lent aid in the murder of [[Viros]].
+- [[Vel'Korr]] and [[Faefi]] have decided to leave the [[The Salty Bitches]] and join [[Zora Meadowlark|Zora's]] crew to search for [[Gate Stone]]s and save the [[The Underdark]] using the [[The Red Talon (Ship)]]
 - 
 
 ## Notable Relationships

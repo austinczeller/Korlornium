@@ -1,10 +1,8 @@
 ---
-dg-publish:
 Type: Location
 Location:
   - "[[Stormveil]]"
-Scale: Place
-Place_Category: Government
+Location_Category: Government
 Place_Description: Governmental office of the Veil-Master
 ---
 # Permitting Office of Stormveil

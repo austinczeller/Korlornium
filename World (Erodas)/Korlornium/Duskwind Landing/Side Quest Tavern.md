@@ -1,10 +1,8 @@
 ---
-dg-publish:
 Type: Location
-Scale: Place
 Location:
   - "[[Duskwind Landing]]"
-Place_Category: Tavern
+Location_Category: Tavern
 Place_Description: Kel's family owned bar (closed)
 ---
 # Side Quest Tavern

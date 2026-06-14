@@ -1,10 +1,8 @@
 ---
-dg-publish:
 Type: Location
-Scale: Region
 Location:
   - "[[Pugent Delta]]"
-Place_Category: Nature
+Location_Category: Waterbody
 Place_Description: Milky white slow river
 ---
 # Ossaline River

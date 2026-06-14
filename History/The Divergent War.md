@@ -5,7 +5,8 @@ Location:
   - "[[Korlornium]]"
   - "[[Caldrith]]"
   - "[[Siroth]]"
-fc-date:
+fc-start: 0032-01-01
+fc-end: 0042-01-01
 fc-category: War
 ---
 # The Divergent War

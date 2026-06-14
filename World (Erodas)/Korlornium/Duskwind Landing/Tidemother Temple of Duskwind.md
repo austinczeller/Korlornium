@@ -1,10 +1,8 @@
 ---
-dg-publish:
 Type: Location
-Scale: Place
 Location:
   - "[[Duskwind Landing]]"
-Place_Category: Religious Center
+Location_Category: Temple
 Place_Description: Temple to the Tidemother
 ---
 # Tidemother Temple of Duskwind

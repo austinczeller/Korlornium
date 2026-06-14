@@ -1,11 +1,9 @@
 ---
-dg-publish:
 Type: Location
-Scale: Place
 Location:
   - "[[Duskwind Landing]]"
   - "[[The Scar]]"
-Place_Category: Nature
+Location_Category: Nature
 Place_Description: Beach with views of The Scar and Widow's Rook
 ---
 # Sapphire Beach

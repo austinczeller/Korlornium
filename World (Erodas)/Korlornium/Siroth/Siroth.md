@@ -1,10 +1,8 @@
 ---
-dg-publish: true
 Type: Location
-Scale: Landmass
 Location:
   - "[[Korlornium]]"
-Place_Category: Nature
+Location_Category: Region
 Place_Description: Eastern sparsely populated half of Korlornium
 ---
 # Siroth
@@ -18,4 +16,4 @@ Despite its harsh environment, [[Siroth]] is rich with ancient history, and expl
 
 The region is contains large [[Dithoria City|Dithorian]] obelisks which transfer magical power to [[Dithoria City]], which powers the anti-magic whitestone which the city is made from.
 
-The largest city in this region is the capital.
+The largest city and capital of the region is [[Cragbrook]].

@@ -1,12 +1,10 @@
 ---
-dg-publish:
 Type: Location
-Scale: Landmass
 Location:
   - "[[The Scar]]"
   - "[[Thalmyre]]"
 Place_Description: A large populated island apart of the archipelago, Thalmyre
-Place_Category: Island
+Location_Category: Island
 ---
 
 # [[The Seat of Thalmyre]]
@@ -18,7 +16,7 @@ There is a strong influence of the pirate syndicate, [[The Hydra (Syndicate)]] a
 
 ## Places Within 
 ```dataview
-TABLE Scale,Location,Place_Category, Place_Description 
+TABLE Location_Category,Location,Place_Description 
 WHERE Type = "Location" AND contains(Location, this.file.link)
 ```
  

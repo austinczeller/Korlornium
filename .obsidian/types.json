@@ -40,6 +40,9 @@
     "IGN-Date": "text",
     "excalidraw-export-internal-links": "checkbox",
     "excalidraw-embed-md": "checkbox",
-    "Artifact": "checkbox"
+    "Artifact": "checkbox",
+    "Location_Category": "text",
+    "Place_Description": "text",
+    "Possession": "multitext"
   }
 }

@@ -1,12 +1,10 @@
 ---
-dg-publish:
 Type: Location
-Scale: Landmass
 Location:
   - "[[Thalmyre]]"
   - "[[The Scar]]"
 Place_Description: A small island in the archipelago of Thalmyre home to lots of good fishing
-Place_Category: Island
+Location_Category: Island
 ---
 
 # [[Gulper Island]]
@@ -16,7 +14,7 @@ This island often sees many visitors from outside [[Thalmyre]] and around [[Korl
 
 ## Places Within 
 ```dataview
-TABLE Scale,Location,Place_Category, Place_Description 
+TABLE Location_Category,Location,Place_Description 
 WHERE Type = "Location" AND contains(Location, this.file.link)
 ```
  

@@ -1,9 +1,8 @@
 ---
 Type: Location
-Scale: Settlement
 Location:
   - "[[Agite Mountains]]"
-Place_Category: Town
+Location_Category: Town
 Place_Description: Medium-sized mining town
 ---
 # Frostcrag Glade

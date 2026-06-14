@@ -5,6 +5,8 @@ Location:
   - "[[Korlornium]]"
   - "[[Caldrith]]"
   - "[[Siroth]]"
+fc-start: 0001-01-01
+fc-end: 0010-04-80
 fc-category: Era
 ---
 # The Red Storm

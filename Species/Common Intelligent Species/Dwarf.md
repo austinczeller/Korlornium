@@ -16,3 +16,12 @@ Dwarves live by a strict code of honor and tradition. They value loyalty, hard w
 Though dwarves are known for their stoic and serious demeanor, they also possess a strong sense of camaraderie and community. Their halls are filled with laughter, song, and the clinking of hammers and anvils as they work together to create the next masterpiece. Dwarven feasts are famous for their hearty food, fine mead, and the sharing of tales and songs passed down through generations.
 
 Dwarves have a deep respect for the history and traditions of their people, and they maintain extensive records of their ancestors' deeds, the great works of craftsmanship, and the tales of their victories and struggles. These records are often stored in vast libraries or vaults deep within their cities, and are considered sacred by dwarven society.
+
+```dataviewjs
+dv.header(2, "Notable " + dv.current().file.name);
+dv.table(["Location", "Faction"], 
+  dv.pages()
+    .where(p => (p.Type === "NPC" || p.Type === "PC") && p.Species && dv.array(p.Species).some(s => s && s.path === dv.current().file.path))
+    .map(p => [p.file.link, p.Location, p.Faction])
+);
+```

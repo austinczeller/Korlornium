@@ -8,3 +8,12 @@ Type: Species
 In ancient times, [[Fowlmen]] thrived as nomadic clans, soaring over dunes and navigating the shifting sands with an instinctual mastery of wind currents. They were deeply revered as seers and scholars, their wisdom sought by desert dwellers. However, during the persecution of magic users, many [[Fowlmen]] were hunted, driven from their ancestral lands, or slain. Some managed to flee deep into the Southern [[Siroth]] Desert, vanishing into the endless sands, while others perished defending their right to wield magic.
 
 Today, sightings of [[Fowlmen]] are rare, and their surviving enclaves remain hidden. Those who still roam the world often do so in secret, wary of outsiders yet still carrying the ancient knowledge of their people.
+
+```dataviewjs
+dv.header(2, "Notable " + dv.current().file.name);
+dv.table(["Location", "Faction"], 
+  dv.pages()
+    .where(p => (p.Type === "NPC" || p.Type === "PC") && p.Species && dv.array(p.Species).some(s => s && s.path === dv.current().file.path))
+    .map(p => [p.file.link, p.Location, p.Faction])
+);
+```

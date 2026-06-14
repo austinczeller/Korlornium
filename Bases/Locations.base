@@ -7,40 +7,43 @@ views:
     order:
       - file.name
       - Location
-      - Scale
-      - Place_Category
+      - Location_Category
       - Place_Description
     sort:
-      - property: Scale
-        direction: DESC
-      - property: Location
-        direction: DESC
+      - property: file.name
+        direction: ASC
     columnSize:
       note.Location: 205
-      note.Scale: 83
-      note.Place_Category: 123
+      note.Location_Category: 123
   - type: table
     name: Settlements
     filters:
       and:
-        - Scale == "Settlement"
+        - Location_Category.containsAny("City", "Town", "Village", "Port")
     order:
       - file.name
       - Location
-      - Scale
-      - Place_Category
+      - Location_Category
       - Place_Description
   - type: table
-    name: Places (fine detail)
+    name: Venues
     filters:
       and:
-        - Scale == "Place"
+        - Location_Category.containsAny("Tavern", "Shop", "Temple", "Government", "House", "Ruin", "Dungeon")
     order:
       - file.name
-      - Scale
-      - Place_Category
-      - Place_Description
       - Location
+      - Location_Category
+      - Place_Description
+  - type: table
+    name: Geographic
+    filters:
+      and:
+        - Location_Category.containsAny("Planet", "Continent", "Region", "Waterbody", "Island", "Nature")
+    order:
+      - file.name
+      - Location_Category
+      - Place_Description
   - type: table
     name: Stormveil
     filters:
@@ -49,18 +52,14 @@ views:
         - file.name == "Stormveil"
     order:
       - file.name
-      - Scale
-      - Place_Category
+      - Location_Category
       - Place_Description
     sort:
-      - property: Scale
-        direction: DESC
-      - property: Location
-        direction: DESC
+      - property: Location_Category
+        direction: ASC
     columnSize:
       note.Location: 165
-      note.Scale: 83
-      note.Place_Category: 111
+      note.Location_Category: 111
   - type: table
     name: Heaven's Hole
     filters:
@@ -69,19 +68,13 @@ views:
         - Location.contains(link("Heaven's Hole"))
     order:
       - file.name
-      - Scale
-      - Place_Category
+      - Location_Category
       - Place_Description
     sort:
-      - property: Scale
+      - property: Location_Category
         direction: ASC
-      - property: file.name
-        direction: ASC
-      - property: Location
-        direction: DESC
     columnSize:
-      note.Scale: 83
-      note.Place_Category: 124
+      note.Location_Category: 124
   - type: table
     name: Duskwind Landing
     filters:
@@ -90,17 +83,13 @@ views:
         - Location.contains(link("Duskwind Landing"))
     order:
       - file.name
-      - Scale
-      - Place_Category
+      - Location_Category
       - Place_Description
     sort:
-      - property: Scale
-        direction: DESC
-      - property: Location
-        direction: DESC
+      - property: Location_Category
+        direction: ASC
     columnSize:
-      note.Place_Category: 111
-      note.Scale: 83
+      note.Location_Category: 111
   - type: table
     name: Dithoria City
     filters:
@@ -109,14 +98,17 @@ views:
         - Location.contains(link("Dithoria City"))
     order:
       - file.name
-      - Scale
-      - Place_Category
+      - Location_Category
       - Place_Description
     sort:
-      - property: Scale
-        direction: DESC
-      - property: Location
-        direction: DESC
+      - property: Location_Category
+        direction: ASC
     columnSize:
-      note.Place_Category: 111
-      note.Scale: 83
+      note.Location_Category: 111
+  - type: table
+    name: Thalmyre
+    order:
+      - file.name
+      - Location_Category
+      - Place_Description
+      - Location

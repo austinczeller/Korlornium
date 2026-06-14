@@ -1,10 +1,8 @@
 ---
-dg-publish:
 Type: Location
-Scale: Place
 Location:
   - "[[Stormveil]]"
-Place_Category: Shop
+Location_Category: Shop
 Place_Description: Blacksmith
 ---
 # Torren's Shop

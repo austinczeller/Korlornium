@@ -1,11 +1,9 @@
 ---
-dg-publish:
 Type: Location
-Scale: Place
 Location:
   - "[[The Scar]]"
   - "[[Duskwind Landing]]"
-Place_Category: Nature
+Location_Category: Nature
 Place_Description: Giant rock offshore of Duskwind Landing
 ---
 # Widow's Rook

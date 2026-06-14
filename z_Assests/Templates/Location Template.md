@@ -1,38 +1,39 @@
+<%*
+let title = tp.file.title || await tp.system.prompt("Location Name");
+
+const categories = [
+    "Planet", "Continent", "Region", "Waterbody", "Island", "Nature",
+    "City", "Town", "Village", "Port",
+    "Tavern", "Shop", "Temple", "Government", "House", "Ruin", "Dungeon",
+    "Add new category..."
+];
+let category = await tp.system.suggester(categories, categories, false, "Location Category");
+if (category === "Add new category...") {
+    category = await tp.system.prompt("Enter new category name:");
+}
+-%>
 ---
-dg-publish:
 Type: Location
-Scale:
+Location_Category: <% category %>
 Location:
 Place_Description:
-Place_Category:
 ---
-
-<%* let title = tp.file.title || await tp.system.prompt("Article Name"); -%>
 # [[<% title %>]]
 
->[! Note]
-> **Scale:** *Continent, Region, Settlement, Landform, Place*
-> > [! example]
-> > **Title:** The Sunken Sail
-> > **Scale:** Place
-> > **Location:** Duskwind Landing
-> > **Place Description:** Tavern
+> [!warning]
+> Reminder to move to appropriate folder: root saves in /World (Erodas)
 
-> [!warning] 
-> Reminder to move to appropriate folder:
-> Root template saves in /World (Erodas)
 ## Description
 
 
-## Places Within 
+## Places Within
 ```dataview
-TABLE Scale,Location,Place_Category, Place_Description 
+TABLE Location_Category, Location, Place_Description
 WHERE Type = "Location" AND contains(Location, this.file.link)
 ```
- 
+
 ## Notable NPCs
 ```dataview
 TABLE Location, Species, Faction
 WHERE (Type = "NPC" OR Type = "PC") AND contains(Location, this.file.link)
 ```
-

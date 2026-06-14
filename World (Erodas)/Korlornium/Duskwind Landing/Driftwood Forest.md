@@ -1,10 +1,8 @@
 ---
-dg-publish:
 Type: Location
-Scale: Place
 Location:
   - "[[Duskwind Landing]]"
-Place_Category: Nature
+Location_Category: Nature
 Place_Description: Forest outside Duskwind Landing
 ---
 # Driftwood Forest
