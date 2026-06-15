@@ -4,6 +4,7 @@ Location:
   - "[[Korlornium]]"
 Location_Category: Region
 Place_Description: Western populated half of Korlornium
+publish: true
 ---
 # Caldrith
 [[Caldrith]] is the western side of the continent of [[Korlornium]].  Caldrith is a forested and mountainous region with scattered wetlands. City centres such as [[Dithoria City]] and [[Konduit]] make up much of the region's population. Southwest [[Konduit]] is sparsely populated full of muskegs and bogs. While the northern expanse is mountainous with scattered small communities typically centered around resource extraction.

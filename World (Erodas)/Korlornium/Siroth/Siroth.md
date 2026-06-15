@@ -4,6 +4,7 @@ Location:
   - "[[Korlornium]]"
 Location_Category: Region
 Place_Description: Eastern sparsely populated half of Korlornium
+publish: true
 ---
 # Siroth
 Siroth is the eastern side of [[Korlornium]], separated from [[Caldrith]] via [[The Scar]]. It is a vast dry landscape full of deserts, dunes, savannahs, and scattered badlands.
